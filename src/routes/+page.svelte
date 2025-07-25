@@ -45,7 +45,14 @@
       ...(cmd.tags ?? [])
     ].join(" ").toLowerCase();
 
-    return terms.every(term => haystack.includes(term));
+    return terms.every(term => {
+      if (term.startsWith("-")) {
+        const negated = term.slice(1);
+        return !haystack.includes(negated);
+      } else {
+        return haystack.includes(term);
+      }
+    });
   });
 
   /**
