@@ -1,7 +1,9 @@
 [
   {
     "command": "/anim desksit1",
-    "keywords": []
+    "keywords": [
+      "sit"
+    ]
   },
   {
     "command": "/anim desksit2",

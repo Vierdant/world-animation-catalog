@@ -1,234 +1,6792 @@
 [
   {
+    "command": "/anim airguitar",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim bro",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim chicken",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim chin",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim claphands",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim crackhands",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim dj",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim dock",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim facepalm",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim finger",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim finger2",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim finger3",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim fingerkiss",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim freakout",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim fuck",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim jazzhands",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim kiss",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim knuckle",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim loco",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim mindreader1",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim mindreader2",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim no",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim nose",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim ok",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim peace",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim photo",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim rock",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim salute",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim salute2",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim shagging",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim shush",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim slowclap",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim surrender",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim synth",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim taunt",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim taunting1",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim taunting2",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim taunting3",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim taunting4",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim taunting5",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim taunting6",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim taunting7",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim thumbs",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim thumbsup",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim vsign",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim wank",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim wave",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim zombie1",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim zombie10",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim zombie11",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim zombie2",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim zombie3",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim zombie4",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim zombie5",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim zombie6",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim zombie7",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim zombie8",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  {
+    "command": "/anim zombie9",
+    "keywords": [
+      "expressions"
+    ]
+  },
+  
+  {
+    "command": "/anim beerhold",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim can1",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim canhold",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim champagnehold",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim ciderhold",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim coffee1",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim coffee2",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim coffeehold",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim coffeehold2",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim emptyglasshold",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim leanbrownbag",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim leandrink",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim leanwine",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim partydancedrinking",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim shot",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim tequilahold",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim walkdrink",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim walkdrink2",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim walkeat1",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim walkeat2",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim walkeat3",
+    "keywords": [
+      "food"
+    ]
+  },
+  {
+    "command": "/anim wineglasshold",
+    "keywords": [
+      "food"
+    ]
+  },
+  
+  {
+    "command": "/anim chidori",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign1",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign10",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign100",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign101",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign102",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign103",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign104",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign105",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign106",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign107",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign108",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign109",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign11",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign110",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign111",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign112",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign113",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign114",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign115",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign116",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign117",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign118",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign119",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign12",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign120",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign121",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign123",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign13",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign14",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign15",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign16",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign17",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign18",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign19",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign2",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign20",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign21",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign22",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign23",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign24",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign25",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign26",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign27",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign28",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign29",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign3",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign30",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign31",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign32",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign33",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign34",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign35",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign36",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign37",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign38",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign39",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign4",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign40",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign41",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign42",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign43",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign44",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign45",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign46",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign47",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign48",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign49",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign5",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign50",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign51",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign52",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign53",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign54",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign55",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign56",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign57",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign58",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign59",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign6",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign60",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign61",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign62",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign63",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign64",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign65",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign66",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign67",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign68",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign69",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign7",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign70",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign71",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign72",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign73",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign74",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign75",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign76",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign77",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign78",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign79",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign8",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign80",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign81",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign82",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign83",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign84",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign85",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign86",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign87",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign88",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign89",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign9",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign90",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign91",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign92",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign93",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign94",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign95",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign96",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign97",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign98",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  {
+    "command": "/anim gangsign99",
+    "keywords": [
+      "gangsigns"
+    ]
+  },
+  
+  {
+    "command": "/anim bodyonground1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim bodyonground2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim checkbody",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim checkbody1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim checkbody2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim checkbody3",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim chillgroundsit",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim chillinggroundsit1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim chillinggroundsit2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim crouch",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim crouched",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim crouched2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim crouched3",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim dead",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim dead2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim dontshoot",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim dontshoot2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim dontshoot3",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim dontshoot4",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim femalecrouch",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim femalefloorcrossing1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim femalefloorcrossing2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim femalefloorcrossing3",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim femalegroundsit",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim femalegroundsit2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim femalegroundsit3",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim femalegroundsit4",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim femalegroundsit5",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim femalehostage1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim femalehostage2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim fix1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim fix2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim fkneel1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim fkneel2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim getup",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim grounddigging",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim groundhurt1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim groundhurt2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim groundhurt3",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim groundhurt4",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim handcuffshostage1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim hostage",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim kickedonground",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim legscrossedground",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim malegroundsit2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim malenewgroundsit",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim malesitground1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim malesitground2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim malesitground3",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim massageonground",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim meditate",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim onground",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim ontheground",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim pickupbody",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim prone",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim seizure",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim sitground",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim sitground2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim sitground3",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim sitground4",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim sitground5",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim sitground6",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim sitgroundvideogame",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim takingcover1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim takingcover2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim takingcover3",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim thinkingcrouch1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim thinkingcrouch2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim thinkinggroundsit1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim thinkinggroundsit2",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim thinkinggroundsit3",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim thinkinggroundsit4",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim thinkinggroundsit5",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim throwuptoilet",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim tracksuitsquat",
+    "keywords": [
+      "ground"
+    ]
+  },
+  {
+    "command": "/anim walkcrouched1",
+    "keywords": [
+      "ground"
+    ]
+  },
+  
+  {
+    "command": "/anim bedtime1",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim bedtime2",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim bedtime3",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim femalaying1",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim femalelaying",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim handatchin",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim knockedout1",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim knockedout2",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim layback1",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim layback2",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim layback3",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim layback4",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim laycouch",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim laydead",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim layingonbed1",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim layingonbed2",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim layingonground",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim layingonground2",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim layleft",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim layright",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim liedown1",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim liedown2",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim liedown3",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim liedown4",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim malelaying1",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim proneaim",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim sleep1",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim sleep2",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim sleepread",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim sunbatheback",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim sunbatheback2",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim sunbathefront",
+    "keywords": [
+      "laying"
+    ]
+  },
+  {
+    "command": "/anim sunbathefront2",
+    "keywords": [
+      "laying"
+    ]
+  },
+  
+  {
+    "command": "/anim bartenderlean",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim counterleanbar",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim counterleanbar2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim counterleanbar3",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim counterleanbar4",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim counterleanbar5",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim counterleanbar6",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim counterleanbar7",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim counterleanbar8",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim felamelean1",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim femalelean2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim femalelean3",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim femalelean4",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim femalelean5",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim femalelean6",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim femaleleaning",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim handraillean",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim hangpassenger1",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim hangpassenger2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim hangpassengera1",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim hangpassengera2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim layback5",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim layback6",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim lean",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leancar",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leancar1",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leancar2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leancounter",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leancounteridle",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leancounternazi",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leancounterwave",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leandoor",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leanferris2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leanferris3",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leanferris4",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leanfoot",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaning1",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaning2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaningahead1",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaningahead2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaningarmed",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaningcrossedarms",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaningcrossedarms2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaningcrossedhands",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaningrail1",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaningrail2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaningrail3",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaningtable1",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leaningtable2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leanrail",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leanrailsmoking",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leanthinking",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leanwall1",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim leanwall2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim legscrossedlean1",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim legscrossedlean2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim malewallleaning",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim sidelean",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim sidelean1",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim sidelean2",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim sidelean3",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim sidelean4",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  {
+    "command": "/anim tired",
+    "keywords": [
+      "leaning"
+    ]
+  },
+  
+  {
+    "command": "/anim payphone1",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim payphone2",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim payphone3",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim payphone4",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phone1",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phone2",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phone3",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phone4",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phone5",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phoneconvo",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phoneconvo2",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phoneconvo3",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phonelean1",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phonelean2",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phonelean3",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phonelean4",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phonesit1",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phonesit2",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phonesit3",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phonestand1",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phonestand2",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phonestand3",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim phonestand4",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim selfie1",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim selfie2",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim selfie3",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim selfie4",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim selfie5",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim selfie6",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim selfie7",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim selfie8",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim takepic",
+    "keywords": [
+      "phone"
+    ]
+  },
+  {
+    "command": "/anim texting",
+    "keywords": [
+      "phone"
+    ]
+  },
+  
+  {
+    "command": "/anim armswirldance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim billybouncedance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim bloodwalkdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim cripwalkdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim crowdgirldance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim curvettedance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim djdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim djdance2",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim djdance3",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim djdance4",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim djdance5",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim djdance6",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim dougiedance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim downwarddance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim flairedance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim fridaynightdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim haiphuthondance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim headspindance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim hiphop90sdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim hotemwithdatdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim kickbackdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim lockingdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim makarenadance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim mamushidance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim marashinodance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim milkyrockdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim moodswingdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim poplikedisdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim poplovedance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim pullupdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim robotdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim salsadance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim shmoneydance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim shootdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim slidechance1",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim slidedance2",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim slutmeoutdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim snakedance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim studygrounddance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim sturdydance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim thotianadance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim thrillerdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim tokyochallengedance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim toosieslidedance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim tutankhamundance1",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim tutankhamundance2",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim twerkingdance1",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim twerkingdance2",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim twerkingdance3",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim uprockdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim walknstepdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim wavedance1",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim wavedance2",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim wavedance3",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim wavedance4",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  {
+    "command": "/anim woodwalkdance",
+    "keywords": [
+      "professional_dances"
+    ]
+  },
+  
+  {
+    "command": "/anim ravedance",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance1",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance10",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance11",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance12",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance13",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance14",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance15",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance16",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance17",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance18",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance19",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance2",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance20",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance21",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance22",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance23",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance24",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance25",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance26",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance27",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance28",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance29",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance3",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance30",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance31",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance32",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance33",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance34",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance35",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance36",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance37",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance38",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance39",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance4",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance40",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance41",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance42",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance43",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance44",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance45",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance46",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance47",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance48",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance49",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance5",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance50",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance51",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance52",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance53",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance54",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance55",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance56",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance57",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance58",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance59",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance6",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance60",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance61",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance62",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance63",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance64",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance65",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance66",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance67",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance68",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance69",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance7",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance70",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance71",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance72",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance73",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance74",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance75",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance76",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance77",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance78",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance79",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance8",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance80",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance81",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance82",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance83",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance84",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance85",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance86",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance87",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance88",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance89",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance9",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance90",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance91",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance92",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance93",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  {
+    "command": "/anim ravedance94",
+    "keywords": [
+      "rave_dances"
+    ]
+  },
+  
+  {
+    "command": "/anim cripwalk",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim dancing1",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim dancing2",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim dancing3",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim dancing4",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim dancing5",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim femaledance1",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim femaledance2",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim femaledance3",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim jazzsinganddance1",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim jazzsinganddance2",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim jazzsinganddance3",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim jazzsinganddance4",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim jazzsinganddance5",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance1",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance10",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance11",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance12",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance13",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance14",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance15",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance16",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance17",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance18",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance19",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance2",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance20",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance21",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance22",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance23",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance24",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance25",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance26",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance27",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance28",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance29",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance3",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance30",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance31",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance32",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance33",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance34",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance35",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance36",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance37",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance38",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance39",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance4",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance40",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance41",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance42",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance43",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance44",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance45",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance46",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance47",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance5",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance6",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance7",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance8",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim partydance9",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim signanddance1",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim signanddance2",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim signanddance3",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim signanddance4",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim signanddance5",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim twerk",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim twerk2",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim vibewithdrink1",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim vibewithdrink2",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim vibewithdrink3",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim vibewithdrink4",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim vibewithdrink5",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim vibewithdrink6",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim vibewithdrink7",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  {
+    "command": "/anim vibewithdrink8",
+    "keywords": [
+      "regular_dances"
+    ]
+  },
+  
+  {
+    "command": "/anim armchairrelaxed",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim chillsit1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim chillsit2",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim chillsit3",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim chillsit4",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim crossedlegarmchair1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim cuffedsit1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim cuffedsit2",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
     "command": "/anim desksit1",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim desksit2",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim desksitreading",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim deskwork",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim elbowsit",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim elbowsit2",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalerelaxedsitting1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalerelaxedsitting10",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalerelaxedsitting11",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalerelaxedsitting2",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalerelaxedsitting3",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalerelaxedsitting4",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalerelaxedsitting5",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalerelaxedsitting6",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalerelaxedsitting7",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalerelaxedsitting8",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalerelaxedsitting9",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalesitting1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalesitting2",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalesitting3",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalesitting4",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalesitting5",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim femalesittingstool",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim frustratedsit",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim fsitchair1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim fsitchair2",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim fsitchair3",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim fsitchair4",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim fsitchair5",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim fsitchair6",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim fsitchair7",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim fsitchair8",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim gentlemensitting",
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim lazy",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim leftlegarmchair",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malerelaxedsitting1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malerelaxedsitting2",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malerelaxedsitting3",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malerelaxedsitting4",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malerelaxedsitting5",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malesit1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malesit2",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malesit3",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malesit4",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malesit5",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malesit6",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malesit7",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim malesit8",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair10",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair11",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair12",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair13",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair14",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair15",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair16",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair2",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair3",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair4",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair5",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair6",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair7",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair8",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim msitchair9",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit10",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit11",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit12",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit13",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit14",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit15",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit2",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit3",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit4",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit5",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit6",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit7",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit8",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim officesit9",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim playdrums1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim pokersit1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim pokersit2",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim pokersit3",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim pokersit4",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim rightbenchlean",
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sidesit",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sidesit2",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sit",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sit10",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sit2",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sit3",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sit4",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sit5",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sit6",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sit7",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sit8",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sit9",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitbeer",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitbeerdrunk",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitbytv",
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair10",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair11",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair12",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair13",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair14",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair15",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair16",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair17",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair18",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair19",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair2",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair20",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair21",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair22",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair23",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair24",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair25",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair26",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair27",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair28",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair29",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair3",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair30",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair31",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair32",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair33",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair34",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitchair35",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitchair36",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitchair37",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitchair38",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitchair39",
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair4",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitchair40",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitchair41",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitchair42",
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair5",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair6",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair7",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair8",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim sitchair9",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitlegsup",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitmale1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitonbed1",
+    "keywords": [
+      "sitting"
+    ]
+  },
+  {
+    "command": "/anim sitrubchin",
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim stairssit",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim toiletsit",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
   },
   {
     "command": "/anim weepingsit",
-    "keywords": []
+    "keywords": [
+      "sitting"
+    ]
+  },
+  
+  {
+    "command": "/anim bong1",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim bong2",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim bong3",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim bong4",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim joint",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim joint2",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim joint3",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim joint4",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim joint5",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim joint6",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim smoke1",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim smoke2",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim smoke3",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim smoke5",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim smoke6",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim smoke7",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim smoke8",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim vaping1",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  {
+    "command": "/anim vaping2",
+    "keywords": [
+      "smoking"
+    ]
+  },
+  
+  {
+    "command": "/anim antsy",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim antsyknocking",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim antsyknocking1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim arguing",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim autostop1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim barman1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim barman2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim barman3",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim bartender1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim bartender2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim beltgrab",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim beltgrablook",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim breakin1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim canestand",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim canewalk",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim cheering",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim clean3",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim computer1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim cooking",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim cower1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim creeperledge",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim crying1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim crying2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim crying3",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim crying4",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim crying5",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim cuffing",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle10",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle11",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle12",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle13",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle14",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle15",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle16",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle17",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle18",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle3",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle4",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle5",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle6",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle7",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle8",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djidle9",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djset",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djsync",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djsync10",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djsync2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djsync3",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djsync4",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djsync5",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djsync6",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djsync7",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djsync8",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim djsync9",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim dustshakeoff",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim excited",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim exhausted",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim femalecheer1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim femalecheer2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim femalecheer3",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim femalecheer4",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim garbage",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim girlflirting1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim golfswing",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim handsinpockets1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim handsinpockets2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim hangout",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim hangover",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim hippy",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim hoboaddict",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim holdingback",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim holstergrab",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim ledgetaking",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim letsfight",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim locksafe",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim lookingup1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim malecheer1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim malecheer2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim malecheer3",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim malecheer4",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim malepose1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim massage1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim massage2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim meditation1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim needtopee",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim paying1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim pee",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim pettingadog",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim point",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim pointingup1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim praying1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim radiochat",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim radiochat2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim radiochat3",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim radiochat4",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim radiochat5",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim radiochat6",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim running1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim running2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim scared1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim scared2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim scared3",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim scared4",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim scared5",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim shot1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim shot2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim shot3",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim smokingcough",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim startrace1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim telescope1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim telescope2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim tense",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim thinking",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim thinking2",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim tired1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim toodrunk",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim upset",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim warming1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim wassup",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim whistle1",
+    "keywords": [
+      "social"
+    ]
+  },
+  {
+    "command": "/anim worried",
+    "keywords": [
+      "social"
+    ]
+  },
+  
+  {
+    "command": "/anim 61",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim 62",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim 63",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim 64",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim 65",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim 66",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim aim1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim aim2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim aim3",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim aim4",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim arrogantstance",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim clean",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim clean2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim copaim",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim cough",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim cracksafe",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim crossarms1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim crossarms2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim crossedarms",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim crossedhands1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim crossedhands2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim crossedhands3",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim cuffedstand1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim cuffedstand2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femaleattitude",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalecrossedarms1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalecrossedarms2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalecrossedarms3",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalecrossedarms4",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalehiphands1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femaleholdarm1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalepose1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalepose2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalepose3",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalepose4",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalepose5",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalepose6",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalepose7",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalestance1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalestance2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalestance3",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalestance4",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalestance5",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalestance6",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalestanding1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalestanding2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim femalestanding3",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim fightingwords",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim foldarm1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim friskstance",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim fronthandcuffs",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim handonbarstand",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim handonhip",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle10",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle11",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle12",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle13",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle14",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle15",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle16",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle18",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle19",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle20",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle21",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle22",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle23",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle24",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle25",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle26",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle27",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle28",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle29",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle3",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle30",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle31",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle32",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle33",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle34",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle35",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle36",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle37",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle38",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle39",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle4",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle40",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle41",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle42",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle43",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle44",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle45",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle46",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle47",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle48",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle49",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle5",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle50",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle51",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle52",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle53",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle57",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle58",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle59",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle6",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle60",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle7",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle8",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idle9",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idlehandsinpockets1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim idlehandsinpockets2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim jazzercise",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim johnwayne",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim lookingatground",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim malecrossedarms1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim malehandsonhips",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim sassyblowkiss",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim sassystand",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim shower",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim shystance",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim shystanding1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim shystanding2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim standbar",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim stretch",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim stretch2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim timid",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim toughguy1",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim toughguy2",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim valetstand",
+    "keywords": [
+      "standing"
+    ]
+  },
+  {
+    "command": "/anim warminghands",
+    "keywords": [
+      "standing"
+    ]
+  },
+  
+  {
+    "command": "/anim cowerhide",
+    "keywords": [
+      "surrender"
+    ]
+  },
+  {
+    "command": "/anim cowerlook1",
+    "keywords": [
+      "surrender"
+    ]
+  },
+  {
+    "command": "/anim cowerlook2",
+    "keywords": [
+      "surrender"
+    ]
+  },
+  {
+    "command": "/anim cowerlook3",
+    "keywords": [
+      "surrender"
+    ]
+  },
+  {
+    "command": "/anim cowerlook4",
+    "keywords": [
+      "surrender"
+    ]
+  },
+  {
+    "command": "/anim halt",
+    "keywords": [
+      "surrender"
+    ]
+  },
+  {
+    "command": "/anim handsup",
+    "keywords": [
+      "surrender"
+    ]
+  },
+  {
+    "command": "/anim handsup2",
+    "keywords": [
+      "surrender"
+    ]
+  },
+  {
+    "command": "/anim handsup3",
+    "keywords": [
+      "surrender"
+    ]
+  },
+  {
+    "command": "/anim handsup5",
+    "keywords": [
+      "surrender"
+    ]
+  },
+  {
+    "command": "/anim handsupknees",
+    "keywords": [
+      "surrender"
+    ]
+  },
+  {
+    "command": "/anim handsupknees2",
+    "keywords": [
+      "surrender"
+    ]
+  },
+  
+  {
+    "command": "/anim copwalk1",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim copwalk2",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim copwalk3",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim copwalk4",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim copwalk5",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim copwalk6",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk1",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk10",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk11",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk12",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk13",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk14",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk15",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk16",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk17",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk18",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk19",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk2",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk20",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk21",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk3",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk4",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk5",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk6",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk7",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk8",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walk9",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walkinthepark",
+    "keywords": [
+      "walking"
+    ]
+  },
+  {
+    "command": "/anim walkinthepark2",
+    "keywords": [
+      "walking"
+    ]
+  },
+  
+  {
+    "command": "/anim applycpr",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim atm",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim atmidle",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim bartenderpour",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim copradioing",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim cpr",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim cprbreath",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim cprfail",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim cprstart",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim enginemechanic",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim enginemechanic2",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim mechanic",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim mechanic1",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim mechanic2",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim mechanic3",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim mechanic4",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim standingkeyboard",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim trafficleft1",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim trafficleft2",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim trafficleft3",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim trafficleft4",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim welding",
+    "keywords": [
+      "working"
+    ]
+  },
+  {
+    "command": "/anim welding2",
+    "keywords": [
+      "working"
+    ]
   }
 ]
