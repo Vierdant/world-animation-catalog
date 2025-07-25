@@ -21,6 +21,7 @@
         }
       ]
     },
-    "http:default"
+    "http:default",
+    "clipboard-manager:allow-write-text"
   ]
 }

@@ -1,20 +1,16 @@
 [
   {
-    "command": "/anim salute",
+    "command": "/anim desksit1",
     "keywords": [
-      "salute",
-      "pose",
-      "respect"
-    ],
-    "image": "https://raw.githubusercontent.com/youruser/yourrepo/main/images/salute.png"
+      "sit",
+      "desk"
+    ]
   },
   {
-    "command": "/anim wave",
+    "command": "/anim desksit2",
     "keywords": [
-      "wave",
-      "greet",
-      "hello"
-    ],
-    "image": "https://raw.githubusercontent.com/youruser/yourrepo/main/images/wave.png"
+      "sit",
+      "desk"
+    ]
   }
 ]
