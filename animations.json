@@ -1,12 +1,20 @@
 [
-    {
-      "command": "/anim salute",
-      "keywords": ["salute", "pose", "respect"],
-      "image": "https://raw.githubusercontent.com/youruser/yourrepo/main/images/salute.png"
-    },
-    {
-      "command": "/anim wave",
-      "keywords": ["wave", "greet", "hello"],
-      "image": "https://raw.githubusercontent.com/youruser/yourrepo/main/images/wave.png"
-    }
+  {
+    "command": "/anim salute",
+    "keywords": [
+      "salute",
+      "pose",
+      "respect"
+    ],
+    "image": "https://raw.githubusercontent.com/youruser/yourrepo/main/images/salute.png"
+  },
+  {
+    "command": "/anim wave",
+    "keywords": [
+      "wave",
+      "greet",
+      "hello"
+    ],
+    "image": "https://raw.githubusercontent.com/youruser/yourrepo/main/images/wave.png"
+  }
 ]
