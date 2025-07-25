@@ -35,10 +35,18 @@
     window.addEventListener("keydown", onKeydown);
   });
 
-  $: filtered = animations.filter(c =>
-    c.command.toLowerCase().includes(search.toLowerCase()) ||
-    c.keywords.some((/** @type {string} */ k) => k.toLowerCase().includes(search.toLowerCase()))
-  );
+  $: filtered = animations.filter(cmd => {
+    if (!search.trim()) return true;
+
+    const terms = search.toLowerCase().split(/\s+/);
+    const haystack = [
+      cmd.name ?? "",
+      cmd.command,
+      ...(cmd.tags ?? [])
+    ].join(" ").toLowerCase();
+
+    return terms.every(term => haystack.includes(term));
+  });
 
   /**
      * @param {string} cmd
@@ -93,14 +101,16 @@
 </script>
 
 <main>
-  <h1>World Animation Catalog</h1>
-
-  <input
+  <div class="search-bar-wrapper">
+    <h1>World Animation Catalog</h1>
+    <input
     type="text"
     placeholder="Search animations..."
     bind:value={search}
     class="search"
-  />
+    />
+  </div>
+  
 
   {#if filtered.length > 0}
     <div class="grid">
@@ -118,7 +128,7 @@
             class="preview"
             on:click={() => openModal(GITHUB_IMAGE_REPO + formatImageName(cmd.command) + ".png")}
             />
-          <small class="tags">Tags: {cmd.keywords.join(', ')}</small>
+          <small class="tags">Tags: {cmd.tags.join(', ')}</small>
         </div>
       {/each}
     </div>
@@ -244,5 +254,13 @@
     max-height: 80%;
     border-radius: 10px;
     box-shadow: 0 0 20px #000;
+  }
+
+  .search-bar-wrapper {
+    position: sticky;
+    top: 0;
+    padding-top: 1rem;
+    background-color: #2b2d31;
+    z-index: 10;
   }
 </style>
