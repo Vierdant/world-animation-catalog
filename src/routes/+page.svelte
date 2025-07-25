@@ -12,8 +12,12 @@
      */
   let filtered = [];
   let search = '';
+  /**
+     * @type {null}
+     */
+  let modalImage = null;
 
-  const GITHUB_IMAGE_REPO = "https://raw.githubusercontent.com/Vierdant/world-animation-catalog/image/"
+  const GITHUB_IMAGE_REPO = "https://raw.githubusercontent.com/Vierdant/world-animation-catalog/main/images/"
   const GITHUB_JSON_URL = "https://raw.githubusercontent.com/Vierdant/world-animation-catalog/main/animations.json";
 
   onMount(async () => {
@@ -27,6 +31,8 @@
     } catch (e) {
       console.error("Failed to fetch animations:", e);
     }
+
+    window.addEventListener("keydown", onKeydown);
   });
 
   $: filtered = animations.filter(c =>
@@ -42,13 +48,47 @@
   }
 
   /**
-     * @param {string} cmd
-     */
+   * @param {{ name?: string, command: string }} cmd
+   */
   function formatName(cmd) {
     // @ts-ignore
-    let res = cmd.name ?? cmd.command.split(' ')[1]
+    return cmd.name ?? cmd.command.split(' ')[1];
+  }
+
+
+  /**
+   * @param {string} cmd
+   */
+  function formatImageName(cmd) {
+    // @ts-ignore
+    return cmd.split(' ')[1];
+  }
+  
+  /**
+   * @param {{ name?: string, command: string }} cmd
+   */
+  function formatNameCapital(cmd) {
+    let res = formatName(cmd)
     res = res.charAt(0).toUpperCase() + res.slice(1).toLowerCase()
     return res;
+  }
+
+  /**
+     * @param {any} url
+     */
+  function openModal(url) {
+    modalImage = url;
+  }
+
+  function closeModal() {
+    modalImage = null;
+  }
+
+  /**
+     * @param {{ key: string; }} e
+     */
+  function onKeydown(e) {
+    if (e.key === "Escape") closeModal();
   }
 </script>
 
@@ -67,18 +107,30 @@
       {#each filtered as cmd}
         <div class="animation-item">
           <div class="header">
-            <strong>{formatName(cmd)}</strong>
+            <strong>{formatNameCapital(cmd)}</strong>
             <button on:click={() => copyanimation(cmd.command)}>📋</button>
           </div>
-          {#if cmd.image}
-            <img src={GITHUB_IMAGE_REPO + cmd.command + ".png"} alt="animation preview" class="preview" />
-          {/if}
+          <!-- svelte-ignore a11y_click_events_have_key_events -->
+          <!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
+          <img 
+            src={GITHUB_IMAGE_REPO + formatImageName(cmd.command) + ".png"} 
+            alt="animation preview" 
+            class="preview"
+            on:click={() => openModal(GITHUB_IMAGE_REPO + formatImageName(cmd.command) + ".png")}
+            />
           <small class="tags">Tags: {cmd.keywords.join(', ')}</small>
         </div>
       {/each}
     </div>
   {:else}
     <p>No animations found.</p>
+  {/if}
+  <!-- svelte-ignore a11y_no_static_element_interactions -->
+  {#if modalImage}
+    <!-- svelte-ignore a11y_click_events_have_key_events -->
+    <div class="modal-overlay" on:click={closeModal}>
+      <img src={modalImage} alt="Full preview" class="modal-image">
+    </div>
   {/if}
 </main>
 
@@ -171,5 +223,26 @@
 
   button:hover {
     background-color: #4752c4;
+  }
+
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(20, 20, 20, 0.85);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000;
+    cursor: zoom-out;
+  }
+
+  .modal-image {
+    max-width: 80%;
+    max-height: 80%;
+    border-radius: 10px;
+    box-shadow: 0 0 20px #000;
   }
 </style>
