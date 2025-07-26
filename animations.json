@@ -1607,1237 +1607,1637 @@
   {
     "command": "/anim bodyonground1",
     "tags": [
-      "ground"
+      "ground",
+      "loop"
     ]
   },
   {
     "command": "/anim bodyonground2",
     "tags": [
-      "ground"
+      "ground",
+      "pose"
     ]
   },
   {
     "command": "/anim checkbody",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "loot"
     ]
   },
   {
     "command": "/anim checkbody1",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "kneel"
     ]
   },
   {
     "command": "/anim checkbody2",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "loot"
     ]
   },
   {
     "command": "/anim checkbody3",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "crouch"
     ]
   },
   {
     "command": "/anim chillgroundsit",
     "tags": [
-      "ground"
+      "ground",
+      "loop"
     ]
   },
   {
     "command": "/anim chillinggroundsit1",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "crouch",
+      "pewpew"
     ]
   },
   {
     "command": "/anim chillinggroundsit2",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "crouch",
+      "lookaround"
     ]
   },
   {
     "command": "/anim crouch",
     "tags": [
-      "ground"
+      "ground",
+      "loop"
     ]
   },
   {
     "command": "/anim crouched",
     "tags": [
-      "ground"
+      "ground",
+      "loop"
     ]
   },
   {
     "command": "/anim crouched2",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "checking"
     ]
   },
   {
     "command": "/anim crouched3",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "checking"
     ]
   },
   {
     "command": "/anim dead",
     "tags": [
-      "ground"
+      "ground",
+      "pose"
     ]
   },
   {
     "command": "/anim dead2",
     "tags": [
-      "ground"
+      "ground",
+      "pose"
     ]
   },
   {
     "command": "/anim dontshoot",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "surrender",
+      "fear"
     ]
   },
   {
     "command": "/anim dontshoot2",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "surrender",
+      "kneel"
     ]
   },
   {
     "command": "/anim dontshoot3",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "surrender",
+      "kneel"
     ]
   },
   {
     "command": "/anim dontshoot4",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "surrender",
+      "standing"
     ]
   },
   {
     "command": "/anim femalecrouch",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "female",
+      "crouch"
     ]
   },
   {
     "command": "/anim femalefloorcrossing1",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "female",
+      "sitting",
+      "chill"
     ]
   },
   {
     "command": "/anim femalefloorcrossing2",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "female",
+      "sitting",
+      "chill",
+      "sad"
     ]
   },
   {
     "command": "/anim femalefloorcrossing3",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "female",
+      "sitting",
+      "sub"
     ]
   },
   {
     "command": "/anim femalegroundsit",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "female",
+      "sitting",
+      "chill"
     ]
   },
   {
     "command": "/anim femalegroundsit2",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "female",
+      "sitting",
+      "chill",
+      "crosslegs"
     ]
   },
   {
     "command": "/anim femalegroundsit3",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "female",
+      "sitting",
+      "relaxed"
     ]
   },
   {
     "command": "/anim femalegroundsit4",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "female",
+      "sitting",
+      "chill"
     ]
   },
   {
     "command": "/anim femalegroundsit5",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "female",
+      "sitting",
+      "chill"
     ]
   },
   {
     "command": "/anim femalehostage1",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "female",
+      "laying",
+      "fear"
     ]
   },
   {
     "command": "/anim femalehostage2",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "female",
+      "laying",
+      "handcuffed"
     ]
   },
   {
     "command": "/anim fix1",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "mechanic",
+      "handyman",
+      "laying"
     ]
   },
   {
     "command": "/anim fix2",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "mechanic",
+      "handyman",
+      "laying"
     ]
   },
   {
     "command": "/anim fkneel1",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "female",
+      "crouch"
     ]
   },
   {
     "command": "/anim fkneel2",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "female",
+      "bend"
     ]
   },
   {
     "command": "/anim getup",
     "tags": [
-      "ground"
+      "ground",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim grounddigging",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "farming"
     ]
   },
   {
     "command": "/anim groundhurt1",
     "tags": [
-      "ground"
+      "ground",
+      "loop"
     ]
   },
   {
     "command": "/anim groundhurt2",
     "tags": [
-      "ground"
+      "ground",
+      "loop"
     ]
   },
   {
     "command": "/anim groundhurt3",
     "tags": [
-      "ground"
+      "ground",
+      "loop"
     ]
   },
   {
     "command": "/anim groundhurt4",
     "tags": [
-      "ground"
+      "ground",
+      "loop"
     ]
   },
   {
     "command": "/anim handcuffshostage1",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "controls",
+      "standing"
     ]
   },
   {
     "command": "/anim hostage",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "crouch",
+      "hands"
     ]
   },
   {
     "command": "/anim kickedonground",
     "tags": [
-      "ground"
+      "ground",
+      "loop"
     ]
   },
   {
     "command": "/anim legscrossedground",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "female",
+      "chill"
     ]
   },
   {
-    "command": "/anim malegroundsit2",
+    "command": "/anim malenewgroundsit2",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "male",
+      "chill"
     ]
   },
   {
     "command": "/anim malenewgroundsit",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "male",
+      "laying",
+      "chill"
     ]
   },
   {
     "command": "/anim malesitground1",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "male",
+      "crouch",
+      "finger"
     ]
   },
   {
     "command": "/anim malesitground2",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "male",
+      "finger"
     ]
   },
   {
     "command": "/anim malesitground3",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "male",
+      "armscrossed"
     ]
   },
   {
     "command": "/anim massageonground",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "kneel",
+      "massage",
+      "digging"
     ]
   },
   {
     "command": "/anim meditate",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "crouch",
+      "legscrossed",
+      "ritual"
     ]
   },
   {
     "command": "/anim onground",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "kneel"
     ]
   },
   {
     "command": "/anim ontheground",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "laying",
+      "hostage",
+      "hands"
     ]
   },
   {
     "command": "/anim pickupbody",
     "tags": [
-      "ground"
+      "ground",
+      "scene",
+      "picking"
     ]
   },
   {
     "command": "/anim prone",
     "tags": [
-      "ground"
+      "ground",
+      "phone",
+      "pose",
+      "laying"
     ]
   },
   {
     "command": "/anim seizure",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "laying"
     ]
   },
   {
     "command": "/anim sitground",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "chill",
+      "cool"
     ]
   },
   {
     "command": "/anim sitground2",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "chill"
     ]
   },
   {
     "command": "/anim sitground3",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "chill",
+      "cool"
     ]
   },
   {
     "command": "/anim sitground4",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "chill"
     ]
   },
   {
     "command": "/anim sitground5",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "chill"
     ]
   },
   {
     "command": "/anim sitground6",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "chill",
+      "sad"
     ]
   },
   {
     "command": "/anim sitgroundvideogame",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "chill",
+      "gaming"
     ]
   },
   {
     "command": "/anim takingcover1",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "laying"
     ]
   },
   {
     "command": "/anim takingcover2",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "fear",
+      "crouch"
     ]
   },
   {
     "command": "/anim takingcover3",
     "tags": [
-      "ground"
+      "ground",
+      "loop",
+      "fear",
+      "kneel"
     ]
   },
   {
     "command": "/anim thinkingcrouch1",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "crouch",
+      "chill",
+      "cool"
     ]
   },
   {
     "command": "/anim thinkingcrouch2",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "crouch",
+      "chill",
+      "cool"
     ]
   },
   {
     "command": "/anim thinkinggroundsit1",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "chill",
+      "cool"
     ]
   },
   {
     "command": "/anim thinkinggroundsit2",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "chill",
+      "cool"
     ]
   },
   {
     "command": "/anim thinkinggroundsit3",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "chill"
     ]
   },
   {
     "command": "/anim thinkinggroundsit4",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "chill"
     ]
   },
   {
     "command": "/anim thinkinggroundsit5",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "female",
+      "chill"
     ]
   },
   {
     "command": "/anim throwuptoilet",
     "tags": [
-      "ground"
+      "ground",
+      "loop"
     ]
   },
   {
     "command": "/anim tracksuitsquat",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "crouch"
     ]
   },
   {
     "command": "/anim walkcrouched1",
     "tags": [
-      "ground"
+      "ground",
+      "pose",
+      "controls"
     ]
   },
   
   {
     "command": "/anim bedtime1",
     "tags": [
-      "laying"
+      "laying",
+      "loop"
     ]
   },
   {
     "command": "/anim bedtime2",
     "tags": [
-      "laying"
+      "laying",
+      "loop"
     ]
   },
   {
     "command": "/anim bedtime3",
     "tags": [
-      "laying"
+      "laying",
+      "loop"
     ]
   },
   {
-    "command": "/anim femalaying1",
+    "command": "/anim femalelaying1",
     "tags": [
-      "laying"
+      "laying",
+      "loop",
+      "female"
     ]
   },
   {
     "command": "/anim femalelaying",
     "tags": [
-      "laying"
+      "laying",
+      "loop",
+      "female"
     ]
   },
   {
     "command": "/anim handatchin",
     "tags": [
-      "laying"
+      "laying",
+      "pose",
+      "female",
+      "stomach"
     ]
   },
   {
     "command": "/anim knockedout1",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim knockedout2",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim layback1",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim layback2",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim layback3",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim layback4",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim laycouch",
     "tags": [
-      "laying"
+      "laying",
+      "pose",
+      "sofa"
     ]
   },
   {
     "command": "/anim laydead",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim layingonbed1",
     "tags": [
-      "laying"
+      "laying",
+      "pose",
+      "remote",
+      "tv",
+      "couch"
+
     ]
   },
   {
     "command": "/anim layingonbed2",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim layingonground",
     "tags": [
-      "laying"
+      "laying",
+      "ground",
+      "male",
+      "pose"
     ]
   },
   {
     "command": "/anim layingonground2",
     "tags": [
-      "laying"
+      "laying",
+      "ground",
+      "male",
+      "loop"
     ]
   },
   {
     "command": "/anim layleft",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim layright",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim liedown1",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim liedown2",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim liedown3",
     "tags": [
-      "laying"
+      "laying",
+      "pose",
+      "female"
     ]
   },
   {
     "command": "/anim liedown4",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim malelaying1",
     "tags": [
-      "laying"
+      "laying",
+      "pose",
+      "male"
     ]
   },
   {
     "command": "/anim proneaim",
     "tags": [
-      "laying"
+      "laying",
+      "pose",
+      "aim",
+      "scout"
     ]
   },
   {
     "command": "/anim sleep1",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim sleep2",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim sleepread",
     "tags": [
-      "laying"
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim sunbatheback",
     "tags": [
-      "laying"
+      "laying",
+      "pose",
+      "beach"
     ]
   },
   {
     "command": "/anim sunbatheback2",
     "tags": [
-      "laying"
+      "laying",
+      "pose",
+      "beach"
     ]
   },
   {
     "command": "/anim sunbathefront",
     "tags": [
-      "laying"
+      "laying",
+      "pose",
+      "beach"
     ]
   },
   {
     "command": "/anim sunbathefront2",
     "tags": [
-      "laying"
+      "laying",
+      "pose",
+      "female",
+      "beach"
     ]
   },
   
   {
     "command": "/anim bartenderlean",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim counterleanbar",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim counterleanbar2",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose",
+      "holding"
     ]
   },
   {
     "command": "/anim counterleanbar3",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim counterleanbar4",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim counterleanbar5",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim counterleanbar6",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim counterleanbar7",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim counterleanbar8",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop",
+      "smoking"
     ]
   },
   {
-    "command": "/anim felamelean1",
+    "command": "/anim femalelean1",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose",
+      "female"
     ]
   },
   {
     "command": "/anim femalelean2",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose",
+      "female"
     ]
   },
   {
     "command": "/anim femalelean3",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose",
+      "female"
     ]
   },
   {
     "command": "/anim femalelean4",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose",
+      "female",
+      "bend"
     ]
   },
   {
     "command": "/anim femalelean5",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose",
+      "female",
+      "shy"
     ]
   },
   {
     "command": "/anim femalelean6",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose",
+      "female"
     ]
   },
   {
     "command": "/anim femaleleaning",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose",
+      "female",
+      "cool"
     ]
   },
   {
     "command": "/anim handraillean",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim hangpassenger1",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim hangpassenger2",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim hangpassengera1",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim hangpassengera2",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim layback5",
     "tags": [
-      "leaning"
+      "leaning",
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim layback6",
     "tags": [
-      "leaning"
+      "leaning",
+      "laying",
+      "pose"
     ]
   },
   {
     "command": "/anim lean",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose",
+      "male"
     ]
   },
   {
     "command": "/anim leancar",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim leancar1",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim leancar2",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose",
+      "female"
     ]
   },
   {
     "command": "/anim leancounter",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim leancounteridle",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim leancounternazi",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim leancounterwave",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim leandoor",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop",
+      "talking"
     ]
   },
   {
     "command": "/anim leanferris2",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim leanferris3",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim leanferris4",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim leanfoot",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop",
+      "cool"
     ]
   },
   {
     "command": "/anim leaning1",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim leaning2",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim leaningahead1",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim leaningahead2",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim leaningarmed",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose",
+      "guns"
     ]
   },
   {
     "command": "/anim leaningcrossedarms",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim leaningcrossedarms2",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim leaningcrossedhands",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim leaningrail1",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim leaningrail2",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim leaningrail3",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop",
+      "talking"
     ]
   },
   {
     "command": "/anim leaningtable1",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim leaningtable2",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim leanrail",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim leanrailsmoking",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop",
+      "smoking"
     ]
   },
   {
     "command": "/anim leanthinking",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop",
+      "female"
     ]
   },
   {
     "command": "/anim leanwall1",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim leanwall2",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop",
+      "female"
     ]
   },
   {
     "command": "/anim legscrossedlean1",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop",
+      "cool"
     ]
   },
   {
     "command": "/anim legscrossedlean2",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop",
+      "cool"
     ]
   },
   {
     "command": "/anim malewallleaning",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose",
+      "male"
     ]
   },
   {
     "command": "/anim sidelean",
     "tags": [
-      "leaning"
+      "leaning",
+      "pose"
     ]
   },
   {
     "command": "/anim sidelean1",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim sidelean2",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim sidelean3",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim sidelean4",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop"
     ]
   },
   {
-    "command": "/anim tired",
+    "command": "/anim tired1",
     "tags": [
-      "leaning"
+      "leaning",
+      "loop",
+      "bend"
     ]
   },
   
   {
     "command": "/anim payphone1",
     "tags": [
-      "phone"
+      "phone",
+      "scene"
     ]
   },
   {
     "command": "/anim payphone2",
     "tags": [
-      "phone"
+      "phone",
+      "scene"
     ]
   },
   {
     "command": "/anim payphone3",
     "tags": [
-      "phone"
+      "phone",
+      "scene"
     ]
   },
   {
     "command": "/anim payphone4",
     "tags": [
-      "phone"
+      "phone",
+      "scene"
     ]
   },
   {
     "command": "/anim phone1",
     "tags": [
-      "phone"
+      "phone",
+      "loop",
+      "photo"
     ]
   },
   {
     "command": "/anim phone2",
     "tags": [
-      "phone"
+      "phone",
+      "loop",
+      "photo"
     ]
   },
   {
     "command": "/anim phone3",
     "tags": [
-      "phone"
+      "phone",
+      "loop",
+      "photo"
     ]
   },
   {
     "command": "/anim phone4",
     "tags": [
-      "phone"
+      "phone",
+      "loop"
     ]
   },
   {
     "command": "/anim phone5",
     "tags": [
-      "phone"
+      "phone",
+      "loop",
+      "controls"
     ]
   },
   {
     "command": "/anim phoneconvo",
     "tags": [
-      "phone"
+      "phone",
+      "loop",
+      "controls",
+      "slowwalk"
     ]
   },
   {
     "command": "/anim phoneconvo2",
     "tags": [
-      "phone"
+      "phone",
+      "loop",
+      "controls"
     ]
   },
   {
     "command": "/anim phoneconvo3",
     "tags": [
-      "phone"
+      "phone",
+      "loop"
     ]
   },
   {
     "command": "/anim phonelean1",
     "tags": [
-      "phone"
+      "phone",
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim phonelean2",
     "tags": [
-      "phone"
+      "phone",
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim phonelean3",
     "tags": [
-      "phone"
+      "phone",
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim phonelean4",
     "tags": [
-      "phone"
+      "phone",
+      "leaning",
+      "loop"
     ]
   },
   {
     "command": "/anim phonesit1",
     "tags": [
-      "phone"
+      "phone",
+      "sitting",
+      "loop"
     ]
   },
   {
     "command": "/anim phonesit2",
     "tags": [
-      "phone"
+      "phone",
+      "sitting",
+      "loop"
     ]
   },
   {
     "command": "/anim phonesit3",
     "tags": [
-      "phone"
+      "phone",
+      "sitting",
+      "loop"
     ]
   },
   {
     "command": "/anim phonestand1",
     "tags": [
-      "phone"
+      "phone",
+      "standing",
+      "loop"
     ]
   },
   {
     "command": "/anim phonestand2",
     "tags": [
-      "phone"
+      "phone",
+      "standing",
+      "loop"
     ]
   },
   {
     "command": "/anim phonestand3",
     "tags": [
-      "phone"
+      "phone",
+      "standing",
+      "loop"
     ]
   },
   {
     "command": "/anim phonestand4",
     "tags": [
-      "phone"
+      "phone",
+      "standing",
+      "loop"
     ]
   },
   {
     "command": "/anim selfie1",
     "tags": [
-      "phone"
+      "phone",
+      "pose"
     ]
   },
   {
     "command": "/anim selfie2",
     "tags": [
-      "phone"
+      "phone",
+      "pose"
     ]
   },
   {
     "command": "/anim selfie3",
     "tags": [
-      "phone"
+      "phone",
+      "pose"
     ]
   },
   {
     "command": "/anim selfie4",
     "tags": [
-      "phone"
+      "phone",
+      "pose"
     ]
   },
   {
     "command": "/anim selfie5",
     "tags": [
-      "phone"
+      "phone",
+      "pose"
     ]
   },
   {
     "command": "/anim selfie6",
     "tags": [
-      "phone"
+      "phone",
+      "pose"
     ]
   },
   {
     "command": "/anim selfie7",
     "tags": [
-      "phone"
+      "phone",
+      "pose"
     ]
   },
   {
     "command": "/anim selfie8",
     "tags": [
-      "phone"
+      "phone",
+      "pose"
     ]
   },
   {
     "command": "/anim takepic",
     "tags": [
-      "phone"
+      "phone",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim texting",
     "tags": [
-      "phone"
+      "phone",
+      "loop"
     ]
   },
-  
   {
     "command": "/anim armswirldance",
     "tags": [
