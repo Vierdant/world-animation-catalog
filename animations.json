@@ -2,1047 +2,1400 @@
   {
     "command": "/anim airguitar",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene"
     ]
   },
   {
     "command": "/anim bro",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "thanks"
     ]
   },
   {
     "command": "/anim chicken",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "mock"
     ]
   },
   {
     "command": "/anim chin",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene"
     ]
   },
   {
     "command": "/anim claphands",
     "tags": [
-      "expressions"
+      "expressions",
+      "loop",
+      "mock",
+      "slowclap"
     ]
   },
   {
     "command": "/anim crackhands",
     "tags": [
-      "expressions"
+      "expressions",
+      "loop",
+      "controls"
     ]
   },
   {
     "command": "/anim dj",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "intense"
     ]
   },
   {
     "command": "/anim dock",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "mock"
     ]
   },
   {
     "command": "/anim facepalm",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene"
     ]
   },
   {
     "command": "/anim finger",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene"
     ]
   },
   {
     "command": "/anim finger2",
     "tags": [
-      "expressions"
+      "expressions",
+      "pose"
     ]
   },
   {
     "command": "/anim finger3",
     "tags": [
-      "expressions"
+      "expressions",
+      "pose"
     ]
   },
   {
     "command": "/anim fingerkiss",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "approval",
+      "chefkiss"
     ]
   },
   {
     "command": "/anim freakout",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "crazy"
     ]
   },
   {
     "command": "/anim fuck",
     "tags": [
-      "expressions"
+      "expressions",
+      "pose",
+      "controls",
+      "finger"
     ]
   },
   {
     "command": "/anim jazzhands",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "crowdwave",
+      "intense"
     ]
   },
   {
     "command": "/anim kiss",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "crowd",
+      "blowkiss"
     ]
   },
   {
     "command": "/anim knuckle",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "taunt",
+      "crackhands"
     ]
   },
   {
     "command": "/anim loco",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "mock",
+      "crazy"
     ]
   },
   {
     "command": "/anim mindreader1",
     "tags": [
-      "expressions"
+      "expressions",
+      "loop",
+      "magic"
     ]
   },
   {
     "command": "/anim mindreader2",
     "tags": [
-      "expressions"
+      "expressions",
+      "loop",
+      "magic",
+      "ritual"
     ]
   },
   {
     "command": "/anim no",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "hand",
+      "intense"
     ]
   },
   {
     "command": "/anim nose",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "picking"
     ]
   },
   {
     "command": "/anim ok",
     "tags": [
-      "expressions"
+      "expressions",
+      "pose",
+      "hand",
+      "controls"
     ]
   },
   {
     "command": "/anim peace",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "hand",
+      "sway"
     ]
   },
   {
     "command": "/anim photo",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "camera"
     ]
   },
   {
     "command": "/anim rock",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "party",
+      "intense"
     ]
   },
   {
     "command": "/anim salute",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "greet",
+      "goodbye"
     ]
   },
   {
     "command": "/anim salute2",
     "tags": [
-      "expressions"
+      "expressions",
+      "pose",
+      "hand"
     ]
   },
   {
     "command": "/anim shagging",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "intense",
+      "airthrust"
     ]
   },
   {
     "command": "/anim shush",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "crowd"
     ]
   },
   {
     "command": "/anim slowclap",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "hand"
     ]
   },
   {
     "command": "/anim surrender",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "weird"
     ]
   },
   {
     "command": "/anim synth",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "dance"
     ]
   },
   {
     "command": "/anim taunt",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "mock",
+      "childish"
     ]
   },
   {
     "command": "/anim taunting1",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "sports",
+      "celebration"
     ]
   },
   {
     "command": "/anim taunting2",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "sports",
+      "celebration"
     ]
   },
   {
     "command": "/anim taunting3",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "sports",
+      "celebration"
     ]
   },
   {
     "command": "/anim taunting4",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "sports",
+      "celebration"
     ]
   },
   {
     "command": "/anim taunting5",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "sports",
+      "celebration"
     ]
   },
   {
     "command": "/anim taunting6",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "sports",
+      "celebration"
     ]
   },
   {
     "command": "/anim taunting7",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "sports",
+      "celebration",
+      "finger",
+      "crowd"
     ]
   },
   {
     "command": "/anim thumbs",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "intense",
+      "thumbsup"
     ]
   },
   {
     "command": "/anim thumbsup",
     "tags": [
-      "expressions"
+      "expressions",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim vsign",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "mock"
     ]
   },
   {
     "command": "/anim wank",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "mock"
     ]
   },
   {
     "command": "/anim wave",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "female",
+      "crowd"
     ]
   },
   {
     "command": "/anim zombie1",
     "tags": [
-      "expressions"
+      "expressions",
+      "loop",
+      "walking",
+      "controls"
     ]
   },
   {
     "command": "/anim zombie10",
     "tags": [
-      "expressions"
+      "expressions",
+      "loop",
+      "growl"
     ]
   },
   {
     "command": "/anim zombie11",
     "tags": [
-      "expressions"
+      "expressions",
+      "loop",
+      "growl"
     ]
   },
   {
     "command": "/anim zombie2",
     "tags": [
-      "expressions"
+      "expressions",
+      "loop",
+      "walking",
+      "controls"
     ]
   },
   {
     "command": "/anim zombie3",
     "tags": [
-      "expressions"
+      "expressions",
+      "loop",
+      "standing"
     ]
   },
   {
     "command": "/anim zombie4",
     "tags": [
-      "expressions"
+      "expressions",
+      "loop",
+      "standing"
     ]
   },
   {
     "command": "/anim zombie5",
     "tags": [
-      "expressions"
+      "expressions",
+      "loop",
+      "standing"
     ]
   },
   {
     "command": "/anim zombie6",
     "tags": [
-      "expressions"
+      "expressions",
+      "loop",
+      "ground",
+      "eating"
     ]
   },
   {
     "command": "/anim zombie7",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "ground",
+      "eating"
+
     ]
   },
   {
     "command": "/anim zombie8",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "standing",
+      "eating"
     ]
   },
   {
     "command": "/anim zombie9",
     "tags": [
-      "expressions"
+      "expressions",
+      "scene",
+      "crazy"
     ]
   },
   
   {
     "command": "/anim beerhold",
     "tags": [
-      "food"
+      "food",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim can1",
     "tags": [
-      "food"
+      "food",
+      "loop",
+      "controls",
+      "drink"
     ]
   },
   {
     "command": "/anim canhold",
     "tags": [
-      "food"
+      "food",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim champagnehold",
     "tags": [
-      "food"
+      "food",
+      "pose",
+      "controls",
+      "fancy"
     ]
   },
   {
     "command": "/anim ciderhold",
     "tags": [
-      "food"
+      "food",
+      "pose",
+      "controls",
+      "beer"
     ]
   },
   {
     "command": "/anim coffee1",
     "tags": [
-      "food"
+      "food",
+      "loop",
+      "controls",
+      "drink"
     ]
   },
   {
     "command": "/anim coffee2",
     "tags": [
-      "food"
+      "food",
+      "loop",
+      "controls",
+      "drink"
     ]
   },
   {
     "command": "/anim coffeehold",
     "tags": [
-      "food"
+      "food",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim coffeehold2",
     "tags": [
-      "food"
+      "food",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim emptyglasshold",
     "tags": [
-      "food"
+      "food",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim leanbrownbag",
     "tags": [
-      "food"
+      "food",
+      "pose",
+      "outside"
     ]
   },
   {
     "command": "/anim leandrink",
     "tags": [
-      "food"
+      "food",
+      "pose"
     ]
   },
   {
     "command": "/anim leanwine",
     "tags": [
-      "food"
+      "food",
+      "pose",
+      "fancy"
     ]
   },
   {
     "command": "/anim partydancedrinking",
     "tags": [
-      "food"
+      "food",
+      "pose",
+      "dance",
+      "chill"
     ]
   },
   {
     "command": "/anim shot",
     "tags": [
-      "food"
+      "food",
+      "scene"
     ]
   },
   {
     "command": "/anim tequilahold",
     "tags": [
-      "food"
+      "food",
+      "pose",
+      "controls",
+      "bottle"
     ]
   },
   {
     "command": "/anim walkdrink",
     "tags": [
-      "food"
+      "food",
+      "loop",
+      "controls",
+      "coffee",
+      "drink"
     ]
   },
   {
     "command": "/anim walkdrink2",
     "tags": [
-      "food"
+      "food",
+      "loop",
+      "controls",
+      "can",
+      "drink"
     ]
   },
   {
     "command": "/anim walkeat1",
     "tags": [
-      "food"
+      "food",
+      "loop",
+      "controls",
+      "burger",
+      "eat"
     ]
   },
   {
     "command": "/anim walkeat2",
     "tags": [
-      "food"
+      "food",
+      "loop",
+      "controls",
+      "burger",
+      "eat"
     ]
   },
   {
     "command": "/anim walkeat3",
     "tags": [
-      "food"
+      "food",
+      "loop",
+      "controls",
+      "taco",
+      "eat"
     ]
   },
   {
     "command": "/anim wineglasshold",
     "tags": [
-      "food"
+      "food",
+      "pose",
+      "controls"
     ]
   },
   
   {
     "command": "/anim chidori",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "loop"
     ]
   },
   {
     "command": "/anim gangsign1",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "loop"
     ]
   },
   {
     "command": "/anim gangsign10",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign100",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "sitting"
     ]
   },
   {
     "command": "/anim gangsign101",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "praying"
     ]
   },
   {
     "command": "/anim gangsign102",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign103",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "lookdown"
     ]
   },
   {
     "command": "/anim gangsign104",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign105",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign106",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign107",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "duo"
     ]
   },
   {
     "command": "/anim gangsign108",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign109",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign11",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign110",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign111",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign112",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign113",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign114",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign115",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign116",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign117",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign118",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign119",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign12",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign120",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign121",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign123",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign13",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign14",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign15",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign16",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign17",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign18",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign19",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign2",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "loop"
     ]
   },
   {
     "command": "/anim gangsign20",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign21",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign22",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign23",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign24",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign25",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign26",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign27",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign28",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign29",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "loop"
     ]
   },
   {
     "command": "/anim gangsign3",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "loop"
     ]
   },
   {
     "command": "/anim gangsign30",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "scene",
+      "broken"
     ]
   },
   {
     "command": "/anim gangsign31",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign32",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign33",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign34",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign35",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign36",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign37",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign38",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign39",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign4",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "loop"
     ]
   },
   {
     "command": "/anim gangsign40",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign41",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign42",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign43",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign44",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign45",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign46",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign47",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign48",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign49",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign5",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign50",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign51",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign52",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign53",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign54",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign55",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls",
+      "nazi"
     ]
   },
   {
     "command": "/anim gangsign56",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign57",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign58",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign59",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign6",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign60",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign61",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim gangsign62",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "controls",
+      "heart"
     ]
   },
   {
     "command": "/anim gangsign63",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "heart"
     ]
   },
   {
     "command": "/anim gangsign64",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign65",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign66",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign67",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign68",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign69",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign7",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign70",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign71",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign72",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
@@ -1054,169 +1407,200 @@
   {
     "command": "/anim gangsign74",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign75",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign76",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign77",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "crouch"
     ]
   },
   {
     "command": "/anim gangsign78",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign79",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign8",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign80",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign81",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "crouch"
     ]
   },
   {
     "command": "/anim gangsign82",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign83",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign84",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign85",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign86",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign87",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign88",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign89",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign9",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign90",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign91",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign92",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign93",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign94",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign95",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign96",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign97",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   {
     "command": "/anim gangsign98",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose",
+      "leaning"
     ]
   },
   {
     "command": "/anim gangsign99",
     "tags": [
-      "gangsigns"
+      "gangsigns",
+      "pose"
     ]
   },
   
