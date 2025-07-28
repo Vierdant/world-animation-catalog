@@ -1,216 +1,74 @@
-<script>
-// @ts-nocheck
+<script lang="ts">
+  import { onDestroy, onMount } from "svelte";
+  import { fetch } from "@tauri-apps/plugin-http";
+  import AnimationCard from "./components/AnimationCard.svelte";
+  import CheckToggle from "./components/CheckToggle.svelte";
 
-  import { onMount } from 'svelte';
-  import { fetch } from '@tauri-apps/plugin-http';
-  import { writeText, readText } from '@tauri-apps/plugin-clipboard-manager';
-  import Fuse from 'fuse.js';
 
-  const fuseOptions = {
-    keys: ['name', 'command', 'tags'],
-    threshold: 0.4, // Lower = stricter match; 0.0 = exact match
-    includeScore: true,
-  };
+  import { GITHUB_JSON_URL } from "./constants.js";
+  import { parseSearchTerms, createFuse, getFilteredAnimations } from "./util/fliter";
+  import type Fuse from "fuse.js";
 
-  const tagColors = {
-    female: '#EB6E7D',
-    male: '#3184A0',
-    scene: '#242042',
-    loop: '#5C4622',
-    pose: '#33665F',
-    sitting: '#212121',
-    laying: '#212121',
-    standing: '#212121',
-    food: '#212121',
-    working: '#212121',
-    expressions: '#212121',
-    gangsigns: '#212121',
-    phone: '#212121',
-    ground: '#212121',
-    walking: '#212121',
-    smoking: '#212121',
-    leaning: '#212121',
-    surrender: '#212121',
-    social: '#212121',
-    regular_dances: '#212121',
-    rave_dances: '#212121',
-    professional_dances: '#212121',
-    adult: '#BD1E1E',
-    items: '#212121',
-    gestures: '#212121',
-    fighting: '#212121',
-    exercises: '#212121',
-    poses: '#212121',
-    tactical: '#212121',
-    vehicle: '#212121',
+  interface Animation {
+    name: string;
+    command: string;
+    tags: string[];
   }
 
+  let searchTerm: string = "";
+  let debouncedSearch: string = "";
+  let modalImage: string | null = null;
+  let showAdult: boolean = false;
+  
+  let searchInput: HTMLInputElement;
+  
+  let animations: Animation[] = [];
+  let filteredAnimations: Animation[] = [];
+  let fuse: Fuse<any> | null = null;
 
-  /**
-     * @type {any[]}
-     */
-  let animations = [];
-  /**
-     * @type {string | any[]}
-     */
-  let filteredCommands = [];
-  let searchTerm = '';
-  let debouncedSearch = '';
-  /**
-     * @type {null}
-     */
-  let modalImage = null;
-  let fuse = null;
-  let showAdult = false;
+  let debounceTimeout: ReturnType<typeof setTimeout>;
 
-  let debounceTimeout;
-
-  const GITHUB_IMAGE_REPO = "https://raw.githubusercontent.com/Vierdant/world-animation-catalog/main/images/"
-  const GITHUB_JSON_URL = "https://raw.githubusercontent.com/Vierdant/world-animation-catalog/main/animations.json";
 
   onMount(async () => {
     try {
-      const res = await fetch(GITHUB_JSON_URL, {
-        method: 'GET',
-      });
+      const res = await fetch(GITHUB_JSON_URL, { method: "GET" });
       const data = await res.json();
       animations = data;
-      filteredCommands = data;
-    } catch (e) {
+      filteredAnimations = data;
+    } 
+    catch (e) {
       console.error("Failed to fetch animations:", e);
     }
 
     window.addEventListener("keydown", onKeydown);
   });
 
+  onDestroy(() => {
+    window.removeEventListener("keydown", onKeydown);
+  });
 
-  function parseSearchTerms(input) {
-    const regex = /"([^"]+)"|(\S+)/g;
-    const terms = [];
-    let match;
-    while ((match = regex.exec(input))) {
-      terms.push(match[1] ?? match[2]);
-    }
-    return terms;
-  }
-
-  function addTagToSearch(tag) {
-    const current = searchTerm.trim();
-    const tagQuery = `tag:${tag}`;
-    const terms = current.split(/\s+/);
-
-    // Prevent duplicate tag entry
-    if (!terms.includes(tagQuery)) {
-      terms.push(tagQuery);
-      searchTerm = terms.join(' ');
-    }
-
-    // Optional: immediately focus the search box after adding
-    const input = document.querySelector('input[type="text"]');
-    if (input) input.focus();
-  }
-
+  // Reactive debounced search term
   $: {
     clearTimeout(debounceTimeout);
     debounceTimeout = setTimeout(() => {
       debouncedSearch = searchTerm;
-    }, 100); // Adjust delay to preference
+    }, 100);
   }
 
-  $: if (animations?.length) {
-    fuse = new Fuse(animations, fuseOptions);
-  }
+  // Fuse instance
+  $: fuse = animations?.length ? createFuse(animations) : null;
 
-  $: filteredCommands = (() => {
-    if (!debouncedSearch.trim()) return animations;
-
-    const terms = parseSearchTerms(debouncedSearch.toLowerCase());
-
-    // If using advanced filters like tag:x or -name:y, handle those separately:
-    const regularTerms = terms.filter(t => !t.includes(':') && !t.startsWith('-'));
-    const advancedTerms = terms.filter(t => t.includes(':') || t.startsWith('-'));
-
-    let results = animations;
-
-    if (regularTerms.length > 0 && fuse) {
-      results = fuse.search(regularTerms.join(' ')).map(r => r.item);
-    }
-
-    if (!showAdult) {
-      results = results.filter(cmd => !cmd.tags?.map(t => t.toLowerCase()).includes("adult"));
-    }
-
-    // Further filter based on advanced exact/negated rules
-    return results.filter(cmd => {
-      const name = (cmd.name ?? '').toLowerCase();
-      const command = (cmd.command ?? '').toLowerCase();
-      const tags = (cmd.tags ?? []).map(t => t.toLowerCase());
-
-      return advancedTerms.every(term => {
-        const isNegated = term.startsWith('-');
-        const [prefix, valueRaw] = term.replace('-', '').split(':', 2);
-        const value = valueRaw?.trim();
-
-        let match = false;
-
-        switch (prefix) {
-          case 'tag':
-            match = tags.includes(value);
-            break;
-          case 'name':
-            match = name.includes(value);
-            break;
-          case 'command':
-            match = command.includes(value);
-            break;
-          default:
-            match = name.includes(term) || command.includes(term) || tags.some(t => t.includes(term));
-        }
-
-        return isNegated ? !match : match;
-      });
-    });
-  })();
+  // reactive filtered list - What is displayed at all times
+  $: filteredAnimations = getFilteredAnimations(
+    animations,
+    debouncedSearch,
+    showAdult,
+    fuse
+  );
 
 
-
-  /**
-     * @param {string} cmd
-     */
-  async function copyanimation(cmd) {
-    await writeText(cmd);
-  }
-
-  /**
-   * @param {{ name?: string, command: string }} cmd
-   */
-  function formatName(cmd) {
-    // @ts-ignore
-    return cmd.name ?? cmd.command.split(' ')[1];
-  }
-
-
-  /**
-   * @param {string} cmd
-   */
-  function formatImageName(cmd) {
-    // @ts-ignore
-    return cmd.split(' ')[1];
-  }
-  
-  /**
-   * @param {{ name?: string, command: string }} cmd
-   */
-  function formatNameCapital(cmd) {
-    let res = formatName(cmd)
-    res = res.charAt(0).toUpperCase() + res.slice(1).toLowerCase()
-    return res;
-  }
-
-  /**
-     * @param {any} url
-     */
-  function openModal(url) {
+  // Modal functions
+  function openModal(url: string) {
     modalImage = url;
   }
 
@@ -218,11 +76,21 @@
     modalImage = null;
   }
 
-  /**
-     * @param {{ key: string; }} e
-     */
-  function onKeydown(e) {
+  function onKeydown(e: KeyboardEvent) {
     if (e.key === "Escape") closeModal();
+  }
+
+
+  // Tag click processor 
+  function addTagToSearch(tag: string) {
+    const tagQuery = `tag:${tag}`;
+    const terms = parseSearchTerms(searchTerm);
+
+    if (!terms.includes(tagQuery)) {
+      searchTerm = [...terms, tagQuery].join(" ");
+    }
+
+    searchInput?.focus();
   }
 </script>
 
@@ -230,51 +98,23 @@
   <div class="search-bar-wrapper">
     <h1>World Animation Catalog</h1>
     <input
-    type="text"
-    placeholder="Search animations..."
-    bind:value={searchTerm}
-    class="search"
+      type="text"
+      placeholder="Search animations..."
+      bind:value={searchTerm}
+      bind:this={searchInput}
+      class="search"
     />
   </div>
-  <div class="toggle-wrapper">
-    <label class="switch">
-      <input type="checkbox" bind:checked={showAdult}>
-      <span class="slider round"></span>
-    </label>
-    <span class="toggle-label">Show Adult Content</span>
-  </div>
-  
+  <CheckToggle bind:checked={showAdult} text="Show Adult Content" />
 
-  {#if filteredCommands.length > 0}
+  {#if filteredAnimations.length > 0}
     <div class="grid">
-      {#each filteredCommands as cmd}
-        <div class="animation-item">
-          <div class="header">
-            <strong>{formatNameCapital(cmd)}</strong>
-            <button on:click={() => copyanimation(cmd.command)}>📋</button>
-          </div>
-          <!-- svelte-ignore a11y_click_events_have_key_events -->
-          <!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
-          <img 
-            src={GITHUB_IMAGE_REPO + formatImageName(cmd.command) + ".png"} 
-            alt="animation preview" 
-            class="preview"
-            on:click={() => openModal(GITHUB_IMAGE_REPO + formatImageName(cmd.command) + ".png")}
-            />
-            <div class="tags">
-              <!-- svelte-ignore a11y_no_static_element_interactions -->
-              {#each cmd.tags as tag}
-                <!-- svelte-ignore a11y_click_events_have_key_events -->
-                <span
-                  class="tag"
-                  style="background-color: {tagColors[tag.toLowerCase()] ?? '#464646'}"
-                  on:click={() => addTagToSearch(tag)}
-                >
-                  {tag}
-                </span>
-              {/each}
-            </div>
-        </div>
+      {#each filteredAnimations as anim (anim)}
+        <AnimationCard
+          animation={anim}
+          showmodal={openModal}
+          addtag={addTagToSearch}
+        />
       {/each}
     </div>
   {:else}
@@ -283,217 +123,8 @@
   <!-- svelte-ignore a11y_no_static_element_interactions -->
   {#if modalImage}
     <!-- svelte-ignore a11y_click_events_have_key_events -->
-    <div class="modal-overlay" on:click={closeModal}>
-      <img src={modalImage} alt="Full preview" class="modal-image">
+    <div class="modal-overlay" onclick={closeModal}>
+      <img src={modalImage} alt="Full preview" class="modal-image" />
     </div>
   {/if}
 </main>
-
-<style>
-  :global(body) {
-    background-color: #2b2d31;
-    color: #ffffff;
-    font-family: 'Segoe UI', sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-
-  main {
-    max-width: 1000px;
-    margin: 2rem auto;
-    padding: 1rem;
-  }
-
-  h1 {
-    text-align: center;
-    margin-bottom: 2rem;
-    color: #ffffff;
-  }
-
-  .search {
-    width: 100%;
-    padding: 0.75rem;
-    font-size: 1rem;
-    margin-bottom: 2rem;
-    background-color: #1e1f22;
-    color: white;
-    border: 1px solid #4e5058;
-    border-radius: 8px;
-  }
-
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 1.5rem;
-  }
-
-  .animation-item {
-    background-color: #1e1f22;
-    border: 1px solid #4e5058;
-    border-radius: 12px;
-    padding: 1rem;
-    transition: background-color 0.2s;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-  }
-
-  .animation-item:hover {
-    background-color: #313338;
-  }
-
-  .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 0.5rem;
-    font-size: 1rem;
-    color: #fff;
-  }
-
-  .animation-item img.preview {
-    margin: 0.5rem 0;
-    width: 100%;
-    height: 220px; /* more height for clarity */
-    border-radius: 8px;
-    object-fit: cover;
-    object-position: top center; /* focuses top/middle of image */
-    object-position: 30% 14%;
-  }
-
-  .animation-item img.preview:hover {
-    transform: scale(1.05);
-    transition: transform 0.2s ease-in-out;
-    z-index: 1;
-  }
-
-  .tags {
-    color: #b5bac1;
-    font-size: 0.85rem;
-    margin-top: auto;
-  }
-
-  button {
-    background-color: #5865f2;
-    color: white;
-    border: none;
-    padding: 0.4rem 0.6rem;
-    border-radius: 6px;
-    cursor: pointer;
-    font-size: 0.85rem;
-    transition: 0.2s;
-  }
-
-  button:hover {
-    background-color: #4752c4;
-  }
-
-  .modal-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(20, 20, 20, 0.85);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 10000;
-    cursor: zoom-out;
-  }
-
-  .modal-image {
-    max-width: 80%;
-    max-height: 80%;
-    border-radius: 10px;
-    box-shadow: 0 0 20px #000;
-  }
-
-  .search-bar-wrapper {
-    position: sticky;
-    top: 0;
-    padding-top: 1rem;
-    background-color: #2b2d31;
-    z-index: 10;
-  }
-
-  .tag {
-    display: inline-block;
-    padding: 0.2rem 0.6rem;
-    margin: 0.2rem 0.3rem 0 0;
-    border-radius: 999px;
-    font-size: 0.75rem;
-    font-weight: 600;
-    color: #fff;
-    background-color: #464646; /* fallback */
-    text-transform: capitalize;
-    cursor: pointer;
-    transition: transform 0.1s ease;
-  }
-
-  .tag:hover {
-    transform: scale(1.05);
-    opacity: 0.85;
-  }
-
-  .toggle-wrapper {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    margin-bottom: 1.5rem;
-    user-select: none;
-  }
-
-  .toggle-label {
-    color: #ccc;
-    font-size: 0.95rem;
-  }
-
-  /* Toggle Switch Styles */
-  .switch {
-    position: relative;
-    display: inline-block;
-    width: 46px;
-    height: 26px;
-  }
-
-  .switch input {
-    opacity: 0;
-    width: 0;
-    height: 0;
-  }
-
-  /* Slider Track */
-  .slider {
-    position: absolute;
-    cursor: pointer;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: #777;
-    transition: 0.3s;
-    border-radius: 34px;
-  }
-
-  /* Slider Circle */
-  .slider::before {
-    position: absolute;
-    content: "";
-    height: 20px;
-    width: 20px;
-    left: 3px;
-    bottom: 3px;
-    background-color: white;
-    transition: 0.3s;
-    border-radius: 50%;
-  }
-
-  input:checked + .slider {
-    background-color: #5865f2;
-  }
-
-  input:checked + .slider::before {
-    transform: translateX(20px);
-  }
-</style>
