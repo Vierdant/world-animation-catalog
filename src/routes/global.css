@@ -63,3 +63,10 @@ h1 {
     background-color: #2b2d31;
     z-index: 10;
 }
+
+.toggle-row {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin: 0.01rem 0;
+}

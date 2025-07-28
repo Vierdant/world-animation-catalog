@@ -28,38 +28,48 @@ export function createFuse(items) {
 }
 
 /**
- * Filters a list of animations based on search terms and options
+ * Filters a list of animations based on search terms and options.
+ * Prioritizes favorites if search is active.
+ * 
  * @param {any[]} animations - The full list of animations
  * @param {string} search - The debounced search string
  * @param {boolean} showAdult - Whether to include adult-tagged items
  * @param {Fuse<any> | null} fuse - A Fuse.js instance
- * @returns {any[]} - The filtered list of animations
+ * @param {Set<string>} favorites - Set of favorite animation names
+ * @param {boolean} showOnlyFavorites - Whether to show only a list of favorites
+ * @returns {any[]} - The filtered and prioritized list
  */
-export function getFilteredAnimations(animations, search, showAdult, fuse) {
-  if (!search.trim()) return animations;
-
-  const terms = parseSearchTerms(search.toLowerCase());
-
-  const regularTerms = terms.filter(
-    (t) => !t.includes(":") && !t.startsWith("-")
-  );
-  const advancedTerms = terms.filter(
-    (t) => t.includes(":") || t.startsWith("-")
-  );
+export function getFilteredAnimations(animations, search, showAdult, fuse, favorites, showOnlyFavorites) {
+  const trimmedSearch = search.trim().toLowerCase();
+  const terms = parseSearchTerms(trimmedSearch);
+  const regularTerms = terms.filter(t => !t.includes(":") && !t.startsWith("-"));
+  const advancedTerms = terms.filter(t => t.includes(":") || t.startsWith("-"));
 
   let results = animations;
 
   if (regularTerms.length > 0 && fuse) {
-    results = fuse.search(regularTerms.join(" ")).map((r) => r.item);
+    const fuseResults = fuse.search(regularTerms.join(" "));
+
+    // Sort by: favorites first, then lowest Fuse score
+    fuseResults.sort((a, b) => {
+      const aFav = favorites.has(a.item.command);
+      const bFav = favorites.has(b.item.command);
+
+      if (aFav !== bFav) return bFav ? 1 : -1; // favorited items come first
+      return (a.score ?? 0) - (b.score ?? 0); // lower score = better match
+    });
+
+    results = fuseResults.map(r => r.item);
   }
 
   if (!showAdult) {
-    results = results.filter(
-      (cmd) => !cmd.tags?.map((/** @type {string} */ t) => t.toLowerCase()).includes("adult")
+    results = results.filter(cmd =>
+      !cmd.tags?.map((/** @type {string} */ t) => t.toLowerCase()).includes("adult")
     );
   }
 
-  return results.filter((cmd) => {
+  // Apply advanced tag:name:command filtering
+  results = results.filter((cmd) => {
     const name = (cmd.name ?? "").toLowerCase();
     const command = (cmd.command ?? "").toLowerCase();
     const tags = (cmd.tags ?? []).map((/** @type {string} */ t) => t.toLowerCase());
@@ -91,4 +101,10 @@ export function getFilteredAnimations(animations, search, showAdult, fuse) {
       return isNegated ? !match : match;
     });
   });
+
+  if (showOnlyFavorites) {
+    results = results.filter(cmd => favorites.has(cmd.command))
+  }
+
+  return results;
 }

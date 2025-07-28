@@ -1,6 +1,7 @@
 <script lang="ts">
   import { onDestroy, onMount } from "svelte";
   import { fetch } from "@tauri-apps/plugin-http";
+  import { LazyStore } from "@tauri-apps/plugin-store";
   import AnimationCard from "./components/AnimationCard.svelte";
   import CheckToggle from "./components/CheckToggle.svelte";
 
@@ -15,21 +16,36 @@
     tags: string[];
   }
 
+  const store = new LazyStore(".data.dat");
+
   let searchTerm: string = "";
   let debouncedSearch: string = "";
   let modalImage: string | null = null;
   let showAdult: boolean = false;
+  let showOnlyFavorites: boolean = false;
   
   let searchInput: HTMLInputElement;
   
   let animations: Animation[] = [];
   let filteredAnimations: Animation[] = [];
   let fuse: Fuse<any> | null = null;
+  let favorites: Set<string> = new Set();
 
   let debounceTimeout: ReturnType<typeof setTimeout>;
+  
+  async function loadFavorites() {
+    const favs = await store.get<string[]>("favorites");
+    favorites = new Set(favs || []);
+  }
 
+  async function saveFavorites() {
+    await store.set("favorites", Array.from(favorites));
+    await store.save();
+  }
 
   onMount(async () => {
+    await loadFavorites();
+
     try {
       const res = await fetch(GITHUB_JSON_URL, { method: "GET" });
       const data = await res.json();
@@ -39,7 +55,7 @@
     catch (e) {
       console.error("Failed to fetch animations:", e);
     }
-
+    
     window.addEventListener("keydown", onKeydown);
   });
 
@@ -63,7 +79,9 @@
     animations,
     debouncedSearch,
     showAdult,
-    fuse
+    fuse,
+    favorites,
+    showOnlyFavorites
   );
 
 
@@ -92,6 +110,22 @@
 
     searchInput?.focus();
   }
+
+
+  // favroite system logic
+  function toggleFavorite(name: string) {
+    if (favorites.has(name)) {
+      favorites.delete(name);
+    } else {
+      favorites.add(name);
+    }
+    favorites = new Set(favorites);
+    saveFavorites();
+  }
+
+  function isFavorite(name: string): boolean {
+    return favorites.has(name);
+  }
 </script>
 
 <main>
@@ -105,7 +139,10 @@
       class="search"
     />
   </div>
-  <CheckToggle bind:checked={showAdult} text="Show Adult Content" />
+  <div class="toggle-row">
+    <CheckToggle bind:checked={showAdult} text="Adult Content" />
+    <CheckToggle bind:checked={showOnlyFavorites} text="Favorites Only" />
+  </div>
 
   {#if filteredAnimations.length > 0}
     <div class="grid">
@@ -114,6 +151,8 @@
           animation={anim}
           showmodal={openModal}
           addtag={addTagToSearch}
+          favorite={isFavorite(anim.command)}
+          ontoggleFavorite={() => toggleFavorite(anim.command)}
         />
       {/each}
     </div>

@@ -2,13 +2,17 @@
     import { GITHUB_IMAGE_REPO, tagColors } from "../constants.js";
     import { writeText } from "@tauri-apps/plugin-clipboard-manager";
 
-    let { animation, showmodal, addtag } = $props();
+    let { animation, showmodal, addtag, favorite, ontoggleFavorite } = $props();
+
+    let copied = $state(false);
 
     /**
      * @param {string} command
      */
     async function copyCommand(command) {
         await writeText(command);
+        copied = true;
+        setTimeout(() => (copied = false), 1000); // reset after 1 sec
     }
 
     /**
@@ -19,7 +23,7 @@
     }
 
     /**
-     * @param {{ name?: string; command: string; }} animation
+     * @param {{ name: any; command: string; }} animation
      */
     function formatName(animation) {
         let result = animation.name ?? animation.command.split(" ")[1];
@@ -31,7 +35,31 @@
 <div class="animation-item">
     <div class="header">
         <strong>{formatName(animation)}</strong>
-        <button class="copy-button" onclick={() => copyCommand(animation.command)}>📋</button>
+        <div class="button-group">
+            <button
+                class="icon-button heart {favorite ? 'active' : ''}"
+                onclick={() => ontoggleFavorite()}
+                aria-label={favorite
+                    ? "Remove from favorites"
+                    : "Add to favorites"}
+                title={favorite ? "Remove from favorites" : "Add to favorites"}
+            >
+                {favorite ? "♥" : "♡"}
+            </button>
+
+            <button
+                class="icon-button copy"
+                onclick={() => copyCommand(animation.command)}
+                aria-label="Copy command"
+                title="Copy command"
+            >
+                {#if copied}
+                    ✔
+                {:else}
+                    📋
+                {/if}
+            </button>
+        </div>
     </div>
 
     <button
@@ -92,6 +120,57 @@
         color: #fff;
     }
 
+    .button-group {
+        display: flex;
+        align-items: center;
+        gap: 0.6rem;
+    }
+
+    .icon-button {
+        width: 2.2rem;
+        height: 2.2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 6px;
+        font-size: 1.2rem;
+        font-weight: bold;
+        line-height: 1;
+        padding: 0;
+        border: none;
+        cursor: pointer;
+        transition:
+            background-color 0.2s,
+            transform 0.05s;
+    }
+
+    .icon-button.copy {
+        background-color: #5865f2;
+        color: white;
+    }
+
+    .icon-button.copy:hover {
+        background-color: #4752c4;
+    }
+
+    .icon-button.copy:active {
+        transform: scale(0.92);
+    }
+
+    .icon-button.heart {
+        background-color: transparent;
+        color: #ff5f7b;
+    }
+
+    .icon-button.heart.active {
+        background-color: #ff5f7b;
+        color: white;
+    }
+
+    .icon-button.heart.active:hover {
+        background-color: #e74c68;
+    }
+
     .animation-item img.preview {
         margin: 0.5rem 0;
         width: 100%;
@@ -114,21 +193,6 @@
         margin-top: auto;
     }
 
-    .copy-button {
-        background-color: #5865f2;
-        color: white;
-        border: none;
-        padding: 0.4rem 0.6rem;
-        border-radius: 6px;
-        cursor: pointer;
-        font-size: 0.85rem;
-        transition: background-color 0.2s;
-    }
-
-    .copy-button:hover {
-        background-color: #4752c4;
-    }
-
     .tag-button {
         display: inline-block;
         padding: 0.2rem 0.6rem;
@@ -137,7 +201,7 @@
         font-size: 0.75rem;
         font-weight: 600;
         color: #fff;
-        background-color: #464646; /* fallback */
+        background-color: #464646;
         text-transform: capitalize;
         cursor: pointer;
         transition:
