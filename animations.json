@@ -4694,463 +4694,780 @@
   {
     "command": "/anim cripwalk",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "scene",
+      "controls",
+      "gang"
     ]
   },
   {
     "command": "/anim dancing1",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "silly",
+      "fun",
+      "cute",
+      "dance",
+      "female"
     ]
   },
   {
     "command": "/anim dancing2",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "silly",
+      "fun",
+      "cute",
+      "dance",
+      "female"
     ]
   },
   {
     "command": "/anim dancing3",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "silly",
+      "fun",
+      "cute",
+      "dance",
+      "female"
     ]
   },
   {
     "command": "/anim dancing4",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "silly",
+      "fun",
+      "cute",
+      "dance",
+      "female",
+      "exercise",
+      "zumba",
+      "warmup"
     ]
   },
   {
     "command": "/anim dancing5",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "silly",
+      "fun",
+      "cute",
+      "dance",
+      "female",
+      "exercise",
+      "zumba",
+      "warmup"
     ]
   },
   {
     "command": "/anim femaledance1",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "female",
+      "slow",
+      "sexy"
     ]
   },
   {
     "command": "/anim femaledance2",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "female",
+      "slow",
+      "sexy"
     ]
   },
   {
     "command": "/anim femaledance3",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "female",
+      "slow",
+      "sexy",
+      "shake",
+      "bendover"
     ]
   },
   {
     "command": "/anim jazzsinganddance1",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "idledance",
+      "female",
+      "chill"
     ]
   },
   {
     "command": "/anim jazzsinganddance2",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "female",
+      "vibe"
     ]
   },
   {
     "command": "/anim jazzsinganddance3",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "female",
+      "vibe",
+      "tipsy"
     ]
   },
   {
     "command": "/anim jazzsinganddance4",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "female",
+      "vibe",
+      "tipsy"
     ]
   },
   {
     "command": "/anim jazzsinganddance5",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "female",
+      "vibe",
+      "tipsy"
     ]
   },
   {
     "command": "/anim partydance",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "chill",
+      "sway"
     ]
   },
   {
     "command": "/anim partydance1",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe"
     ]
   },
   {
     "command": "/anim partydance10",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "tipsy"
     ]
   },
   {
     "command": "/anim partydance11",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "tipsy",
+      "bops"
     ]
   },
   {
     "command": "/anim partydance12",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "bops"
     ]
   },
   {
     "command": "/anim partydance13",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "chill",
+      "bops"
     ]
   },
   {
     "command": "/anim partydance14",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "chill",
+      "hype",
+      "popping"
     ]
   },
   {
     "command": "/anim partydance15",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "drunk",
+      "hype"
     ]
   },
   {
     "command": "/anim partydance16",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "drunk",
+      "hype"
     ]
   },
   {
     "command": "/anim partydance17",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "female"
     ]
   },
   {
     "command": "/anim partydance18",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "female"
     ]
   },
   {
     "command": "/anim partydance19",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype",
+      "hand"
     ]
   },
   {
     "command": "/anim partydance2",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "gangsign"
     ]
   },
   {
     "command": "/anim partydance20",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "beat"
     ]
   },
   {
     "command": "/anim partydance21",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype",
+      "beat"
     ]
   },
   {
     "command": "/anim partydance22",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype",
+      "beat"
     ]
   },
   {
     "command": "/anim partydance23",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "chill",
+      "cute",
+      "motor",
+      "step"
     ]
   },
   {
     "command": "/anim partydance24",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "beat",
+      "drunk"
     ]
   },
   {
     "command": "/anim partydance25",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "beat",
+      "step",
+      "hand",
+      "wave"
     ]
   },
   {
     "command": "/anim partydance26",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype",
+      "beat"
     ]
   },
   {
     "command": "/anim partydance27",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype",
+      "foot",
+      "beat"
     ]
   },
   {
     "command": "/anim partydance28",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "chill",
+      "female"
     ]
   },
   {
     "command": "/anim partydance29",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "beat"
     ]
   },
   {
     "command": "/anim partydance3",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "beat",
+      "head",
+      "shake",
+      "female"
     ]
   },
   {
     "command": "/anim partydance30",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "beat",
+      "down",
+      "low"
     ]
   },
   {
     "command": "/anim partydance31",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "beat"
     ]
   },
   {
     "command": "/anim partydance32",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype",
+      "beat"
     ]
   },
   {
     "command": "/anim partydance33",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype",
+      "beat"
     ]
   },
   {
     "command": "/anim partydance34",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype",
+      "beat"
     ]
   },
   {
     "command": "/anim partydance35",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype",
+      "beat",
+      "skip"
     ]
   },
   {
     "command": "/anim partydance36",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype",
+      "beat",
+      "skip",
+      "stomp"
     ]
   },
   {
     "command": "/anim partydance37",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype",
+      "beat",
+      "wave"
     ]
   },
   {
     "command": "/anim partydance38",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "chill"
     ]
   },
   {
     "command": "/anim partydance39",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "chill"
     ]
   },
   {
     "command": "/anim partydance4",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "tipsy"
     ]
   },
   {
     "command": "/anim partydance40",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype",
+      "kick"
     ]
   },
   {
     "command": "/anim partydance41",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "drunk",
+      "tired"
     ]
   },
   {
     "command": "/anim partydance42",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "hype"
     ]
   },
   {
     "command": "/anim partydance43",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "female",
+      "tipsy"
     ]
   },
   {
     "command": "/anim partydance44",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "female",
+      "shake",
+      "hip"
     ]
   },
   {
     "command": "/anim partydance45",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "female",
+      "shake",
+      "hip",
+      "strut"
     ]
   },
   {
     "command": "/anim partydance46",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "beat",
+      "popping"
     ]
   },
   {
     "command": "/anim partydance47",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "step",
+      "wave"
     ]
   },
   {
     "command": "/anim partydance5",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "tipsy",
+      "shout"
     ]
   },
   {
     "command": "/anim partydance6",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "tipsy",
+      "bops",
+      "beat"
     ]
   },
   {
     "command": "/anim partydance7",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "drunk"
     ]
   },
   {
     "command": "/anim partydance8",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "female",
+      "tipsy"
     ]
   },
   {
     "command": "/anim partydance9",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "vibe",
+      "clap"
     ]
   },
   {
-    "command": "/anim signanddance1",
+    "command": "/anim singanddance1",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "sing",
+      "hand"
     ]
   },
   {
-    "command": "/anim signanddance2",
+    "command": "/anim singanddance2",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "sing",
+      "hand",
+      "claw",
+      "wave"
     ]
   },
   {
-    "command": "/anim signanddance3",
+    "command": "/anim singanddance3",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "sway",
+      "slow",
+      "wave",
+      "female"
     ]
   },
   {
-    "command": "/anim signanddance4",
+    "command": "/anim singanddance4",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "point",
+      "slow",
+      "headroll",
+      "female"
     ]
   },
   {
-    "command": "/anim signanddance5",
+    "command": "/anim singanddance5",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "sing",
+      "hand"
     ]
   },
   {
     "command": "/anim twerk",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop"
     ]
   },
   {
     "command": "/anim twerk2",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "scene"
     ]
   },
   {
     "command": "/anim vibewithdrink1",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "wave",
+      "bops",
+      "beat",
+      "drunk",
+      "bottle",
+      "hold"
     ]
   },
   {
     "command": "/anim vibewithdrink2",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "wave",
+      "bops",
+      "beat",
+      "drunk",
+      "bottle",
+      "hold"
     ]
   },
   {
     "command": "/anim vibewithdrink3",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "beat",
+      "tipsy",
+      "tequila",
+      "hold"
     ]
   },
   {
     "command": "/anim vibewithdrink4",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "beat",
+      "tipsy",
+      "tequila",
+      "hold"
     ]
   },
   {
     "command": "/anim vibewithdrink5",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "beat",
+      "tipsy",
+      "glass",
+      "hold",
+      "wine"
     ]
   },
   {
     "command": "/anim vibewithdrink6",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "beat",
+      "tipsy",
+      "bottle",
+      "hold",
+      "gin",
+      "beer"
     ]
   },
   {
     "command": "/anim vibewithdrink7",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "beat",
+      "tipsy",
+      "glass",
+      "hold",
+      "wine"
     ]
   },
   {
     "command": "/anim vibewithdrink8",
     "tags": [
-      "regular_dances"
+      "regular_dances",
+      "loop",
+      "beat",
+      "tipsy",
+      "glass",
+      "hold",
+      "wine",
+      "bodywave",
+      "drinking"
     ]
   },
   {
