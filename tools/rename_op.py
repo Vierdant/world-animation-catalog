@@ -1,19 +1,25 @@
 import os
 
 original_filenames = [
-    "malegroundsit2.png",
-    "marashinodance.png",
-    "milkyrockdance.png",
-    "slidechance1.png",
-    "studygrounddance.png",
-    "woodwalkdance.png"
+    "signanddance1.png",
+    "signanddance2.png",
+    "signanddance3.png",
+    "signanddance4.png",
+    "signanddance5.png",
 ]
 
 new_filenames = [
-    "malenewgroundsit2.png"
+    "singanddance1.png",
+    "singanddance2.png",
+    "singanddance3.png",
+    "singanddance4.png",
+    "singanddance5.png",
 ]
 
-target_directory = "../images"
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
+target_directory = os.path.join(script_dir, "..", "images")
+target_directory = os.path.normpath(target_directory)
 
 not_found = []
 rename_errors = []
