@@ -11,7 +11,6 @@ As a player, I frequently wished I had precisely the right animation at the mome
 
 This app solves that. It provides a seamless, native-like desktop experience with persistent favorites, intelligent search system and live data drawn from a GitHub-hosted animation catalog. It's light, it's quick, and it's designed for roleplayers who like to get the little things perfect.
 
----
 
 ##  Features
 
@@ -22,7 +21,6 @@ This app solves that. It provides a seamless, native-like desktop experience wit
 - Click-to-copy animation commands.
 - Ready to add more upon receiving community requests.
 
----
 
 ## Installation
 
@@ -32,7 +30,6 @@ This app solves that. It provides a seamless, native-like desktop experience wit
 
 Note: The installer might give you a warning that it's from an untrusted source, however, that's only because I didn't bother buying a Microsoft certificat. It's open source. It's safe.
 
----
 
 ## Animation Data
 
@@ -49,7 +46,7 @@ Big thank you <3 for everyone here
 
 - [niamoore](https://forum.gta.world/en/profile/104280-niamoore/) - Images & Tagging
 
----
+
 ## Developers
 If you want to clone it, use it, modify it, or contribute that way.
 
@@ -67,13 +64,11 @@ npm install
 npm run tauri dev
 ```
 
----
 
 ## License
 
 MIT © [Vierdant](https://github.com/Vierdant)
 
----
 
 ## Acknowledgements
 
@@ -81,7 +76,6 @@ MIT © [Vierdant](https://github.com/Vierdant)
 - Poster images used in the app are for visual context only.
 - I, Vierdant/(Locker)[https://forum.gta.world/en/profile/104259-locker/], am by no means affiliated with Rockstar, GTA related projects or GTA:W development teams. This is an application was made in my spare time.
 
----
 
 ## Tech Stack
 
