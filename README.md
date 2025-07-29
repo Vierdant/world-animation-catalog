@@ -12,7 +12,7 @@ As a player, I frequently wished I had precisely the right animation at the mome
 This app solves that. It provides a seamless, native-like desktop experience with persistent favorites, intelligent search system and live data drawn from a GitHub-hosted animation catalog. It's light, it's quick, and it's designed for roleplayers who like to get the little things perfect.
 
 
-##  Features
+## 📋 Features
 
 - **Searchable animation catalog** with tag support and filtering.
 - **Favorites system** (stored locally - separate from the in-game system).
@@ -22,7 +22,7 @@ This app solves that. It provides a seamless, native-like desktop experience wit
 - Ready to add more upon receiving community requests.
 
 
-## Installation
+## 🚀 Installation
 
 - Head to the [releases](https://github.com/Vierdant/world-animation-catalog/releases) page.
 - Download the latest installer.
@@ -41,7 +41,7 @@ All animation metadata is fetched from a GitHub JSON file hosted in this repo. I
 
 Pull requests are welcome! Feel free to open an issue to discuss bugs or suggestions.
 
-### Contributors List
+### ❤️ Contributors List
 Big thank you <3 for everyone here
 
 - [niamoore](https://forum.gta.world/en/profile/104280-niamoore/) - Images & Tagging
