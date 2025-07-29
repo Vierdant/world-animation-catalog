@@ -2,7 +2,7 @@ import os
 import json
 
 # Path to your folder containing PNG files
-folder_path = './images'
+folder_path = '../images'
 
 # List to store the entries
 entries = []

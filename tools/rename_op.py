@@ -13,7 +13,7 @@ new_filenames = [
     "malenewgroundsit2.png"
 ]
 
-target_directory = "./images"
+target_directory = "../images"
 
 not_found = []
 rename_errors = []
