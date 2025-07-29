@@ -4,6 +4,7 @@
   import { LazyStore } from "@tauri-apps/plugin-store";
   import AnimationCard from "./components/AnimationCard.svelte";
   import CheckToggle from "./components/CheckToggle.svelte";
+  import TagAutocomplete from "./components/TagAutocomplete.svelte";
 
 
   import { GITHUB_JSON_URL } from "./constants.js";
@@ -23,13 +24,17 @@
   let modalImage: string | null = null;
   let showAdult: boolean = false;
   let showOnlyFavorites: boolean = false;
+  let showScrollTop: boolean = false;
+  let showSuggestions: boolean = false;
   
   let searchInput: HTMLInputElement;
+  let firstAutocompleteButton: HTMLButtonElement | null = null;
   
   let animations: Animation[] = [];
   let filteredAnimations: Animation[] = [];
   let fuse: Fuse<any> | null = null;
   let favorites: Set<string> = new Set();
+  let allTags: string[] = [];
 
   let debounceTimeout: ReturnType<typeof setTimeout>;
   
@@ -57,10 +62,12 @@
     }
     
     window.addEventListener("keydown", onKeydown);
+    window.addEventListener("scroll", handleScroll);
   });
 
   onDestroy(() => {
     window.removeEventListener("keydown", onKeydown);
+    window.removeEventListener("scroll", handleScroll);
   });
 
   // Reactive debounced search term
@@ -84,6 +91,12 @@
     showOnlyFavorites
   );
 
+  // extract all unique tags from the animations data
+  $: if (animations.length) {
+    const tagSet = new Set<string>();
+    animations.forEach(anim => anim.tags.forEach(tag => tagSet.add(tag)));
+    allTags = Array.from(tagSet).sort();
+  }
 
   // Modal functions
   function openModal(url: string) {
@@ -126,18 +139,64 @@
   function isFavorite(name: string): boolean {
     return favorites.has(name);
   }
+
+  // scroll functions
+  function scrollToTop() {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function handleScroll() {
+    showScrollTop = window.scrollY > 300;
+  }
+
+
+  function handleSearchKeydown(e: KeyboardEvent) {
+    if (e.key === "Tab" && showSuggestions && firstAutocompleteButton) {
+      e.preventDefault();
+      firstAutocompleteButton.focus();
+    }
+
+    // Forward arrow key logic to autocomplete if suggestions are showing
+    if (showSuggestions && (e.key === "ArrowDown" || e.key === "ArrowUp" || e.key === "Enter")) {
+      const event = new CustomEvent("autocompleteKey", { detail: e });
+      searchInput?.dispatchEvent(event);
+      e.preventDefault();
+    }
+  }
 </script>
 
 <main>
   <div class="search-bar-wrapper">
     <h1>World Animation Catalog</h1>
-    <input
-      type="text"
-      placeholder="Search animations..."
-      bind:value={searchTerm}
-      bind:this={searchInput}
-      class="search"
-    />
+    <div class="search-container">
+      <input
+        type="text"
+        placeholder="Search animations..."
+        bind:value={searchTerm}
+        bind:this={searchInput}
+        class="search"
+        onkeydown={handleSearchKeydown}
+      />
+      {#if searchTerm}
+        <button
+          type="button"
+          class="clear-button"
+          onclick={() => (searchTerm = "")}
+          aria-label="Clear search input"
+        >
+          &times;
+        </button>
+      {/if}
+      <TagAutocomplete
+        {searchTerm}
+        {allTags}
+        inputRef={searchInput}
+        bind:firstButton={firstAutocompleteButton}
+        bind:showSuggestions={showSuggestions}
+        on:select={(e) => (searchTerm = e.detail)}
+      />
+
+    </div>
   </div>
   <div class="toggle-row">
     <CheckToggle bind:checked={showAdult} text="Adult Content" />
@@ -165,5 +224,11 @@
     <div class="modal-overlay" onclick={closeModal}>
       <img src={modalImage} alt="Full preview" class="modal-image" />
     </div>
+  {/if}
+
+  {#if showScrollTop}
+    <button class="scroll-top" onclick={scrollToTop} aria-label="Scroll to top">
+      ↑
+    </button>
   {/if}
 </main>
