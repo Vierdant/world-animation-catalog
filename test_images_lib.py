@@ -3,7 +3,6 @@ from PIL import Image
 from io import BytesIO
 import json
 
-# Constants from your JS
 GITHUB_JSON_URL = "https://raw.githubusercontent.com/Vierdant/world-animation-catalog/main/animations.json"
 GITHUB_IMAGE_REPO = "https://raw.githubusercontent.com/Vierdant/world-animation-catalog/main/images/"
 

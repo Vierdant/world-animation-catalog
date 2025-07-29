@@ -1,6 +1,5 @@
 import os
 
-# === Hardcoded Lists ===
 original_filenames = [
     "malegroundsit2.png",
     "marashinodance.png",
@@ -14,16 +13,12 @@ new_filenames = [
     "malenewgroundsit2.png"
 ]
 
-# === Folder to search in ===
-# You can set this to any path you want
 target_directory = "./images"
 
-# === Debug info collectors ===
 not_found = []
 rename_errors = []
 successfully_renamed = []
 
-# === Renaming process ===
 for old_name, new_name in zip(original_filenames, new_filenames):
     old_path = os.path.join(target_directory, old_name)
     new_path = os.path.join(target_directory, new_name)
@@ -38,7 +33,6 @@ for old_name, new_name in zip(original_filenames, new_filenames):
     except Exception as e:
         rename_errors.append((old_name, new_name, str(e)))
 
-# === Debug Summary ===
 print("\n--- Rename Operation Report ---")
 
 print("\nSuccessfully Renamed:")
