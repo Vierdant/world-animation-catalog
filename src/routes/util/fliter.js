@@ -1,6 +1,5 @@
 import Fuse from "fuse.js";
 import { fuseOptions } from "../constants";
-import { LazyStore } from "@tauri-apps/plugin-store";
 
 /**
  * Parses quoted and unquoted search terms

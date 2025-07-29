@@ -2,7 +2,7 @@ import os
 
 # === Hardcoded Lists ===
 original_filenames = [
-    "hotemwithdatdance.png",
+    "malegroundsit2.png",
     "marashinodance.png",
     "milkyrockdance.png",
     "slidechance1.png",
@@ -11,12 +11,7 @@ original_filenames = [
 ]
 
 new_filenames = [
-    "hitemwithdatdance.png",
-    "maraschinodance.png",
-    "millyrockdance.png",
-    "slidedance1.png",
-    "sturdygrounddance.png",
-    "woowalkdance.png"
+    "malenewgroundsit2.png"
 ]
 
 # === Folder to search in ===
