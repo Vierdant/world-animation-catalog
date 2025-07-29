@@ -30,6 +30,38 @@
         result = result.charAt(0).toUpperCase() + result.slice(1).toLowerCase();
         return result;
     }
+
+    /**
+     * Retry loading the image up to a max number of attempts
+     * @param {Event} event
+     * @param {{ command: string }} animation
+     */
+    function handleImageError(event, animation) {
+        const img = event.target;
+        const maxRetries = 3;
+        if (!img) {
+            return;
+        }
+        // @ts-ignore
+        const retryCount = img.dataset.retryCount
+            // @ts-ignore
+            ? parseInt(img.dataset.retryCount)
+            : 0;
+
+        if (retryCount < maxRetries) {
+            // @ts-ignore
+            img.dataset.retryCount = retryCount + 1;
+            const src = GITHUB_IMAGE_REPO + formatImageName(animation.command) + ".png";
+            // Add a cache-busting parameter
+            // @ts-ignore
+            img.src = src + "?retry=" + Date.now();
+        } else {
+            // @ts-ignore
+            img.alt = "Failed to load preview.";
+            // @ts-ignore
+            img.style.opacity = 0.4;
+        }
+    }
 </script>
 
 <div class="animation-item">
@@ -77,6 +109,7 @@
             alt="animation preview"
             class="preview"
             loading="lazy"
+            onerror={(event) => handleImageError(event, animation)}
         />
     </button>
 
