@@ -126,3 +126,84 @@ h1 {
     outline: 2px solid #007acc;
     outline-offset: 2px;
 }
+
+.settings-button {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    background: none;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 0.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.settings-button svg {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.2s ease;
+}
+
+.settings-button:hover svg {
+    transform: rotate(20deg);
+}
+
+.settings-menu {
+    position: absolute;
+    right: 1rem;
+    top: 3.5rem;
+    background-color: #1e1f22;
+    border: 1px solid #4e5058;
+    border-radius: 8px;
+    padding: 0.5rem;
+    z-index: 20;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.settings-menu button,
+.settings-menu label {
+    background: #2b2d31;
+    color: white;
+    border: none;
+    padding: 0.5rem;
+    text-align: left;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.settings-menu label input {
+    display: none;
+}
+
+.settings-menu button:hover,
+.settings-menu label:hover {
+    background: #3a3b3f;
+}
+
+.import-success-message {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background-color: #1e4620;
+  color: #d4edda;
+  border: 1px solid #155724;
+  padding: 0.75rem 1rem;
+  border-radius: 6px;
+  z-index: 100;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  animation: fadeinout 2s ease forwards;
+  font-size: 0.95rem;
+}
+
+
+@keyframes fadeinout {
+  0%   { opacity: 0; transform: translateY(20px); }
+  10%  { opacity: 1; transform: translateY(0); }
+  90%  { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(20px); }
+}

@@ -1,5 +1,5 @@
 import Fuse from "fuse.js";
-import { fuseOptions } from "../constants";
+import { fuseOptions } from "../routes/constants";
 
 /**
  * Parses quoted and unquoted search terms
@@ -49,7 +49,6 @@ export function getFilteredAnimations(animations, search, showAdult, fuse, favor
   if (regularTerms.length > 0 && fuse) {
     const fuseResults = fuse.search(regularTerms.join(" "));
 
-    // Sort by: favorites first, then lowest Fuse score
     fuseResults.sort((a, b) => {
       const aFav = favorites.has(a.item.command);
       const bFav = favorites.has(b.item.command);
