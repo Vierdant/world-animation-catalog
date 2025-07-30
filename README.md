@@ -1,9 +1,14 @@
 ![App Preview](./assets/application_preview.png)
 <p align="center">
-  <img src="https://img.shields.io/netlify/dacd955c-95ec-48bd-a97d-f25f65a864ad?style=flat-square&logo=netlify&label=Web Version&link=https%3A%2F%2Fgtaw-ac.netlify.app%2F" alt="Netlify" />
-  <img src="https://img.shields.io/github/downloads/vierdant/world-animation-catalog/total?style=flat-square&label=Downloads" alt="GitHub Downloads" />
-  <img src="https://img.shields.io/github/v/release/vierdant/world-animation-catalog?display_name=tag&style=flat-square&label=Latest&link=https%3A%2F%2Fgithub.com%2FVierdant%2Fworld-animation-catalog%2Freleases
-  " alt="GitHub Release" />
+  <a href="https://gtaw-ac.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/netlify/dacd955c-95ec-48bd-a97d-f25f65a864ad?style=flat-square&logo=netlify&label=Website" alt="Netlify" />
+  </a>
+  <a href="https://github.com/vierdant/world-animation-catalog/releases" target="_blank">
+    <img src="https://img.shields.io/github/downloads/vierdant/world-animation-catalog/total?style=flat-square&label=Downloads" alt="GitHub Downloads" />
+  </a>
+  <a href="https://github.com/vierdant/world-animation-catalog/releases/latest" target="_blank">
+    <img src="https://img.shields.io/github/v/release/vierdant/world-animation-catalog?display_name=tag&style=flat-square&label=Latest" alt="GitHub Release" />
+  </a>
 </p>
 
 
