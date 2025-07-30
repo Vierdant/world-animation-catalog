@@ -19,6 +19,8 @@ This app solves that. It provides a seamless, native-like desktop experience wit
 - **Tag autocomplete** for fast and intuitive searching (type `tag:`).
 - **Adult content toggle** for filtering sensitive content.
 - Click-to-copy animation commands.
+- Export / Import favorites & other data
+- Web version
 - Ready to add more upon receiving community requests.
 
 
@@ -29,6 +31,13 @@ This app solves that. It provides a seamless, native-like desktop experience wit
 - Run it.
 
 Note: The installer might give you a warning that it's from an untrusted source, however, that's only because I didn't bother buying a Microsoft certificat. It's open source. It's safe.
+
+
+## 🌐 Web Version
+
+If you do not desire to install a program on your system, a **web version** is also available for you to use.
+
+You can access it here: [https://gtaw-ac.netlify.app/](https://gtaw-ac.netlify.app/)
 
 
 ## Animation Data
@@ -74,7 +83,7 @@ MIT © [Vierdant](https://github.com/Vierdant)
 
 - Inspired by the creativity of the GTA:W roleplay community
 - Poster images used in the app are for visual context only.
-- I, Vierdant/(Locker)[https://forum.gta.world/en/profile/104259-locker/], am by no means affiliated with Rockstar, GTA related projects or GTA:W development teams. This is an application was made in my spare time.
+- I, Vierdant/[Locker](https://forum.gta.world/en/profile/104259-locker/), am by no means affiliated with Rockstar, GTA related projects or GTA:W development teams. This is an application was made in my spare time.
 
 
 ## Tech Stack

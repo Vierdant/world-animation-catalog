@@ -24,6 +24,15 @@ export async function initStore() {
     }
 }
 
+export async function copyToClipboard(text) {
+  if (isTauri) {
+    const { writeText } = await import("@tauri-apps/plugin-clipboard-manager");
+    await writeText(text);
+  } else {
+    await navigator.clipboard.writeText(text);
+  }
+}
+
 // Load favorites from Tauri or localStorage
 export async function loadFavorites() {
     if (isTauri) {
