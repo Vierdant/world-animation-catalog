@@ -1,6 +1,16 @@
 ![App Preview](./assets/application_preview.png)
+<p align="center">
+  <a href="https://gtaw-ac.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/netlify/dacd955c-95ec-48bd-a97d-f25f65a864ad?style=flat-square&logo=netlify&label=Website" alt="Netlify" />
+  </a>
+  <a href="https://github.com/vierdant/world-animation-catalog/releases" target="_blank">
+    <img src="https://img.shields.io/github/downloads/vierdant/world-animation-catalog/total?style=flat-square&label=Downloads" alt="GitHub Downloads" />
+  </a>
+  <a href="https://github.com/vierdant/world-animation-catalog/releases/latest" target="_blank">
+    <img src="https://img.shields.io/github/v/release/vierdant/world-animation-catalog?display_name=tag&style=flat-square&label=Latest" alt="GitHub Release" />
+  </a>
+</p>
 
----
 
 #  World Animation Catalog
 
@@ -24,7 +34,14 @@ This app solves that. It provides a seamless, native-like desktop experience wit
 - Ready to add more upon receiving community requests.
 
 
-## 🚀 Installation
+## 🌐 Web Version
+
+If you do not desire to install a program on your system, a **web version** is also available for you to use.
+
+You can access it here: [https://gtaw-ac.netlify.app/](https://gtaw-ac.netlify.app/)
+
+
+## 🚀 App Installation
 
 - Head to the [releases](https://github.com/Vierdant/world-animation-catalog/releases) page.
 - Download the latest installer.
@@ -33,18 +50,10 @@ This app solves that. It provides a seamless, native-like desktop experience wit
 Note: The installer might give you a warning that it's from an untrusted source, however, that's only because I didn't bother buying a Microsoft certificat. It's open source. It's safe.
 
 
-## 🌐 Web Version
-
-If you do not desire to install a program on your system, a **web version** is also available for you to use.
-
-You can access it here: [https://gtaw-ac.netlify.app/](https://gtaw-ac.netlify.app/)
-
-
 ## Animation Data
 
 All animation metadata is fetched from a GitHub JSON file hosted in this repo. It is NOT linked to the game, so if anything changes, I, or someone has to update it manually.
 
----
 
 ## Contributing
 
