@@ -1,6 +1,6 @@
 <script>
     import { GITHUB_IMAGE_REPO, tagColors } from "../constants.js";
-    import { writeText } from "@tauri-apps/plugin-clipboard-manager";
+    import { copyToClipboard } from "../../lib/platform.js";
 
     let { animation, showmodal, addtag, favorite, ontoggleFavorite } = $props();
 
@@ -10,9 +10,14 @@
      * @param {string} command
      */
     async function copyCommand(command) {
-        await writeText(command);
-        copied = true;
-        setTimeout(() => (copied = false), 1000); // reset after 1 sec
+        try {
+            await copyToClipboard(command);
+            copied = true;
+            setTimeout(() => (copied = false), 1000);
+        } catch (e) {
+            alert("Failed to copy to clipboard");
+            console.error(e);
+        }
     }
 
     /**
@@ -70,7 +75,10 @@
         <div class="button-group">
             <button
                 class="icon-button heart {favorite ? 'active' : ''}"
-                onclick={() => ontoggleFavorite()}
+                onclick={(event) => {
+                    event.stopPropagation()
+                    ontoggleFavorite()
+                }}
                 aria-label={favorite
                     ? "Remove from favorites"
                     : "Add to favorites"}
@@ -81,7 +89,10 @@
 
             <button
                 class="icon-button copy"
-                onclick={() => copyCommand(animation.command)}
+                onclick={(event) => {
+                    event.stopPropagation()
+                    copyCommand(animation.command)
+                }}
                 aria-label="Copy command"
                 title="Copy command"
             >
