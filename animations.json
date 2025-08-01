@@ -3247,8 +3247,8 @@
       "loop",
       "fun",
       "groovy",
-      "silly",
-      "mock"
+      "mock",
+      "silly"
     ]
   },
   {
@@ -3289,8 +3289,8 @@
     "tags": [
       "professional_dances",
       "loop",
-      "vibe",
-      "clap"
+      "clap",
+      "vibe"
     ]
   },
   {
@@ -3298,8 +3298,8 @@
     "tags": [
       "professional_dances",
       "loop",
-      "vibe",
-      "clap"
+      "clap",
+      "vibe"
     ]
   },
   {
@@ -3307,8 +3307,8 @@
     "tags": [
       "professional_dances",
       "loop",
-      "vibe",
-      "shot"
+      "shot",
+      "vibe"
     ]
   },
   {
@@ -3347,9 +3347,9 @@
     "tags": [
       "professional_dances",
       "loop",
+      "female",
       "hype",
-      "silly",
-      "female"
+      "silly"
     ]
   },
   {
@@ -3467,8 +3467,8 @@
       "professional_dances",
       "scene",
       "female",
-      "shaking",
-      "shake"
+      "shake",
+      "shaking"
     ]
   },
   {
@@ -3522,8 +3522,8 @@
     "tags": [
       "professional_dances",
       "scene",
-      "smooth",
-      "slide"
+      "slide",
+      "smooth"
     ]
   },
   {
@@ -3532,9 +3532,9 @@
       "professional_dances",
       "loop",
       "breakdance",
+      "isolation",
       "moonwalk",
-      "robot",
-      "isolation"
+      "robot"
     ]
   },
   {
@@ -3606,8 +3606,8 @@
     "tags": [
       "professional_dances",
       "loop",
-      "isolation",
-      "breakdance"
+      "breakdance",
+      "isolation"
     ]
   },
   {
@@ -3615,8 +3615,8 @@
     "tags": [
       "professional_dances",
       "loop",
-      "mime",
-      "breakdance"
+      "breakdance",
+      "mime"
     ]
   },
   {
@@ -3624,36 +3624,36 @@
     "tags": [
       "professional_dances",
       "loop",
-      "mime",
-      "breakdance"
+      "breakdance",
+      "mime"
     ]
   },
   {
     "command": "/anim twerkingdance1",
     "tags": [
       "professional_dances",
-      "loop",
       "ground",
-      "split",
-      "female"
+      "loop",
+      "female",
+      "split"
     ]
   },
   {
     "command": "/anim twerkingdance2",
     "tags": [
       "professional_dances",
-      "loop",
       "ground",
-      "popping",
-      "female"
+      "loop",
+      "female",
+      "popping"
     ]
   },
   {
     "command": "/anim twerkingdance3",
     "tags": [
       "professional_dances",
-      "loop",
       "ground",
+      "loop",
       "everythingistwerk"
     ]
   },
@@ -3662,8 +3662,8 @@
     "tags": [
       "professional_dances",
       "loop",
-      "hype",
-      "breakdance"
+      "breakdance",
+      "hype"
     ]
   },
   {
@@ -3671,8 +3671,8 @@
     "tags": [
       "professional_dances",
       "scene",
-      "silly",
-      "fun"
+      "fun",
+      "silly"
     ]
   },
   {
@@ -3680,8 +3680,8 @@
     "tags": [
       "professional_dances",
       "loop",
-      "isolation",
-      "breakdance"
+      "breakdance",
+      "isolation"
     ]
   },
   {
@@ -3689,8 +3689,8 @@
     "tags": [
       "professional_dances",
       "loop",
-      "isolation",
-      "breakdance"
+      "breakdance",
+      "isolation"
     ]
   },
   {
@@ -3698,8 +3698,8 @@
     "tags": [
       "professional_dances",
       "loop",
-      "isolation",
-      "breakdance"
+      "breakdance",
+      "isolation"
     ]
   },
   {
@@ -3707,8 +3707,8 @@
     "tags": [
       "professional_dances",
       "loop",
-      "isolation",
       "breakdance",
+      "isolation",
       "robot"
     ]
   },
@@ -3725,8 +3725,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
-      "arms"
+      "arms",
+      "vibe"
     ]
   },
   {
@@ -3736,8 +3736,8 @@
       "loop",
       "female",
       "chill",
-      "slow",
-      "hips"
+      "hips",
+      "slow"
     ]
   },
   {
@@ -3780,8 +3780,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "body"
+      "body",
+      "hype"
     ]
   },
   {
@@ -3789,9 +3789,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
+      "female",
       "cute",
-      "female"
+      "vibe"
     ]
   },
   {
@@ -3807,9 +3807,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
+      "female",
       "sexy",
-      "female"
+      "vibe"
     ]
   },
   {
@@ -3818,8 +3818,8 @@
       "rave_dances",
       "loop",
       "chill",
-      "sway",
-      "popping"
+      "popping",
+      "sway"
     ]
   },
   {
@@ -3827,8 +3827,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "chill",
-      "bop"
+      "bop",
+      "chill"
     ]
   },
   {
@@ -3836,9 +3836,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "slow",
+      "female",
       "sexy",
-      "female"
+      "slow"
     ]
   },
   {
@@ -3846,9 +3846,9 @@
     "tags": [
       "rave_dances",
       "loop",
+      "beat",
       "chill",
-      "popping",
-      "beat"
+      "popping"
     ]
   },
   {
@@ -3856,9 +3856,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
+      "beat",
       "popping",
-      "beat"
+      "vibe"
     ]
   },
   {
@@ -3866,8 +3866,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "chill",
-      "bop"
+      "bop",
+      "chill"
     ]
   },
   {
@@ -3875,8 +3875,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "beat"
+      "beat",
+      "hype"
     ]
   },
   {
@@ -3884,8 +3884,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
       "beat",
+      "hype",
       "up"
     ]
   },
@@ -3894,8 +3894,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "chill",
       "beat",
+      "chill",
       "down"
     ]
   },
@@ -3905,8 +3905,8 @@
       "rave_dances",
       "loop",
       "chill",
-      "shake",
-      "hips"
+      "hips",
+      "shake"
     ]
   },
   {
@@ -3914,8 +3914,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "arms"
+      "arms",
+      "hype"
     ]
   },
   {
@@ -3948,8 +3948,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "down"
+      "down",
+      "hype"
     ]
   },
   {
@@ -3957,8 +3957,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "chill",
-      "female"
+      "female",
+      "chill"
     ]
   },
   {
@@ -3966,8 +3966,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "clap"
+      "clap",
+      "hype"
     ]
   },
   {
@@ -3975,8 +3975,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
-      "robot"
+      "robot",
+      "vibe"
     ]
   },
   {
@@ -4002,8 +4002,8 @@
       "rave_dances",
       "loop",
       "hype",
-      "twerk",
-      "silly"
+      "silly",
+      "twerk"
     ]
   },
   {
@@ -4012,9 +4012,9 @@
       "rave_dances",
       "loop",
       "hype",
-      "twerk",
       "silly",
-      "spank"
+      "spank",
+      "twerk"
     ]
   },
   {
@@ -4022,8 +4022,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
       "cheer",
+      "hype",
       "jumping",
       "strut"
     ]
@@ -4033,8 +4033,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
       "cowboy",
+      "hype",
       "yeehaw"
     ]
   },
@@ -4043,10 +4043,10 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "popping",
+      "beat",
       "bop",
-      "beat"
+      "hype",
+      "popping"
     ]
   },
   {
@@ -4063,11 +4063,11 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "popping",
-      "bop",
       "beat",
-      "freestyle"
+      "bop",
+      "freestyle",
+      "hype",
+      "popping"
     ]
   },
   {
@@ -4075,10 +4075,10 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
       "arms",
-      "swing",
-      "drunk"
+      "drunk",
+      "hype",
+      "swing"
     ]
   },
   {
@@ -4086,12 +4086,12 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
+      "beat",
       "down",
-      "popping",
       "drunk",
       "freestyle",
-      "beat"
+      "hype",
+      "popping"
     ]
   },
   {
@@ -4109,8 +4109,8 @@
       "rave_dances",
       "loop",
       "chill",
-      "tipsy",
-      "swing"
+      "swing",
+      "tipsy"
     ]
   },
   {
@@ -4119,8 +4119,8 @@
       "rave_dances",
       "loop",
       "chill",
-      "tipsy",
-      "swing"
+      "swing",
+      "tipsy"
     ]
   },
   {
@@ -4128,12 +4128,12 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "drunk",
-      "point",
-      "hear",
       "bop",
-      "crowd"
+      "crowd",
+      "drunk",
+      "hear",
+      "hype",
+      "point"
     ]
   },
   {
@@ -4142,9 +4142,9 @@
       "rave_dances",
       "loop",
       "chill",
-      "tipsy",
+      "hips",
       "sway",
-      "hips"
+      "tipsy"
     ]
   },
   {
@@ -4152,10 +4152,10 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
-      "tipsy",
+      "hips",
       "sway",
-      "hips"
+      "tipsy",
+      "vibe"
     ]
   },
   {
@@ -4163,9 +4163,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
+      "beat",
       "clap",
-      "beat"
+      "hype"
     ]
   },
   {
@@ -4173,10 +4173,10 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
-      "tipsy",
       "forehead",
-      "hips"
+      "hips",
+      "tipsy",
+      "vibe"
     ]
   },
   {
@@ -4184,12 +4184,12 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
-      "tipsy",
-      "sway",
       "hands",
+      "hips",
+      "sway",
+      "tipsy",
       "tits",
-      "hips"
+      "vibe"
     ]
   },
   {
@@ -4197,8 +4197,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
       "tipsy",
+      "vibe",
       "wave"
     ]
   },
@@ -4223,11 +4223,11 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "bop",
       "beat",
+      "bop",
+      "crowd",
       "dj",
-      "crowd"
+      "hype"
     ]
   },
   {
@@ -4235,11 +4235,11 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "bop",
       "beat",
+      "bop",
+      "crowd",
       "dj",
-      "crowd"
+      "hype"
     ]
   },
   {
@@ -4247,8 +4247,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
       "hips",
+      "hype",
       "point",
       "up"
     ]
@@ -4258,8 +4258,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "beat"
+      "beat",
+      "hype"
     ]
   },
   {
@@ -4267,9 +4267,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
       "beat",
-      "drunk"
+      "drunk",
+      "hype"
     ]
   },
   {
@@ -4277,10 +4277,10 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
       "beat",
-      "intense",
       "great",
+      "hype",
+      "intense",
       "party"
     ]
   },
@@ -4289,9 +4289,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
       "beat",
       "drunk",
+      "hype",
       "silly"
     ]
   },
@@ -4300,10 +4300,10 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
       "drunk",
-      "robot",
-      "isolation"
+      "hype",
+      "isolation",
+      "robot"
     ]
   },
   {
@@ -4311,11 +4311,11 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "drunk",
-      "silly",
       "down",
-      "low"
+      "drunk",
+      "hype",
+      "low",
+      "silly"
     ]
   },
   {
@@ -4323,10 +4323,10 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
+      "beat",
       "cowboy",
       "freestyle",
-      "beat"
+      "hype"
     ]
   },
   {
@@ -4334,9 +4334,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "freestyle",
       "airthrust",
+      "freestyle",
+      "hype",
       "shake"
     ]
   },
@@ -4345,10 +4345,10 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
+      "beat",
       "great",
       "popping",
-      "beat"
+      "vibe"
     ]
   },
   {
@@ -4356,11 +4356,11 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "great",
-      "popping",
       "beat",
       "bop",
+      "great",
+      "hype",
+      "popping",
       "tipsy"
     ]
   },
@@ -4369,11 +4369,11 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "popping",
       "beat",
       "bop",
-      "hands"
+      "hands",
+      "hype",
+      "popping"
     ]
   },
   {
@@ -4381,11 +4381,11 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "popping",
       "beat",
       "bop",
-      "hands"
+      "hands",
+      "hype",
+      "popping"
     ]
   },
   {
@@ -4393,11 +4393,11 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "popping",
       "beat",
       "bop",
-      "hands"
+      "hands",
+      "hype",
+      "popping"
     ]
   },
   {
@@ -4405,10 +4405,10 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "popping",
       "beat",
-      "jumping"
+      "hype",
+      "jumping",
+      "popping"
     ]
   },
   {
@@ -4416,11 +4416,11 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "popping",
       "beat",
       "bop",
-      "hands"
+      "hands",
+      "hype",
+      "popping"
     ]
   },
   {
@@ -4428,9 +4428,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "slow",
-      "sexy",
       "female",
+      "sexy",
+      "slow",
       "sway"
     ]
   },
@@ -4439,9 +4439,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "slow",
-      "sexy",
       "female",
+      "sexy",
+      "slow",
       "sway"
     ]
   },
@@ -4450,9 +4450,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "slow",
-      "sexy",
       "female",
+      "sexy",
+      "slow",
       "sway",
       "tipsy"
     ]
@@ -4462,9 +4462,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "slow",
-      "sexy",
       "female",
+      "sexy",
+      "slow",
       "sway",
       "tipsy"
     ]
@@ -4474,9 +4474,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
+      "beat",
       "popping",
-      "beat"
+      "vibe"
     ]
   },
   {
@@ -4484,9 +4484,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
+      "beat",
       "popping",
-      "beat"
+      "vibe"
     ]
   },
   {
@@ -4494,9 +4494,9 @@
     "tags": [
       "rave_dances",
       "loop",
+      "beat",
       "hype",
-      "popping",
-      "beat"
+      "popping"
     ]
   },
   {
@@ -4504,9 +4504,9 @@
     "tags": [
       "rave_dances",
       "loop",
+      "beat",
       "hype",
-      "tap",
-      "beat"
+      "tap"
     ]
   },
   {
@@ -4514,9 +4514,9 @@
     "tags": [
       "rave_dances",
       "loop",
+      "beat",
       "hype",
-      "tap",
-      "beat"
+      "tap"
     ]
   },
   {
@@ -4524,10 +4524,10 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "freestyle",
       "beat",
-      "drunk"
+      "drunk",
+      "freestyle",
+      "hype"
     ]
   },
   {
@@ -4535,8 +4535,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "beat"
+      "beat",
+      "hype"
     ]
   },
   {
@@ -4544,10 +4544,10 @@
     "tags": [
       "rave_dances",
       "loop",
+      "female",
       "chill",
-      "subtle",
       "cute",
-      "female"
+      "subtle"
     ]
   },
   {
@@ -4555,9 +4555,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
+      "beat",
       "tap",
-      "beat"
+      "vibe"
     ]
   },
   {
@@ -4565,8 +4565,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
-      "female"
+      "female",
+      "vibe"
     ]
   },
   {
@@ -4574,9 +4574,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
+      "beat",
       "drunk",
-      "beat"
+      "vibe"
     ]
   },
   {
@@ -4584,9 +4584,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
+      "beat",
       "tipsy",
-      "beat"
+      "vibe"
     ]
   },
   {
@@ -4594,9 +4594,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
+      "beat",
       "tipsy",
-      "beat"
+      "vibe"
     ]
   },
   {
@@ -4604,8 +4604,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "chill",
-      "beat"
+      "beat",
+      "chill"
     ]
   },
   {
@@ -4613,8 +4613,8 @@
     "tags": [
       "rave_dances",
       "loop",
-      "chill",
-      "beat"
+      "beat",
+      "chill"
     ]
   },
   {
@@ -4622,9 +4622,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
       "arms",
-      "beat"
+      "beat",
+      "hype"
     ]
   },
   {
@@ -4632,9 +4632,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
+      "beat",
       "tipsy",
-      "beat"
+      "vibe"
     ]
   },
   {
@@ -4642,11 +4642,11 @@
     "tags": [
       "rave_dances",
       "loop",
-      "hype",
-      "tipsy",
       "beat",
       "fingergun",
-      "scissor"
+      "hype",
+      "scissor",
+      "tipsy"
     ]
   },
   {
@@ -4654,9 +4654,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
       "foot",
-      "tap"
+      "tap",
+      "vibe"
     ]
   },
   {
@@ -4664,9 +4664,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
       "foot",
-      "tap"
+      "tap",
+      "vibe"
     ]
   },
   {
@@ -4674,10 +4674,10 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
       "foot",
+      "silly",
       "tap",
-      "silly"
+      "vibe"
     ]
   },
   {
@@ -4685,9 +4685,9 @@
     "tags": [
       "rave_dances",
       "loop",
-      "vibe",
       "foot",
       "tap",
+      "vibe",
       "wave"
     ]
   },
@@ -4705,11 +4705,11 @@
     "tags": [
       "regular_dances",
       "loop",
-      "silly",
-      "fun",
+      "female",
       "cute",
       "dance",
-      "female"
+      "fun",
+      "silly"
     ]
   },
   {
@@ -4717,11 +4717,11 @@
     "tags": [
       "regular_dances",
       "loop",
-      "silly",
-      "fun",
+      "female",
       "cute",
       "dance",
-      "female"
+      "fun",
+      "silly"
     ]
   },
   {
@@ -4729,11 +4729,11 @@
     "tags": [
       "regular_dances",
       "loop",
-      "silly",
-      "fun",
+      "female",
       "cute",
       "dance",
-      "female"
+      "fun",
+      "silly"
     ]
   },
   {
@@ -4741,14 +4741,14 @@
     "tags": [
       "regular_dances",
       "loop",
-      "silly",
-      "fun",
+      "female",
       "cute",
       "dance",
-      "female",
       "exercise",
-      "zumba",
-      "warmup"
+      "fun",
+      "silly",
+      "warmup",
+      "zumba"
     ]
   },
   {
@@ -4756,14 +4756,14 @@
     "tags": [
       "regular_dances",
       "loop",
-      "silly",
-      "fun",
+      "female",
       "cute",
       "dance",
-      "female",
       "exercise",
-      "zumba",
-      "warmup"
+      "fun",
+      "silly",
+      "warmup",
+      "zumba"
     ]
   },
   {
@@ -4772,8 +4772,8 @@
       "regular_dances",
       "loop",
       "female",
-      "slow",
-      "sexy"
+      "sexy",
+      "slow"
     ]
   },
   {
@@ -4782,8 +4782,8 @@
       "regular_dances",
       "loop",
       "female",
-      "slow",
-      "sexy"
+      "sexy",
+      "slow"
     ]
   },
   {
@@ -4792,10 +4792,10 @@
       "regular_dances",
       "loop",
       "female",
-      "slow",
+      "bendover",
       "sexy",
       "shake",
-      "bendover"
+      "slow"
     ]
   },
   {
@@ -4803,9 +4803,9 @@
     "tags": [
       "regular_dances",
       "loop",
-      "idledance",
       "female",
-      "chill"
+      "chill",
+      "idledance"
     ]
   },
   {
@@ -4823,8 +4823,8 @@
       "regular_dances",
       "loop",
       "female",
-      "vibe",
-      "tipsy"
+      "tipsy",
+      "vibe"
     ]
   },
   {
@@ -4833,8 +4833,8 @@
       "regular_dances",
       "loop",
       "female",
-      "vibe",
-      "tipsy"
+      "tipsy",
+      "vibe"
     ]
   },
   {
@@ -4843,8 +4843,8 @@
       "regular_dances",
       "loop",
       "female",
-      "vibe",
-      "tipsy"
+      "tipsy",
+      "vibe"
     ]
   },
   {
@@ -4869,8 +4869,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
-      "tipsy"
+      "tipsy",
+      "vibe"
     ]
   },
   {
@@ -4878,9 +4878,9 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
+      "bops",
       "tipsy",
-      "bops"
+      "vibe"
     ]
   },
   {
@@ -4888,8 +4888,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
-      "bops"
+      "bops",
+      "vibe"
     ]
   },
   {
@@ -4897,8 +4897,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "chill",
-      "bops"
+      "bops",
+      "chill"
     ]
   },
   {
@@ -4934,8 +4934,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
-      "female"
+      "female",
+      "vibe"
     ]
   },
   {
@@ -4943,8 +4943,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
-      "female"
+      "female",
+      "vibe"
     ]
   },
   {
@@ -4952,8 +4952,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "hype",
-      "hand"
+      "hand",
+      "hype"
     ]
   },
   {
@@ -4961,8 +4961,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
-      "gangsign"
+      "gangsign",
+      "vibe"
     ]
   },
   {
@@ -4970,8 +4970,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
-      "beat"
+      "beat",
+      "vibe"
     ]
   },
   {
@@ -4979,8 +4979,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "hype",
-      "beat"
+      "beat",
+      "hype"
     ]
   },
   {
@@ -4988,8 +4988,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "hype",
-      "beat"
+      "beat",
+      "hype"
     ]
   },
   {
@@ -5008,9 +5008,9 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
       "beat",
-      "drunk"
+      "drunk",
+      "vibe"
     ]
   },
   {
@@ -5018,10 +5018,10 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
       "beat",
-      "step",
       "hand",
+      "step",
+      "vibe",
       "wave"
     ]
   },
@@ -5030,8 +5030,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "hype",
-      "beat"
+      "beat",
+      "hype"
     ]
   },
   {
@@ -5039,9 +5039,9 @@
     "tags": [
       "regular_dances",
       "loop",
-      "hype",
+      "beat",
       "foot",
-      "beat"
+      "hype"
     ]
   },
   {
@@ -5049,8 +5049,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "chill",
-      "female"
+      "female",
+      "chill"
     ]
   },
   {
@@ -5058,8 +5058,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
-      "beat"
+      "beat",
+      "vibe"
     ]
   },
   {
@@ -5067,11 +5067,11 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
+      "female",
       "beat",
       "head",
       "shake",
-      "female"
+      "vibe"
     ]
   },
   {
@@ -5079,10 +5079,10 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
       "beat",
       "down",
-      "low"
+      "low",
+      "vibe"
     ]
   },
   {
@@ -5090,8 +5090,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
-      "beat"
+      "beat",
+      "vibe"
     ]
   },
   {
@@ -5099,8 +5099,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "hype",
-      "beat"
+      "beat",
+      "hype"
     ]
   },
   {
@@ -5108,8 +5108,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "hype",
-      "beat"
+      "beat",
+      "hype"
     ]
   },
   {
@@ -5117,8 +5117,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "hype",
-      "beat"
+      "beat",
+      "hype"
     ]
   },
   {
@@ -5126,8 +5126,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "hype",
       "beat",
+      "hype",
       "skip"
     ]
   },
@@ -5136,8 +5136,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "hype",
       "beat",
+      "hype",
       "skip",
       "stomp"
     ]
@@ -5147,8 +5147,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "hype",
       "beat",
+      "hype",
       "wave"
     ]
   },
@@ -5173,8 +5173,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
-      "tipsy"
+      "tipsy",
+      "vibe"
     ]
   },
   {
@@ -5191,9 +5191,9 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
       "drunk",
-      "tired"
+      "tired",
+      "vibe"
     ]
   },
   {
@@ -5209,9 +5209,9 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
       "female",
-      "tipsy"
+      "tipsy",
+      "vibe"
     ]
   },
   {
@@ -5219,10 +5219,10 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
       "female",
+      "hip",
       "shake",
-      "hip"
+      "vibe"
     ]
   },
   {
@@ -5230,11 +5230,11 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
       "female",
-      "shake",
       "hip",
-      "strut"
+      "shake",
+      "strut",
+      "vibe"
     ]
   },
   {
@@ -5242,9 +5242,9 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
       "beat",
-      "popping"
+      "popping",
+      "vibe"
     ]
   },
   {
@@ -5252,8 +5252,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
       "step",
+      "vibe",
       "wave"
     ]
   },
@@ -5262,9 +5262,9 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
+      "shout",
       "tipsy",
-      "shout"
+      "vibe"
     ]
   },
   {
@@ -5272,10 +5272,10 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
-      "tipsy",
+      "beat",
       "bops",
-      "beat"
+      "tipsy",
+      "vibe"
     ]
   },
   {
@@ -5283,8 +5283,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
-      "drunk"
+      "drunk",
+      "vibe"
     ]
   },
   {
@@ -5292,9 +5292,9 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
       "female",
-      "tipsy"
+      "tipsy",
+      "vibe"
     ]
   },
   {
@@ -5302,8 +5302,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "vibe",
-      "clap"
+      "clap",
+      "vibe"
     ]
   },
   {
@@ -5311,8 +5311,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "sing",
-      "hand"
+      "hand",
+      "sing"
     ]
   },
   {
@@ -5320,9 +5320,9 @@
     "tags": [
       "regular_dances",
       "loop",
-      "sing",
-      "hand",
       "claw",
+      "hand",
+      "sing",
       "wave"
     ]
   },
@@ -5331,10 +5331,10 @@
     "tags": [
       "regular_dances",
       "loop",
-      "sway",
+      "female",
       "slow",
-      "wave",
-      "female"
+      "sway",
+      "wave"
     ]
   },
   {
@@ -5342,10 +5342,10 @@
     "tags": [
       "regular_dances",
       "loop",
-      "point",
-      "slow",
+      "female",
       "headroll",
-      "female"
+      "point",
+      "slow"
     ]
   },
   {
@@ -5353,8 +5353,8 @@
     "tags": [
       "regular_dances",
       "loop",
-      "sing",
-      "hand"
+      "hand",
+      "sing"
     ]
   },
   {
@@ -5376,12 +5376,12 @@
     "tags": [
       "regular_dances",
       "loop",
-      "wave",
-      "bops",
       "beat",
-      "drunk",
+      "bops",
       "bottle",
-      "hold"
+      "drunk",
+      "hold",
+      "wave"
     ]
   },
   {
@@ -5389,12 +5389,12 @@
     "tags": [
       "regular_dances",
       "loop",
-      "wave",
-      "bops",
       "beat",
-      "drunk",
+      "bops",
       "bottle",
-      "hold"
+      "drunk",
+      "hold",
+      "wave"
     ]
   },
   {
@@ -5403,9 +5403,9 @@
       "regular_dances",
       "loop",
       "beat",
-      "tipsy",
+      "hold",
       "tequila",
-      "hold"
+      "tipsy"
     ]
   },
   {
@@ -5414,9 +5414,9 @@
       "regular_dances",
       "loop",
       "beat",
-      "tipsy",
+      "hold",
       "tequila",
-      "hold"
+      "tipsy"
     ]
   },
   {
@@ -5425,9 +5425,9 @@
       "regular_dances",
       "loop",
       "beat",
-      "tipsy",
       "glass",
       "hold",
+      "tipsy",
       "wine"
     ]
   },
@@ -5437,11 +5437,11 @@
       "regular_dances",
       "loop",
       "beat",
-      "tipsy",
+      "beer",
       "bottle",
-      "hold",
       "gin",
-      "beer"
+      "hold",
+      "tipsy"
     ]
   },
   {
@@ -5450,9 +5450,9 @@
       "regular_dances",
       "loop",
       "beat",
-      "tipsy",
       "glass",
       "hold",
+      "tipsy",
       "wine"
     ]
   },
@@ -5461,1261 +5461,2359 @@
     "tags": [
       "regular_dances",
       "loop",
+      "female",
       "beat",
-      "tipsy",
+      "bodywave",
+      "drinking",
       "glass",
       "hold",
-      "wine",
-      "bodywave",
-      "drinking"
+      "tipsy",
+      "wine"
     ]
   },
   {
     "command": "/anim armchairrelaxed",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "comfy",
+      "couch",
+      "laidback",
+      "legs-raised",
+      "lounge",
+      "side-lean"
     ]
   },
   {
     "command": "/anim chillsit1",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "down",
+      "knee",
+      "leg",
+      "looking",
+      "upright"
     ]
   },
   {
     "command": "/anim chillsit2",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "arm",
+      "brush",
+      "lean",
+      "off",
+      "single"
     ]
   },
   {
     "command": "/anim chillsit3",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "elbow",
+      "forward",
+      "knee",
+      "lean"
     ]
   },
   {
     "command": "/anim chillsit4",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arm",
+      "chair",
+      "forward",
+      "knee",
+      "lean",
+      "leg"
     ]
   },
   {
     "command": "/anim crossedlegarmchair1",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "crossed",
+      "elbow",
+      "legs",
+      "rest"
     ]
   },
   {
     "command": "/anim cuffedsit1",
     "tags": [
-      "sitting"
+      "sitting",
+      "ground",
+      "pose",
+      "back",
+      "tied"
     ]
   },
   {
     "command": "/anim cuffedsit2",
     "tags": [
-      "sitting"
+      "sitting",
+      "ground",
+      "pose",
+      "back",
+      "tied"
     ]
   },
   {
     "command": "/anim desksit1",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arm",
+      "chair",
+      "feet",
+      "ledge",
+      "think"
     ]
   },
   {
     "command": "/anim desksit2",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arm",
+      "chair",
+      "computer",
+      "typing"
     ]
   },
   {
     "command": "/anim desksitreading",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "hold",
+      "read"
     ]
   },
   {
     "command": "/anim deskwork",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "chair",
+      "cleric",
+      "office",
+      "paper"
     ]
   },
   {
     "command": "/anim elbowsit",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "elbow",
+      "forward",
+      "knee",
+      "lean"
     ]
   },
   {
     "command": "/anim elbowsit2",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "down",
+      "elbow",
+      "forward",
+      "knee",
+      "lean",
+      "look"
     ]
   },
   {
     "command": "/anim femalerelaxedsitting1",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "female",
+      "crossed",
+      "hands",
+      "knee",
+      "leg"
     ]
   },
   {
     "command": "/anim femalerelaxedsitting10",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "crossed",
+      "hands",
+      "knee",
+      "leg"
     ]
   },
   {
     "command": "/anim femalerelaxedsitting11",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "crossed",
+      "hands",
+      "knee",
+      "leg",
+      "upright"
     ]
   },
   {
     "command": "/anim femalerelaxedsitting2",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "crossed",
+      "forward",
+      "hands",
+      "knee",
+      "lean",
+      "leg"
     ]
   },
   {
     "command": "/anim femalerelaxedsitting3",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "arms",
+      "chair",
+      "hand",
+      "table",
+      "upright"
     ]
   },
   {
     "command": "/anim femalerelaxedsitting4",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "female",
+      "hands",
+      "knee",
+      "upright"
     ]
   },
   {
     "command": "/anim femalerelaxedsitting5",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "female",
+      "couch",
+      "hands",
+      "ledge",
+      "upright"
     ]
   },
   {
     "command": "/anim femalerelaxedsitting6",
     "tags": [
-      "sitting"
+      "sitting",
+      "scene",
+      "female",
+      "hands",
+      "thigh",
+      "upright"
     ]
   },
   {
     "command": "/anim femalerelaxedsitting7",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "arch",
+      "back",
+      "edge",
+      "forward",
+      "hands",
+      "lean",
+      "ledge"
     ]
   },
   {
     "command": "/anim femalerelaxedsitting8",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "arch",
+      "back",
+      "crossed",
+      "hands",
+      "legs",
+      "upright"
     ]
   },
   {
     "command": "/anim femalerelaxedsitting9",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "hands",
+      "knee",
+      "up"
     ]
   },
   {
     "command": "/anim femalesitting1",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "anxious",
+      "polite",
+      "upright"
     ]
   },
   {
     "command": "/anim femalesitting2",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "crossed",
+      "hands",
+      "knee",
+      "legs"
     ]
   },
   {
     "command": "/anim femalesitting3",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "anxious",
+      "polite",
+      "upright"
     ]
   },
   {
     "command": "/anim femalesitting4",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "upright"
     ]
   },
   {
     "command": "/anim femalesitting5",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "arms",
+      "crossed",
+      "legs",
+      "upright"
     ]
   },
   {
     "command": "/anim femalesittingstool",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "anxious",
+      "polite",
+      "upright"
     ]
   },
   {
     "command": "/anim frustratedsit",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "anxious",
+      "stressed",
+      "upright"
     ]
   },
   {
     "command": "/anim fsitchair1",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "crossed",
+      "hands",
+      "legs",
+      "thigh",
+      "upright"
     ]
   },
   {
     "command": "/anim fsitchair2",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "arms",
+      "forward",
+      "lean",
+      "table"
     ]
   },
   {
     "command": "/anim fsitchair3",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "bar",
+      "chair",
+      "high",
+      "stool",
+      "table"
     ]
   },
   {
     "command": "/anim fsitchair4",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "chair",
+      "high",
+      "stool"
     ]
   },
   {
     "command": "/anim fsitchair5",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "couch",
+      "hands"
     ]
   },
   {
     "command": "/anim fsitchair6",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "female",
+      "arms",
+      "crossed",
+      "idle",
+      "legs"
     ]
   },
   {
     "command": "/anim fsitchair7",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "female",
+      "back",
+      "crossed",
+      "hands",
+      "laid",
+      "legs",
+      "thigh"
     ]
   },
   {
     "command": "/anim fsitchair8",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "female",
+      "hands",
+      "knee",
+      "upright"
     ]
   },
   {
     "command": "/anim gentlemensitting",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "leg",
+      "upright"
     ]
   },
   {
     "command": "/anim lazy",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "arms",
+      "back",
+      "laid",
+      "stretch"
     ]
   },
   {
     "command": "/anim leftlegarmchair",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "arm",
+      "leg",
+      "rest",
+      "up"
     ]
   },
   {
     "command": "/anim malerelaxedsitting1",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "elbow",
+      "forward",
+      "knee",
+      "lean",
+      "step",
+      "up"
     ]
   },
   {
     "command": "/anim malerelaxedsitting2",
     "tags": [
-      "sitting"
+      "sitting",
+      "scene",
+      "male",
+      "elbow",
+      "face",
+      "forward",
+      "knee",
+      "lean",
+      "palm",
+      "rest",
+      "step",
+      "up"
     ]
   },
   {
     "command": "/anim malerelaxedsitting3",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "elbow",
+      "forward",
+      "lean",
+      "thigh"
     ]
   },
   {
     "command": "/anim malerelaxedsitting4",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "elbow",
+      "foot",
+      "thigh",
+      "up"
     ]
   },
   {
     "command": "/anim malerelaxedsitting5",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "arm",
+      "forward",
+      "knee",
+      "lean",
+      "rest",
+      "thigh",
+      "think"
     ]
   },
   {
     "command": "/anim malesit1",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "back",
+      "drinking",
+      "laid"
     ]
   },
   {
     "command": "/anim malesit2",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "back",
+      "holding",
+      "laid"
     ]
   },
   {
     "command": "/anim malesit3",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "back",
+      "cool",
+      "crossed",
+      "laid",
+      "leg",
+      "think"
     ]
   },
   {
     "command": "/anim malesit4",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "back",
+      "cool",
+      "crossed",
+      "hand",
+      "laid",
+      "wide"
     ]
   },
   {
     "command": "/anim malesit5",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "arm",
+      "foot",
+      "lean",
+      "leg",
+      "rest",
+      "up"
     ]
   },
   {
     "command": "/anim malesit6",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "arm",
+      "cool",
+      "hold",
+      "lean",
+      "rest"
     ]
   },
   {
     "command": "/anim malesit7",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "arm",
+      "cool",
+      "crossed",
+      "lean",
+      "leg",
+      "rest"
     ]
   },
   {
     "command": "/anim malesit8",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "down",
+      "forward",
+      "lean",
+      "looking"
     ]
   },
   {
     "command": "/anim msitchair1",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "arm",
+      "rest"
     ]
   },
   {
     "command": "/anim msitchair10",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "elbow",
+      "forward",
+      "hand",
+      "knee",
+      "lean",
+      "rest",
+      "thigh"
     ]
   },
   {
     "command": "/anim msitchair11",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "around",
+      "forward",
+      "idle",
+      "lean",
+      "looking"
     ]
   },
   {
     "command": "/anim msitchair12",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "upright"
     ]
   },
   {
     "command": "/anim msitchair13",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "elbow",
+      "forward",
+      "lean",
+      "rest",
+      "thigh"
     ]
   },
   {
     "command": "/anim msitchair14",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "back",
+      "cool",
+      "finger",
+      "hands",
+      "laid",
+      "tips"
     ]
   },
   {
     "command": "/anim msitchair15",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "back",
+      "cool",
+      "finger",
+      "foot",
+      "hand",
+      "knee",
+      "laid",
+      "lock"
     ]
   },
   {
     "command": "/anim msitchair16",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "hands",
+      "knee",
+      "upright"
     ]
   },
   {
     "command": "/anim msitchair2",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "arms",
+      "counter",
+      "forward",
+      "lean",
+      "table",
+      "top"
     ]
   },
   {
     "command": "/anim msitchair3",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "arm",
+      "chair",
+      "rest"
     ]
   },
   {
     "command": "/anim msitchair4",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "arm",
+      "close",
+      "face",
+      "hand",
+      "hold"
     ]
   },
   {
     "command": "/anim msitchair5",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "back",
+      "laid"
     ]
   },
   {
     "command": "/anim msitchair6",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "hands",
+      "nod",
+      "table"
     ]
   },
   {
     "command": "/anim msitchair7",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "hands",
+      "table"
     ]
   },
   {
     "command": "/anim msitchair8",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "hands",
+      "table"
     ]
   },
   {
     "command": "/anim msitchair9",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "arms",
+      "crossed",
+      "upright"
     ]
   },
   {
     "command": "/anim officesit1",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arm",
+      "desk",
+      "rest",
+      "upright",
+      "work"
     ]
   },
   {
     "command": "/anim officesit10",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "desk",
+      "head",
+      "lean",
+      "mouse",
+      "rest",
+      "work"
     ]
   },
   {
     "command": "/anim officesit11",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arm",
+      "desk",
+      "lean",
+      "mouse",
+      "rest",
+      "work"
     ]
   },
   {
     "command": "/anim officesit12",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arms",
+      "back",
+      "laid",
+      "lean",
+      "relax"
     ]
   },
   {
     "command": "/anim officesit13",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arms",
+      "back",
+      "laid",
+      "lean",
+      "relax",
+      "rest"
     ]
   },
   {
     "command": "/anim officesit14",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "elbow",
+      "fingers",
+      "forward",
+      "hands",
+      "lean",
+      "lock",
+      "up"
     ]
   },
   {
     "command": "/anim officesit15",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arms",
+      "desk",
+      "hold",
+      "paper",
+      "work"
     ]
   },
   {
     "command": "/anim officesit2",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "desk",
+      "hands",
+      "knee",
+      "work"
     ]
   },
   {
     "command": "/anim officesit3",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arm",
+      "lean",
+      "rest",
+      "right"
     ]
   },
   {
     "command": "/anim officesit4",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "desk",
+      "elbow",
+      "forward",
+      "knee",
+      "lean",
+      "work"
     ]
   },
   {
     "command": "/anim officesit5",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "desk",
+      "scratch",
+      "upright",
+      "work"
     ]
   },
   {
     "command": "/anim officesit6",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "cool",
+      "crossed",
+      "desk",
+      "lean",
+      "legs",
+      "right",
+      "work"
     ]
   },
   {
     "command": "/anim officesit7",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "crossed",
+      "desk",
+      "hands",
+      "knee",
+      "legs",
+      "work"
     ]
   },
   {
     "command": "/anim officesit8",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "back",
+      "crossed",
+      "desk",
+      "lean",
+      "legs",
+      "work"
     ]
   },
   {
     "command": "/anim officesit9",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arms",
+      "crossed",
+      "desk",
+      "legs",
+      "upright",
+      "work"
     ]
   },
   {
     "command": "/anim playdrums1",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop"
     ]
   },
   {
     "command": "/anim pokersit1",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "cards",
+      "game",
+      "hold"
     ]
   },
   {
     "command": "/anim pokersit2",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "cards",
+      "game",
+      "hands",
+      "hold"
     ]
   },
   {
     "command": "/anim pokersit3",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "cards",
+      "game",
+      "hold"
     ]
   },
   {
     "command": "/anim pokersit4",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "cards",
+      "game",
+      "hold"
     ]
   },
   {
     "command": "/anim rightbenchlean",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "arms",
+      "head",
+      "knee",
+      "rest",
+      "up"
     ]
   },
   {
     "command": "/anim sidesit",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "lean",
+      "side"
     ]
   },
   {
     "command": "/anim sidesit2",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "female",
+      "lean",
+      "side"
     ]
   },
   {
     "command": "/anim sit",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "upright"
     ]
   },
   {
     "command": "/anim sit10",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "upright"
     ]
   },
   {
     "command": "/anim sit2",
     "tags": [
-      "sitting"
+      "sitting",
+      "ground",
+      "pose",
+      "knee",
+      "surface",
+      "up"
     ]
   },
   {
     "command": "/anim sit3",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arm",
+      "desk",
+      "forward",
+      "lean",
+      "table"
     ]
   },
   {
     "command": "/anim sit4",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "crossed",
+      "hands",
+      "legs",
+      "polite",
+      "upright"
     ]
   },
   {
     "command": "/anim sit5",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "crossed",
+      "hands",
+      "polite",
+      "upright"
     ]
   },
   {
     "command": "/anim sit6",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "back",
+      "hands",
+      "laid",
+      "thigh"
     ]
   },
   {
     "command": "/anim sit7",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "forehand",
+      "forward",
+      "lean",
+      "thigh"
     ]
   },
   {
     "command": "/anim sit8",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "upright"
     ]
   },
   {
     "command": "/anim sit9",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "upright"
     ]
   },
   {
     "command": "/anim sitbeer",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "bottle",
+      "chug",
+      "drink",
+      "forward",
+      "lean"
     ]
   },
   {
     "command": "/anim sitbeerdrunk",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "bottle",
+      "chug",
+      "drink",
+      "forward",
+      "lean"
     ]
   },
   {
     "command": "/anim sitbytv",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "forward",
+      "lean",
+      "remote"
     ]
   },
   {
     "command": "/anim sitchair",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "hold",
+      "upright"
     ]
   },
   {
     "command": "/anim sitchair10",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arm",
+      "back",
+      "hold",
+      "laid",
+      "rest"
     ]
   },
   {
     "command": "/anim sitchair11",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "arm",
+      "elbow",
+      "rest",
+      "up",
+      "upright"
     ]
   },
   {
     "command": "/anim sitchair12",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "arm",
+      "back",
+      "head",
+      "laid",
+      "rest",
+      "scratch",
+      "think"
     ]
   },
   {
     "command": "/anim sitchair13",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "arm",
+      "rest"
     ]
   },
   {
     "command": "/anim sitchair14",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "forward",
+      "hold",
+      "lean"
     ]
   },
   {
     "command": "/anim sitchair15",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "back",
+      "foot",
+      "hands",
+      "laid",
+      "tap",
+      "thigh"
     ]
   },
   {
     "command": "/anim sitchair16",
     "tags": [
-      "sitting"
+      "sitting",
+      "scene",
+      "back",
+      "laid"
     ]
   },
   {
     "command": "/anim sitchair17",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "cig",
+      "forward",
+      "hold",
+      "lean",
+      "smoke"
     ]
   },
   {
     "command": "/anim sitchair18",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "forward",
+      "lean"
     ]
   },
   {
     "command": "/anim sitchair19",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "arm",
+      "forward",
+      "knee",
+      "lean",
+      "rest"
     ]
   },
   {
     "command": "/anim sitchair2",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arm",
+      "elbow",
+      "lean",
+      "nod",
+      "rest",
+      "right"
     ]
   },
   {
     "command": "/anim sitchair20",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "lean",
+      "left"
     ]
   },
   {
     "command": "/anim sitchair21",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "cool",
+      "fist",
+      "forward",
+      "hold",
+      "lean"
     ]
   },
   {
     "command": "/anim sitchair22",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arm",
+      "desk",
+      "forward",
+      "head",
+      "lean",
+      "rest",
+      "table"
     ]
   },
   {
     "command": "/anim sitchair23",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "upright"
     ]
   },
   {
     "command": "/anim sitchair24",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "cover",
+      "ear",
+      "foot",
+      "hands",
+      "head",
+      "up",
+      "upright"
     ]
   },
   {
     "command": "/anim sitchair25",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "elbow",
+      "lean",
+      "nod",
+      "rest",
+      "right"
     ]
   },
   {
     "command": "/anim sitchair26",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "back",
+      "indian",
+      "laid",
+      "sit"
     ]
   },
   {
     "command": "/anim sitchair27",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "back",
+      "crossed",
+      "feet",
+      "laid"
     ]
   },
   {
     "command": "/anim sitchair28",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "back",
+      "crossed",
+      "feet",
+      "foot",
+      "laid",
+      "up"
     ]
   },
   {
     "command": "/anim sitchair29",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "forward",
+      "hold",
+      "lean"
     ]
   },
   {
     "command": "/anim sitchair3",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "arm",
+      "back",
+      "laid",
+      "rest"
     ]
   },
   {
     "command": "/anim sitchair30",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "female",
+      "back",
+      "crossed",
+      "hand",
+      "lean",
+      "legs",
+      "thigh"
     ]
   },
   {
     "command": "/anim sitchair31",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "back",
+      "fingers",
+      "laid",
+      "lock"
     ]
   },
   {
     "command": "/anim sitchair32",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "back",
+      "feet",
+      "hand",
+      "lean",
+      "surface",
+      "thigh",
+      "up"
     ]
   },
   {
     "command": "/anim sitchair33",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "back",
+      "feet",
+      "hand",
+      "lean",
+      "surface",
+      "thigh",
+      "up"
     ]
   },
   {
     "command": "/anim sitchair34",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "arm",
+      "back",
+      "elbow",
+      "feet",
+      "hand",
+      "lean",
+      "surface",
+      "thigh",
+      "up"
     ]
   },
   {
     "command": "/anim sitchair35",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "hands",
+      "thigh",
+      "upright"
     ]
   },
   {
     "command": "/anim sitchair36",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "foot",
+      "forward",
+      "lean",
+      "tap"
     ]
   },
   {
     "command": "/anim sitchair37",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "back",
+      "chill",
+      "laid",
+      "lean",
+      "left",
+      "relax",
+      "side"
     ]
   },
   {
     "command": "/anim sitchair38",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "back",
+      "chill",
+      "laid",
+      "lean",
+      "left",
+      "relax",
+      "side"
     ]
   },
   {
     "command": "/anim sitchair39",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "forward",
+      "hold",
+      "lean"
     ]
   },
   {
     "command": "/anim sitchair4",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "bar",
+      "forward",
+      "hand",
+      "lean",
+      "stool",
+      "table"
     ]
   },
   {
     "command": "/anim sitchair40",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "female",
+      "crossed",
+      "legs"
     ]
   },
   {
     "command": "/anim sitchair41",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "back",
+      "foot",
+      "laid",
+      "up"
     ]
   },
   {
     "command": "/anim sitchair42",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "arm",
+      "back",
+      "laid",
+      "rest"
     ]
   },
   {
     "command": "/anim sitchair5",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "hold",
+      "upright"
     ]
   },
   {
     "command": "/anim sitchair6",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "upright"
     ]
   },
   {
     "command": "/anim sitchair7",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "hold",
+      "upright"
     ]
   },
   {
     "command": "/anim sitchair8",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "male",
+      "foot",
+      "knee",
+      "surface",
+      "up"
     ]
   },
   {
     "command": "/anim sitchair9",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "arm",
+      "back",
+      "laid",
+      "rest"
     ]
   },
   {
     "command": "/anim sitlegsup",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "female",
+      "crossed",
+      "foot",
+      "up"
     ]
   },
   {
     "command": "/anim sitmale1",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "male",
+      "arms",
+      "back",
+      "lean",
+      "rest"
     ]
   },
   {
     "command": "/anim sitonbed1",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "back",
+      "laid",
+      "rest",
+      "surface"
     ]
   },
   {
     "command": "/anim sitrubchin",
     "tags": [
-      "sitting"
+      "sitting",
+      "pose",
+      "think",
+      "upright"
     ]
   },
   {
     "command": "/anim stairssit",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "forward",
+      "knee",
+      "lean",
+      "stairs",
+      "up"
     ]
   },
   {
     "command": "/anim toiletsit",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "forward",
+      "lean",
+      "toilet"
     ]
   },
   {
     "command": "/anim weepingsit",
     "tags": [
-      "sitting"
+      "sitting",
+      "loop",
+      "crying",
+      "upright"
     ]
   },
   {
     "command": "/anim bong1",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "scene",
+      "grab",
+      "table"
     ]
   },
   {
     "command": "/anim bong2",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "scene",
+      "grab",
+      "table"
     ]
   },
   {
     "command": "/anim bong3",
     "tags": [
-      "smoking"
+      "smoking",
+      "sitting",
+      "pose",
+      "ground"
     ]
   },
   {
     "command": "/anim bong4",
     "tags": [
-      "smoking"
+      "smoking",
+      "sitting",
+      "pose",
+      "ground"
     ]
   },
   {
     "command": "/anim joint",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "controls",
+      "quick",
+      "woozy"
     ]
   },
   {
     "command": "/anim joint2",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "controls",
+      "long"
     ]
   },
   {
     "command": "/anim joint3",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "controls",
+      "long"
     ]
   },
   {
     "command": "/anim joint4",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "controls",
+      "smell"
     ]
   },
   {
     "command": "/anim joint5",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "controls",
+      "long",
+      "quick"
     ]
   },
   {
     "command": "/anim joint6",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "controls",
+      "zone"
     ]
   },
   {
     "command": "/anim smoke1",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "male",
+      "controls"
     ]
   },
   {
     "command": "/anim smoke2",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "female",
+      "controls"
     ]
   },
   {
     "command": "/anim smoke3",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "controls",
+      "light"
     ]
   },
   {
     "command": "/anim smoke5",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "controls",
+      "chill"
     ]
   },
   {
     "command": "/anim smoke6",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "controls",
+      "chill",
+      "side"
     ]
   },
   {
     "command": "/anim smoke7",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "controls",
+      "chill",
+      "thumbhold"
     ]
   },
   {
     "command": "/anim smoke8",
     "tags": [
-      "smoking"
+      "smoking",
+      "loop",
+      "controls",
+      "chill",
+      "often",
+      "talk"
     ]
   },
   {
     "command": "/anim vaping1",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "controls",
+      "chill"
     ]
   },
   {
     "command": "/anim vaping2",
     "tags": [
-      "smoking"
+      "smoking",
+      "standing",
+      "loop",
+      "controls",
+      "chill"
     ]
   },
   {
     "command": "/anim antsy",
     "tags": [
-      "social"
+      "social",
+      "standing"
     ]
   },
   {
     "command": "/anim antsyknocking",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop"
     ]
   },
   {
     "command": "/anim antsyknocking1",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop"
     ]
   },
   {
     "command": "/anim arguing",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "argue",
+      "mad"
     ]
   },
   {
     "command": "/anim autostop1",
     "tags": [
-      "social"
+      "social",
+      "pose",
+      "controls",
+      "stop",
+      "wave"
     ]
   },
   {
     "command": "/anim barman1",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "drinks",
+      "pour",
+      "serve"
     ]
   },
   {
     "command": "/anim barman2",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "drinks",
+      "faster",
+      "pour",
+      "serve"
     ]
   },
   {
     "command": "/anim barman3",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "drinks",
+      "faster",
+      "pour",
+      "serve"
     ]
   },
   {
     "command": "/anim bartender1",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "counter",
+      "dance",
+      "forward",
+      "lean",
+      "vibe"
     ]
   },
   {
     "command": "/anim bartender2",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "counter",
+      "lean",
+      "talk"
     ]
   },
   {
     "command": "/anim beltgrab",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "officer",
+      "sway"
     ]
   },
   {
     "command": "/anim beltgrablook",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "around",
+      "confused",
+      "look",
+      "waist"
     ]
   },
   {
     "command": "/anim breakin1",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "lockpick"
     ]
   },
   {
     "command": "/anim canestand",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "pose",
+      "cane"
     ]
   },
   {
     "command": "/anim canewalk",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "pose",
+      "controls",
+      "grandpa",
+      "old",
+      "walking"
     ]
   },
   {
     "command": "/anim cheering",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "cheer",
+      "hype",
+      "jump",
+      "yay"
     ]
   },
   {
     "command": "/anim clean3",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop",
+      "bar",
+      "clean",
+      "counter",
+      "table"
     ]
   },
   {
     "command": "/anim computer1",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop",
+      "computer",
+      "hack",
+      "type"
     ]
   },
   {
     "command": "/anim cooking",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "chill",
+      "oopsie",
+      "steering"
     ]
   },
   {
     "command": "/anim cower1",
     "tags": [
-      "social"
+      "social",
+      "ground",
+      "loop",
+      "crouched",
+      "hostage",
+      "scared"
     ]
   },
   {
     "command": "/anim creeperledge",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "??"
     ]
   },
   {
     "command": "/anim crying1",
     "tags": [
-      "social"
+      "social",
+      "ground",
+      "loop",
+      "breakdown",
+      "hostage",
+      "scared"
     ]
   },
   {
     "command": "/anim crying2",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop",
+      "breakdown",
+      "scared"
     ]
   },
   {
     "command": "/anim crying3",
     "tags": [
-      "social"
+      "social",
+      "ground",
+      "loop",
+      "breakdown",
+      "hostage",
+      "scared"
     ]
   },
   {
     "command": "/anim crying4",
     "tags": [
-      "social"
+      "social",
+      "ground",
+      "loop",
+      "breakdown",
+      "hostage",
+      "scared"
     ]
   },
   {
     "command": "/anim crying5",
     "tags": [
-      "social"
+      "social",
+      "sitting",
+      "pose",
+      "male",
+      "breakdown",
+      "scared"
     ]
   },
   {
     "command": "/anim cuffing",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "break",
+      "in",
+      "lock"
     ]
   },
   {
     "command": "/anim djidle",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "chill",
+      "dj"
     ]
   },
   {
     "command": "/anim djidle10",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "dance",
+      "dj",
+      "headphones",
+      "pick",
+      "up"
     ]
   },
   {
     "command": "/anim djidle11",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "chill",
+      "dance",
+      "dj"
     ]
   },
   {
     "command": "/anim djidle12",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dance",
+      "dj",
+      "mix"
     ]
   },
   {
     "command": "/anim djidle13",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
@@ -6727,1123 +7825,1853 @@
   {
     "command": "/anim djidle15",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djidle16",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj",
+      "drink",
+      "pickup"
     ]
   },
   {
     "command": "/anim djidle17",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djidle18",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "dj",
+      "long"
     ]
   },
   {
     "command": "/anim djidle2",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "dj",
+      "long"
     ]
   },
   {
     "command": "/anim djidle3",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djidle4",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djidle5",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djidle6",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djidle7",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djidle8",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djidle9",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djset",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djsync",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dance",
+      "dj",
+      "vibe"
     ]
   },
   {
     "command": "/anim djsync10",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djsync2",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dance",
+      "dj",
+      "vibe"
     ]
   },
   {
     "command": "/anim djsync3",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djsync4",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dj"
     ]
   },
   {
     "command": "/anim djsync5",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "appreciation",
+      "clap",
+      "dj"
     ]
   },
   {
     "command": "/anim djsync6",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dance",
+      "dj",
+      "hype",
+      "turn"
     ]
   },
   {
     "command": "/anim djsync7",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "clap",
+      "dj",
+      "vibe"
     ]
   },
   {
     "command": "/anim djsync8",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "dance",
+      "dj",
+      "hype",
+      "vibe"
     ]
   },
   {
     "command": "/anim djsync9",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "arm",
+      "dj",
+      "raise"
     ]
   },
   {
     "command": "/anim dustshakeoff",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "clean",
+      "self"
     ]
   },
   {
     "command": "/anim excited",
     "tags": [
-      "social"
+      "social",
+      "scene"
     ]
   },
   {
     "command": "/anim exhausted",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "breath",
+      "tired"
     ]
   },
   {
     "command": "/anim femalecheer1",
     "tags": [
-      "social"
+      "social",
+      "female",
+      "cheer",
+      "hype",
+      "jump"
     ]
   },
   {
     "command": "/anim femalecheer2",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "female",
+      "cheer",
+      "hype",
+      "jump"
     ]
   },
   {
     "command": "/anim femalecheer3",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "female",
+      "cheer",
+      "hype",
+      "jump"
     ]
   },
   {
     "command": "/anim femalecheer4",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "scene",
+      "female",
+      "cheer"
     ]
   },
   {
     "command": "/anim garbage",
     "tags": [
-      "social"
+      "social",
+      "pose",
+      "controls",
+      "noitem"
     ]
   },
   {
     "command": "/anim girlflirting1",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "female",
+      "bend",
+      "flirt",
+      "kneel",
+      "playful"
     ]
   },
   {
     "command": "/anim golfswing",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "golf",
+      "shoot",
+      "swing"
     ]
   },
   {
     "command": "/anim handsinpockets1",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "controls",
+      "pocket",
+      "sweater"
     ]
   },
   {
     "command": "/anim handsinpockets2",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "controls",
+      "cool",
+      "pants",
+      "pocket"
     ]
   },
   {
     "command": "/anim hangout",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop",
+      "chill",
+      "hang",
+      "tipsy"
     ]
   },
   {
     "command": "/anim hangover",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop",
+      "drunk",
+      "hangover",
+      "leaning",
+      "weird"
     ]
   },
   {
     "command": "/anim hippy",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "attention",
+      "chill",
+      "hang",
+      "poser"
     ]
   },
   {
     "command": "/anim hoboaddict",
     "tags": [
-      "social"
+      "social",
+      "pose",
+      "controls",
+      "addict",
+      "depressed",
+      "down",
+      "head",
+      "sad",
+      "tired",
+      "weird"
     ]
   },
   {
     "command": "/anim holdingback",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "fight",
+      "holdback",
+      "inbetween",
+      "separate"
     ]
   },
   {
     "command": "/anim holstergrab",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "controls",
+      "gun",
+      "hold"
     ]
   },
   {
     "command": "/anim ledgetaking",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "ledge",
+      "observe",
+      "specific",
+      "taking",
+      "unique"
     ]
   },
   {
     "command": "/anim letsfight",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "fight",
+      "initiate",
+      "taunt"
     ]
   },
   {
     "command": "/anim locksafe",
     "tags": [
-      "social"
+      "social",
+      "pose"
     ]
   },
   {
     "command": "/anim lookingup1",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "look",
+      "observe",
+      "up"
     ]
   },
   {
     "command": "/anim malecheer1",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop",
+      "male",
+      "cheer",
+      "clap"
     ]
   },
   {
     "command": "/anim malecheer2",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop",
+      "male",
+      "cheer",
+      "clap"
     ]
   },
   {
     "command": "/anim malecheer3",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop",
+      "male",
+      "clap"
     ]
   },
   {
     "command": "/anim malecheer4",
     "tags": [
-      "social"
+      "social",
+      "male",
+      "chill",
+      "clap"
     ]
   },
   {
     "command": "/anim malepose1",
     "tags": [
-      "social"
+      "social",
+      "male",
+      "??"
     ]
   },
   {
     "command": "/anim massage1",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "back",
+      "kneel",
+      "leg"
     ]
   },
   {
     "command": "/anim massage2",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "back",
+      "kneel",
+      "leg"
     ]
   },
   {
     "command": "/anim meditation1",
     "tags": [
-      "social"
+      "social",
+      "ground",
+      "meditate"
     ]
   },
   {
     "command": "/anim needtopee",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "antsy"
     ]
   },
   {
     "command": "/anim paying1",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop",
+      "bend",
+      "count",
+      "money"
     ]
   },
   {
     "command": "/anim pee",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "male",
+      "piss"
     ]
   },
   {
     "command": "/anim pettingadog",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "animal",
+      "pet"
     ]
   },
   {
     "command": "/anim point",
     "tags": [
-      "social"
+      "social",
+      "pose",
+      "controls"
     ]
   },
   {
     "command": "/anim pointingup1",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "point"
     ]
   },
   {
     "command": "/anim praying1",
     "tags": [
-      "social"
+      "social",
+      "pose",
+      "pray"
     ]
   },
   {
     "command": "/anim radiochat",
     "tags": [
-      "social"
+      "social",
+      "controls",
+      "hold",
+      "radio",
+      "walk"
     ]
   },
   {
     "command": "/anim radiochat2",
     "tags": [
-      "social"
+      "social",
+      "pose",
+      "controls",
+      "hold",
+      "radio"
     ]
   },
   {
     "command": "/anim radiochat3",
     "tags": [
-      "social"
+      "social",
+      "pose",
+      "controls",
+      "focus",
+      "radio"
     ]
   },
   {
     "command": "/anim radiochat4",
     "tags": [
-      "social"
+      "social",
+      "phone",
+      "controls",
+      "radio",
+      "talk"
     ]
   },
   {
     "command": "/anim radiochat5",
     "tags": [
-      "social"
+      "social",
+      "controls",
+      "radio",
+      "shoulder"
     ]
   },
   {
     "command": "/anim radiochat6",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "controls",
+      "intense",
+      "radio",
+      "talk"
     ]
   },
   {
     "command": "/anim running1",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "controls",
+      "jog",
+      "movement"
     ]
   },
   {
     "command": "/anim running2",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "controls",
+      "fast",
+      "jog",
+      "movement"
     ]
   },
   {
     "command": "/anim scared1",
     "tags": [
-      "social"
+      "social",
+      "ground",
+      "loop",
+      "crouch",
+      "hostage"
     ]
   },
   {
     "command": "/anim scared2",
     "tags": [
-      "social"
+      "social",
+      "ground",
+      "loop",
+      "crouch",
+      "hostage"
     ]
   },
   {
     "command": "/anim scared3",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "bend",
+      "crouch",
+      "hostage"
     ]
   },
   {
     "command": "/anim scared4",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop",
+      "panick",
+      "talk",
+      "worried",
+      "worry"
     ]
   },
   {
     "command": "/anim scared5",
     "tags": [
-      "social"
+      "social",
+      "ground",
+      "hostage",
+      "kneel",
+      "look"
     ]
   },
   {
     "command": "/anim shot1",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "counter",
+      "drink",
+      "upnod"
     ]
   },
   {
     "command": "/anim shot2",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "counter",
+      "drink"
     ]
   },
   {
     "command": "/anim shot3",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "counter",
+      "drink",
+      "uneasy"
     ]
   },
   {
     "command": "/anim smokingcough",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "cough",
+      "hard"
     ]
   },
   {
     "command": "/anim startrace1",
     "tags": [
-      "social"
+      "social",
+      "female",
+      "go",
+      "signal"
     ]
   },
   {
     "command": "/anim telescope1",
     "tags": [
-      "social"
+      "social",
+      "loop"
     ]
   },
   {
     "command": "/anim telescope2",
     "tags": [
-      "social"
+      "social",
+      "standing",
+      "loop",
+      "stalk"
     ]
   },
   {
     "command": "/anim tense",
     "tags": [
-      "social"
+      "social",
+      "loop"
     ]
   },
   {
     "command": "/anim thinking",
     "tags": [
-      "social"
+      "social",
+      "scene",
+      "ponder",
+      "think"
     ]
   },
   {
     "command": "/anim thinking2",
     "tags": [
-      "social"
+      "social",
+      "female",
+      "ponder",
+      "think"
     ]
   },
   {
     "command": "/anim tired1",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "bend",
+      "breath",
+      "exhausted",
+      "rest"
     ]
   },
   {
     "command": "/anim toodrunk",
     "tags": [
-      "social"
+      "social",
+      "pose",
+      "drunk",
+      "weird"
     ]
   },
   {
     "command": "/anim upset",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "argue",
+      "disrespect",
+      "taunt"
     ]
   },
   {
     "command": "/anim warming1",
     "tags": [
-      "social"
+      "social",
+      "??"
     ]
   },
   {
     "command": "/anim wassup",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "argue",
+      "disrespect",
+      "taunt"
     ]
   },
   {
     "command": "/anim whistle1",
     "tags": [
-      "social"
+      "social",
+      "scene"
     ]
   },
   {
     "command": "/anim worried",
     "tags": [
-      "social"
+      "social",
+      "loop",
+      "controls",
+      "scared",
+      "worry"
     ]
   },
   {
     "command": "/anim 61",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "forward",
+      "gesture",
+      "getup",
+      "hand",
+      "lean"
     ]
   },
   {
     "command": "/anim 62",
     "tags": [
-      "standing"
+      "standing",
+      "crossed",
+      "guard",
+      "hand",
+      "security",
+      "upright"
     ]
   },
   {
     "command": "/anim 63",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "crossed",
+      "feet",
+      "lean",
+      "wall"
     ]
   },
   {
     "command": "/anim 64",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "argue",
+      "disappointed",
+      "head",
+      "shake",
+      "upset"
     ]
   },
   {
     "command": "/anim 65",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "angry",
+      "disappointed",
+      "fist",
+      "headache",
+      "mad",
+      "upset"
     ]
   },
   {
     "command": "/anim 66",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "idle"
     ]
   },
   {
     "command": "/anim aim1",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "controls",
+      "gun"
     ]
   },
   {
     "command": "/anim aim2",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "controls",
+      "gun"
     ]
   },
   {
     "command": "/anim aim3",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "controls",
+      "gun",
+      "rifle"
     ]
   },
   {
     "command": "/anim aim4",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "controls",
+      "gun",
+      "rifle"
     ]
   },
   {
     "command": "/anim arrogantstance",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "female",
+      "cig",
+      "sass"
     ]
   },
   {
     "command": "/anim clean",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "clean",
+      "crouch",
+      "forward",
+      "lean"
     ]
   },
   {
     "command": "/anim clean2",
     "tags": [
-      "standing"
+      "standing",
+      "clean",
+      "surface",
+      "vertical",
+      "wall"
     ]
   },
   {
     "command": "/anim copaim",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "controls",
+      "down",
+      "gun",
+      "pointing"
     ]
   },
   {
     "command": "/anim cough",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "cough",
+      "sick"
     ]
   },
   {
     "command": "/anim cracksafe",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "clicks",
+      "forward",
+      "hear",
+      "lean"
     ]
   },
   {
     "command": "/anim crossarms1",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "guard",
+      "security",
+      "upright"
     ]
   },
   {
     "command": "/anim crossarms2",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "femle",
+      "upright"
     ]
   },
   {
     "command": "/anim crossedarms",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "upright"
     ]
   },
   {
     "command": "/anim crossedhands1",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "hands",
+      "upright"
     ]
   },
   {
     "command": "/anim crossedhands2",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "guard",
+      "security",
+      "upright"
     ]
   },
   {
     "command": "/anim crossedhands3",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "female",
+      "polite",
+      "shy",
+      "upright"
     ]
   },
   {
     "command": "/anim cuffedstand1",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "behind",
+      "down",
+      "looking",
+      "tied"
     ]
   },
   {
     "command": "/anim cuffedstand2",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "behind",
+      "tied",
+      "upright"
     ]
   },
   {
     "command": "/anim femaleattitude",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "bored",
+      "idle",
+      "waiting"
     ]
   },
   {
     "command": "/anim femalecrossedarms1",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "bored",
+      "idle",
+      "waiting"
     ]
   },
   {
     "command": "/anim femalecrossedarms2",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "bored",
+      "idle",
+      "waiting"
     ]
   },
   {
     "command": "/anim femalecrossedarms3",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "confront",
+      "upset"
     ]
   },
   {
     "command": "/anim femalecrossedarms4",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "back",
+      "crossed",
+      "hands",
+      "lean",
+      "wall"
     ]
   },
   {
     "command": "/anim femalehiphands1",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "female"
     ]
   },
   {
     "command": "/anim femaleholdarm1",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "female",
+      "idle",
+      "waiting"
     ]
   },
   {
     "command": "/anim femalepose1",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "female",
+      "attitude",
+      "back",
+      "lean",
+      "sass",
+      "wall"
     ]
   },
   {
     "command": "/anim femalepose2",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "female",
+      "idle",
+      "think",
+      "upright"
     ]
   },
   {
     "command": "/anim femalepose3",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "female",
+      "down",
+      "hand",
+      "hip",
+      "lean",
+      "looking",
+      "wall"
     ]
   },
   {
     "command": "/anim femalepose4",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "idle",
+      "sass"
     ]
   },
   {
     "command": "/anim femalepose5",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "anxious",
+      "shy",
+      "think"
     ]
   },
   {
     "command": "/anim femalepose6",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "confident",
+      "idle"
     ]
   },
   {
     "command": "/anim femalepose7",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "hands",
+      "hips",
+      "upright"
     ]
   },
   {
     "command": "/anim femalestance1",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "idle"
     ]
   },
   {
     "command": "/anim femalestance2",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "bored",
+      "idle"
     ]
   },
   {
     "command": "/anim femalestance3",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "idle"
     ]
   },
   {
     "command": "/anim femalestance4",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "idle",
+      "sass"
     ]
   },
   {
     "command": "/anim femalestance5",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "hands",
+      "hips",
+      "idle"
     ]
   },
   {
     "command": "/anim femalestance6",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "idle",
+      "upright"
     ]
   },
   {
     "command": "/anim femalestanding1",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "arch",
+      "back",
+      "idle"
     ]
   },
   {
     "command": "/anim femalestanding2",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "idle"
     ]
   },
   {
     "command": "/anim femalestanding3",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "confront",
+      "forward",
+      "hands",
+      "hips",
+      "lean",
+      "upset"
     ]
   },
   {
     "command": "/anim fightingwords",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "argue",
+      "finger",
+      "hands",
+      "mad",
+      "point",
+      "upset"
     ]
   },
   {
     "command": "/anim foldarm1",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "arms",
+      "crossed",
+      "idle"
     ]
   },
   {
     "command": "/anim friskstance",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "arms",
+      "extent",
+      "stretch",
+      "tpose"
     ]
   },
   {
     "command": "/anim fronthandcuffs",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "controls",
+      "arrest",
+      "tied"
     ]
   },
   {
     "command": "/anim handonbarstand",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "bar",
+      "counter",
+      "hand",
+      "table"
     ]
   },
   {
     "command": "/anim handonhip",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "female",
+      "hand",
+      "hip"
     ]
   },
   {
     "command": "/anim idle1",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "head",
+      "shake",
+      "upright"
     ]
   },
   {
     "command": "/anim idle10",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "hands",
+      "hips",
+      "holsters"
     ]
   },
   {
     "command": "/anim idle11",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "arms",
+      "crossed"
     ]
   },
   {
     "command": "/anim idle12",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "arms",
+      "belt",
+      "crossed",
+      "hands"
     ]
   },
   {
     "command": "/anim idle13",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "annoyed",
+      "bored",
+      "hand",
+      "hip",
+      "waiting"
     ]
   },
   {
     "command": "/anim idle14",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "head",
+      "scratch"
     ]
   },
   {
     "command": "/anim idle15",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "conversation"
     ]
   },
   {
     "command": "/anim idle16",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "conversation"
     ]
   },
   {
     "command": "/anim idle18",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "conversation",
+      "shrugs"
     ]
   },
   {
     "command": "/anim idle19",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "arms",
+      "conversation",
+      "crossed",
+      "shrugs",
+      "think"
     ]
   },
   {
     "command": "/anim idle2",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "around",
+      "looking"
     ]
   },
   {
     "command": "/anim idle20",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "around",
+      "guard",
+      "looking",
+      "security"
     ]
   },
   {
     "command": "/anim idle21",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "crack",
+      "guard",
+      "neck",
+      "security",
+      "stretch"
     ]
   },
   {
     "command": "/anim idle22",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "around",
+      "checks",
+      "looking",
+      "time",
+      "waiting"
     ]
   },
   {
     "command": "/anim idle23",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "around",
+      "back",
+      "looking"
     ]
   },
   {
     "command": "/anim idle24",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "idle"
     ]
   },
   {
     "command": "/anim idle25",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "head",
+      "idle",
+      "shake"
     ]
   },
   {
     "command": "/anim idle26",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "around",
+      "looking"
     ]
   },
   {
     "command": "/anim idle27",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "idle",
+      "scratch",
+      "stomach"
     ]
   },
   {
     "command": "/anim idle28",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "cracking",
+      "knuckles"
     ]
   },
   {
     "command": "/anim idle29",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "around",
+      "looking"
     ]
   },
   {
     "command": "/anim idle3",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "around",
+      "looking"
     ]
   },
   {
     "command": "/anim idle30",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "arms",
+      "crossed",
+      "head",
+      "scratch",
+      "think"
     ]
   },
   {
     "command": "/anim idle31",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "arms",
+      "crossed"
     ]
   },
   {
     "command": "/anim idle32",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "down",
+      "looking"
     ]
   },
   {
     "command": "/anim idle33",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "conversation",
+      "no"
     ]
   },
   {
     "command": "/anim idle34",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "conversation",
+      "yes"
     ]
   },
   {
     "command": "/anim idle35",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "conversation"
     ]
   },
   {
     "command": "/anim idle36",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "think"
     ]
   },
   {
     "command": "/anim idle37",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "arms",
+      "crossed",
+      "think"
     ]
   },
   {
     "command": "/anim idle38",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "arms",
+      "crossed",
+      "swing"
     ]
   },
   {
     "command": "/anim idle39",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "arms",
+      "around",
+      "crossed",
+      "looking"
     ]
   },
   {
     "command": "/anim idle4",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "defeated",
+      "down",
+      "drink",
+      "exhausted",
+      "sad",
+      "tired"
     ]
   },
   {
     "command": "/anim idle40",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "arms",
+      "crossed"
     ]
   },
   {
     "command": "/anim idle41",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female"
     ]
   },
   {
     "command": "/anim idle42",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "chill",
+      "dance"
     ]
   },
   {
     "command": "/anim idle43",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "head",
+      "shake",
+      "stop"
     ]
   },
   {
     "command": "/anim idle44",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "head",
+      "shake",
+      "stop"
     ]
   },
   {
     "command": "/anim idle45",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "bops",
+      "chill",
+      "dance",
+      "nods"
     ]
   },
   {
     "command": "/anim idle46",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "around",
+      "looking",
+      "nods"
     ]
   },
   {
     "command": "/anim idle47",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "around",
+      "looking",
+      "sass"
     ]
   },
   {
     "command": "/anim idle48",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "idle"
     ]
   },
   {
     "command": "/anim idle49",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "idle"
     ]
   },
   {
     "command": "/anim idle5",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "drunk",
+      "wasted"
     ]
   },
   {
@@ -7855,577 +9683,951 @@
   {
     "command": "/anim idle51",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "butt",
+      "scratch"
     ]
   },
   {
     "command": "/anim idle52",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "around",
+      "idle",
+      "looking"
     ]
   },
   {
     "command": "/anim idle53",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "angry",
+      "fist",
+      "mad",
+      "upset"
     ]
   },
   {
     "command": "/anim idle57",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "argue",
+      "conversation",
+      "upset"
     ]
   },
   {
     "command": "/anim idle58",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "conversation",
+      "upset"
     ]
   },
   {
     "command": "/anim idle59",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "annoyed",
+      "conversation",
+      "upset"
     ]
   },
   {
     "command": "/anim idle6",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "anxious",
+      "conversation"
     ]
   },
   {
     "command": "/anim idle60",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "argue",
+      "conversation",
+      "upset"
     ]
   },
   {
     "command": "/anim idle7",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "male",
+      "idle"
     ]
   },
   {
     "command": "/anim idle8",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "hands",
+      "hips",
+      "holster",
+      "idle"
     ]
   },
   {
     "command": "/anim idle9",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "crack",
+      "hands",
+      "hips",
+      "holster",
+      "idle",
+      "neck"
     ]
   },
   {
     "command": "/anim idlehandsinpockets1",
     "tags": [
-      "standing"
+      "standing",
+      "pose"
     ]
   },
   {
     "command": "/anim idlehandsinpockets2",
     "tags": [
-      "standing"
+      "standing",
+      "pose"
     ]
   },
   {
     "command": "/anim jazzercise",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "exercise",
+      "jumping",
+      "warmup",
+      "workout"
     ]
   },
   {
     "command": "/anim johnwayne",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "male"
     ]
   },
   {
     "command": "/anim lookingatground",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "forward",
+      "hand",
+      "hip",
+      "lean"
     ]
   },
   {
     "command": "/anim malecrossedarms1",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "male",
+      "nod"
     ]
   },
   {
     "command": "/anim malehandsonhips",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "male",
+      "shrugs"
     ]
   },
   {
     "command": "/anim sassyblowkiss",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "hand",
+      "hip"
     ]
   },
   {
     "command": "/anim sassystand",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "hand",
+      "hip"
     ]
   },
   {
     "command": "/anim shower",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "bath",
+      "clean"
     ]
   },
   {
     "command": "/anim shystance",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "anxious",
+      "idle"
     ]
   },
   {
-    "command": "/anim shystanding1",
+    "command": "/anim shystanding",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "anxious",
+      "down",
+      "head",
+      "looking",
+      "shake"
     ]
   },
   {
     "command": "/anim shystanding2",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "anxious"
     ]
   },
   {
     "command": "/anim standbar",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "bar",
+      "counter",
+      "hand"
     ]
   },
   {
     "command": "/anim stretch",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "male",
+      "flex"
     ]
   },
   {
     "command": "/anim stretch2",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "male",
+      "flex"
     ]
   },
   {
     "command": "/anim timid",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "female",
+      "anxious"
     ]
   },
   {
     "command": "/anim toughguy1",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "male"
     ]
   },
   {
     "command": "/anim toughguy2",
     "tags": [
-      "standing"
+      "standing",
+      "pose",
+      "male"
     ]
   },
   {
     "command": "/anim valetstand",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "guard",
+      "worker"
     ]
   },
   {
     "command": "/anim warminghands",
     "tags": [
-      "standing"
+      "standing",
+      "loop",
+      "hands",
+      "warm"
     ]
   },
   {
     "command": "/anim cowerhide",
     "tags": [
-      "surrender"
+      "surrender",
+      "loop",
+      "cover",
+      "crouched",
+      "fear",
+      "scared"
     ]
   },
   {
     "command": "/anim cowerlook1",
     "tags": [
-      "surrender"
+      "surrender",
+      "loop",
+      "around",
+      "cover",
+      "crouched",
+      "fear",
+      "look",
+      "scared"
     ]
   },
   {
     "command": "/anim cowerlook2",
     "tags": [
-      "surrender"
+      "surrender",
+      "loop",
+      "around",
+      "cover",
+      "crouched",
+      "fear",
+      "look",
+      "scared"
     ]
   },
   {
     "command": "/anim cowerlook3",
     "tags": [
-      "surrender"
+      "surrender",
+      "loop",
+      "around",
+      "cover",
+      "crouched",
+      "fear",
+      "look",
+      "scared"
     ]
   },
   {
     "command": "/anim cowerlook4",
     "tags": [
-      "surrender"
+      "surrender",
+      "standing",
+      "loop",
+      "fear",
+      "plead",
+      "scared",
+      "stop"
     ]
   },
   {
     "command": "/anim halt",
     "tags": [
-      "surrender"
+      "surrender",
+      "standing",
+      "loop",
+      "around",
+      "look",
+      "stop"
     ]
   },
   {
     "command": "/anim handsup",
     "tags": [
-      "surrender"
+      "surrender",
+      "loop",
+      "controls",
+      "hands",
+      "up"
     ]
   },
   {
     "command": "/anim handsup2",
     "tags": [
-      "surrender"
+      "surrender",
+      "loop",
+      "controls",
+      "hands",
+      "shaking",
+      "up"
     ]
   },
   {
     "command": "/anim handsup3",
     "tags": [
-      "surrender"
+      "surrender",
+      "loop",
+      "controls",
+      "hands",
+      "up"
     ]
   },
   {
     "command": "/anim handsup5",
     "tags": [
-      "surrender"
+      "surrender",
+      "sitting",
+      "pose",
+      "ground",
+      "hands",
+      "up"
     ]
   },
   {
     "command": "/anim handsupknees",
     "tags": [
-      "surrender"
+      "surrender",
+      "loop",
+      "back",
+      "hands",
+      "head",
+      "kneeling"
     ]
   },
   {
     "command": "/anim handsupknees2",
     "tags": [
-      "surrender"
+      "surrender",
+      "loop",
+      "hands",
+      "kneeling",
+      "up"
     ]
   },
   {
     "command": "/anim copwalk1",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls",
+      "cop"
     ]
   },
   {
     "command": "/anim copwalk2",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls",
+      "back",
+      "cop",
+      "look"
     ]
   },
   {
     "command": "/anim copwalk3",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls",
+      "belt",
+      "cop",
+      "hands"
     ]
   },
   {
     "command": "/anim copwalk4",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls",
+      "belt",
+      "cop",
+      "hands"
     ]
   },
   {
     "command": "/anim copwalk5",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls",
+      "arm",
+      "cop",
+      "hand",
+      "holster",
+      "swing"
     ]
   },
   {
     "command": "/anim copwalk6",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls",
+      "arm",
+      "cop",
+      "hand",
+      "holster",
+      "swing"
     ]
   },
   {
     "command": "/anim walk1",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "male",
+      "controls"
     ]
   },
   {
     "command": "/anim walk10",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "male",
+      "controls",
+      "swag"
     ]
   },
   {
     "command": "/anim walk11",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "male",
+      "controls"
     ]
   },
   {
     "command": "/anim walk12",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls"
     ]
   },
   {
     "command": "/anim walk13",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls"
     ]
   },
   {
     "command": "/anim walk14",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "male",
+      "controls"
     ]
   },
   {
     "command": "/anim walk15",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls",
+      "faster"
     ]
   },
   {
     "command": "/anim walk16",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "female",
+      "controls",
+      "faster"
     ]
   },
   {
     "command": "/anim walk17",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "female",
+      "controls"
     ]
   },
   {
     "command": "/anim walk18",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "female",
+      "controls",
+      "sass"
     ]
   },
   {
     "command": "/anim walk19",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "female",
+      "controls",
+      "hips"
     ]
   },
   {
     "command": "/anim walk2",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls"
     ]
   },
   {
     "command": "/anim walk20",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "female",
+      "controls",
+      "faster"
     ]
   },
   {
     "command": "/anim walk21",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls"
     ]
   },
   {
     "command": "/anim walk3",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls"
     ]
   },
   {
     "command": "/anim walk4",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "female",
+      "controls"
     ]
   },
   {
     "command": "/anim walk5",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls"
     ]
   },
   {
     "command": "/anim walk6",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls"
     ]
   },
   {
     "command": "/anim walk7",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls",
+      "wide"
     ]
   },
   {
     "command": "/anim walk8",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "female",
+      "controls"
     ]
   },
   {
     "command": "/anim walk9",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls",
+      "anxious"
     ]
   },
   {
     "command": "/anim walkinthepark",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls",
+      "slow"
     ]
   },
   {
     "command": "/anim walkinthepark2",
     "tags": [
-      "walking"
+      "walking",
+      "loop",
+      "controls",
+      "slow"
     ]
   },
   {
     "command": "/anim applycpr",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "cpr",
+      "ems",
+      "medic"
     ]
   },
   {
     "command": "/anim atm",
     "tags": [
-      "working"
+      "working",
+      "scene",
+      "withdraw"
     ]
   },
   {
     "command": "/anim atmidle",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "buttons",
+      "press"
     ]
   },
   {
     "command": "/anim bartenderpour",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "alcohol",
+      "club",
+      "drink",
+      "glass",
+      "nod"
     ]
   },
   {
     "command": "/anim copradioing",
     "tags": [
-      "working"
+      "working",
+      "standing",
+      "pose",
+      "idle"
     ]
   },
   {
     "command": "/anim cpr",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "cpr",
+      "ems",
+      "medic"
     ]
   },
   {
     "command": "/anim cprbreath",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "cpr",
+      "ems",
+      "medic",
+      "mouth"
     ]
   },
   {
     "command": "/anim cprfail",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "cpr",
+      "ems",
+      "fail",
+      "head",
+      "medic",
+      "shake"
     ]
   },
   {
     "command": "/anim cprstart",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "cpr",
+      "ems",
+      "medic"
     ]
   },
   {
-    "command": "/anim enginemechanic",
+    "command": "/anim enginemechanic1",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "car",
+      "engine",
+      "fix"
     ]
   },
   {
     "command": "/anim enginemechanic2",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "car",
+      "engine",
+      "fix"
     ]
   },
   {
     "command": "/anim mechanic",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "car",
+      "down",
+      "fix",
+      "lay",
+      "plumber",
+      "under",
+      "work"
     ]
   },
   {
     "command": "/anim mechanic1",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "car",
+      "down",
+      "fix",
+      "lay",
+      "plumber",
+      "under",
+      "work"
     ]
   },
   {
     "command": "/anim mechanic2",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "car",
+      "down",
+      "fix",
+      "lay",
+      "plumber",
+      "under",
+      "work"
     ]
   },
   {
     "command": "/anim mechanic3",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "car",
+      "fix",
+      "squat"
     ]
   },
   {
     "command": "/anim mechanic4",
     "tags": [
-      "working"
+      "working",
+      "standing",
+      "loop",
+      "car",
+      "fix"
     ]
   },
   {
     "command": "/anim standingkeyboard",
     "tags": [
-      "working"
+      "working",
+      "standing",
+      "loop",
+      "typing",
+      "work"
     ]
   },
   {
     "command": "/anim trafficleft1",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "left",
+      "traffic"
     ]
   },
   {
     "command": "/anim trafficleft2",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "left",
+      "traffic"
     ]
   },
   {
     "command": "/anim trafficleft3",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "left",
+      "traffic"
     ]
   },
   {
     "command": "/anim trafficleft4",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "left",
+      "traffic"
     ]
   },
   {
     "command": "/anim welding",
     "tags": [
-      "working"
+      "working",
+      "standing",
+      "loop",
+      "weld"
     ]
   },
   {
     "command": "/anim welding2",
     "tags": [
-      "working"
+      "working",
+      "loop",
+      "crouch",
+      "kneel",
+      "weld"
     ]
   },
   {
@@ -9103,289 +11305,507 @@
   {
     "command": "/anim airsquat",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "deep",
+      "gym",
+      "squat",
+      "workout"
     ]
   },
   {
     "command": "/anim bicyclecrunch",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "abs",
+      "gym",
+      "workout"
     ]
   },
   {
     "command": "/anim chinups",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "gym",
+      "pullup",
+      "workout"
     ]
   },
   {
     "command": "/anim circlecrunch",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "core",
+      "gym",
+      "workout"
     ]
   },
   {
     "command": "/anim crunches",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "abs",
+      "core",
+      "gym",
+      "situp",
+      "workout"
     ]
   },
   {
     "command": "/anim gymplank",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "core",
+      "gym",
+      "plank",
+      "workout"
     ]
   },
   {
     "command": "/anim gymsideplank",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "core",
+      "gym",
+      "plank",
+      "workout"
     ]
   },
   {
     "command": "/anim jumpexc",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "cardio",
+      "gym",
+      "warmup",
+      "workout"
     ]
   },
   {
     "command": "/anim jumpjack",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "cardio",
+      "gym",
+      "workout"
     ]
   },
   {
     "command": "/anim onehandpushup",
     "tags": [
-      "exercise"
+      "exercise",
+      "pose",
+      "gym",
+      "strength",
+      "workout"
     ]
   },
   {
     "command": "/anim pushups1",
     "tags": [
-      "exercise"
+      "exercise",
+      "pose",
+      "gym",
+      "plank",
+      "strength",
+      "workout"
     ]
   },
   {
     "command": "/anim pushups2",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "down",
+      "gym",
+      "pushup",
+      "strength",
+      "workout"
     ]
   },
   {
     "command": "/anim situps",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "abs",
+      "core",
+      "gym",
+      "situp",
+      "workout"
     ]
   },
   {
     "command": "/anim squatting",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "deep",
+      "gym",
+      "squat",
+      "workout"
     ]
   },
   {
     "command": "/anim treadmill",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "cardio",
+      "gym",
+      "jogging",
+      "running",
+      "workout"
     ]
   },
   {
     "command": "/anim warmup",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "cardio",
+      "gym",
+      "warmup",
+      "workout"
     ]
   },
   {
     "command": "/anim weights1",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "gym",
+      "lift",
+      "strength",
+      "workout"
     ]
   },
   {
     "command": "/anim weights2",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "gym",
+      "lift",
+      "strength",
+      "workout"
     ]
   },
   {
     "command": "/anim yoga1",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "bend",
+      "down",
+      "stretch"
     ]
   },
   {
     "command": "/anim yoga2",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "bend",
+      "down",
+      "stretch"
     ]
   },
   {
     "command": "/anim yoga3",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "bend",
+      "down",
+      "stretch"
     ]
   },
   {
     "command": "/anim yoga4",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "plank",
+      "reverse",
+      "stretch"
     ]
   },
   {
     "command": "/anim yoga5",
     "tags": [
-      "exercise"
+      "exercise",
+      "standing",
+      "pose",
+      "idle"
     ]
   },
   {
     "command": "/anim yoga6",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "kickbacks",
+      "plank",
+      "stretch"
     ]
   },
   {
     "command": "/anim yoga7",
     "tags": [
-      "exercise"
+      "exercise",
+      "loop",
+      "arms",
+      "crossed",
+      "standin",
+      "stretch",
+      "twist"
     ]
   },
   {
     "command": "/anim fight1",
     "tags": [
-      "fighting"
+      "fighting",
+      "ground",
+      "loop",
+      "stomp"
     ]
   },
   {
     "command": "/anim fight10",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "headbutt"
     ]
   },
   {
     "command": "/anim fight11",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "fight",
+      "fist",
+      "squareup",
+      "stance"
     ]
   },
   {
     "command": "/anim fight12",
     "tags": [
-      "fighting"
+      "fighting",
+      "ground",
+      "loop",
+      "cover",
+      "down",
+      "hand",
+      "head",
+      "lay"
     ]
   },
   {
     "command": "/anim fight13",
     "tags": [
-      "fighting"
+      "fighting",
+      "ground",
+      "loop",
+      "cover",
+      "down",
+      "fetal",
+      "lay"
     ]
   },
   {
     "command": "/anim fight2",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "body",
+      "fist",
+      "punch"
     ]
   },
   {
     "command": "/anim fight3",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "fist",
+      "hook",
+      "left",
+      "punch"
     ]
   },
   {
     "command": "/anim fight4",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "down",
+      "hard",
+      "kick"
     ]
   },
   {
     "command": "/anim fight5",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "fist",
+      "hook",
+      "punch",
+      "right"
     ]
   },
   {
     "command": "/anim fight6",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "elbow",
+      "right"
     ]
   },
   {
     "command": "/anim fight7",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "fist",
+      "punch",
+      "uppercut"
     ]
   },
   {
     "command": "/anim fight8",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "fist",
+      "hook",
+      "left",
+      "punch"
     ]
   },
   {
     "command": "/anim fight9",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "back",
+      "right",
+      "slap"
     ]
   },
   {
     "command": "/anim hitfall1",
     "tags": [
-      "fighting"
+      "fighting",
+      "ground",
+      "scene",
+      "down",
+      "punched",
+      "stabbed"
     ]
   },
   {
     "command": "/anim hitfall2",
     "tags": [
-      "fighting"
+      "fighting",
+      "ground",
+      "scene",
+      "down",
+      "punched",
+      "stabbed"
     ]
   },
   {
     "command": "/anim injuredcrawl",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "controls",
+      "crawl",
+      "injured"
     ]
   },
   {
     "command": "/anim injuredcrawl2",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "controls",
+      "crawl",
+      "injured"
     ]
   },
   {
     "command": "/anim kicking1",
     "tags": [
-      "fighting"
+      "fighting",
+      "ground",
+      "loop",
+      "kick"
     ]
   },
   {
     "command": "/anim kicking2",
     "tags": [
-      "fighting"
+      "fighting",
+      "ground",
+      "loop",
+      "hard",
+      "kick"
     ]
   },
   {
     "command": "/anim lowkick",
     "tags": [
-      "fighting"
+      "fighting",
+      "ground",
+      "loop",
+      "hard",
+      "kick",
+      "stomp"
     ]
   },
   {
     "command": "/anim meleehitground",
     "tags": [
-      "fighting"
+      "fighting",
+      "ground",
+      "loop",
+      "hit",
+      "item",
+      "melee",
+      "weapon"
     ]
   },
   {
     "command": "/anim middlekick",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "kick",
+      "run"
     ]
   },
   {
     "command": "/anim shoved",
     "tags": [
-      "fighting"
+      "fighting",
+      "loop",
+      "pushed",
+      "shoved",
+      "stumbled"
     ]
   },
   {
