@@ -10,6 +10,9 @@
   <a href="https://github.com/vierdant/world-animation-catalog/releases/latest" target="_blank">
     <img src="https://img.shields.io/github/v/release/vierdant/world-animation-catalog?display_name=tag&style=flat-square&label=Latest" alt="GitHub Release" />
   </a>
+  <a href="https://discord.com/invite/cnknQJDBer" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join-blue?style=flat-square&logo=discord" alt="Join Discord" />
+  </a>
 </p>
 
 # World Animation Catalog
@@ -31,22 +34,22 @@ This application eliminates that friction entirely. It delivers a seamless, nati
 ## ✨ Features
 
 ### Core Functionality
-- **🔍 Advanced Search**: Find animations by name, command, or tags with intelligent filtering
-- **🏷️ Tag Autocomplete**: Fast, intuitive searching with `tag:` prefix support
-- **❤️ Favorites System**: Personal collection stored locally (separate from in-game favorites)
-- **👀 Visual Previews**: See exactly what each animation looks like before using it
-- **📋 One-Click Copy**: Click any animation to copy its command instantly
+- **Advanced Search**: Find animations by name, command, or tags with intelligent filtering
+- **Tag Autocomplete**: Fast, intuitive searching with `tag:` prefix support
+- **Favorites System**: Personal collection stored locally (separate from in-game favorites)
+- **Visual Previews**: See exactly what each animation looks like before using it
+- **One-Click Copy**: Click any animation to copy its command instantly
 
 ### Content & Filtering
-- **🔞 Adult Content Toggle**: Optional filtering for sensitive content
-- **📱 Responsive Design**: Works seamlessly on desktop and mobile
-- **🌐 Live Data**: Always up-to-date animation catalog hosted on GitHub
-- **⚡ Performance Optimized**: Lightning-fast search and smooth interactions
+- **Adult Content Toggle**: Optional filtering for sensitive content
+- **Responsive Design**: Works seamlessly on desktop and mobile
+- **Live Data**: Always up-to-date animation catalog hosted on GitHub
+- **erformance Optimized**: Lightning-fast search and smooth interactions
 
 ### Data Management
-- **📤 Export/Import**: Backup and share your favorites and settings
-- **💾 Local Storage**: Your preferences persist between sessions
-- **🔄 Real-time Updates**: Automatic synchronization with the latest animation data
+- **Export/Import**: Backup and share your favorites and settings
+- **Local Storage**: Your preferences persist between sessions
+- **Real-time Updates**: Automatic synchronization with the latest animation data
 
 ## 🌐 Access Options
 
@@ -79,20 +82,17 @@ For the ultimate experience, download our native desktop app:
 5. **Favorite**: Star animations you use frequently for quick access
 6. **Export**: Back up your favorites or share them with friends
 
-## 🛠️ Technical Details
+## 🙏 Contributors
 
-### Built With
-- **Frontend**: Svelte + TypeScript for reactive UI
-- **Desktop**: Tauri for native app packaging
-- **Search**: Fuse.js for intelligent fuzzy search
-- **Hosting**: Netlify for web deployment
-- **Data**: GitHub-hosted JSON for animation catalog
+Special thanks to our amazing contributors who make this project possible:
 
-### Performance Features
-- **Smart Caching**: Intelligent result caching for instant repeat searches
-- **Lazy Loading**: Images load on demand for optimal performance
-- **Debounced Search**: Smooth search experience without overwhelming requests
-- **Virtual Scrolling**: Handle thousands of animations without performance loss
+- **[niamoore](https://forum.gta.world/en/profile/104280-niamoore/)** - Animation images & animation tags lists
+
+Want to see your name here? Check out our [contributing guidelines](#-contributing)!
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
@@ -102,6 +102,7 @@ We welcome contributions from the community! Here's how you can help:
 - Open an [issue](https://github.com/Vierdant/world-animation-catalog/issues) with detailed information
 - Include steps to reproduce for bugs
 - Check existing issues before creating new ones
+- Alternativly, you can join our [Discord Server](https://discord.com/invite/cnknQJDBer) and submit issues there <3
 
 ### 🎭 Animation Data
 - Submit new animations via pull request
@@ -115,6 +116,16 @@ We welcome contributions from the community! Here's how you can help:
 4. Commit with descriptive messages: `git commit -m 'Add amazing feature'`
 5. Push to your branch: `git push origin feature/amazing-feature`
 6. Open a pull request with a clear description
+
+## 📊 Data Source
+
+All animation metadata is maintained in a GitHub-hosted JSON file within this repository. The data includes:
+- Animation commands
+- Tag categories
+- Preview images
+- Descriptions and metadata
+
+**Important**: This catalog is community-maintained and not directly linked to the game. Updates require manual contribution from volunteers.
 
 ## 🏗️ Development Setup
 
@@ -137,41 +148,12 @@ npm run dev          # Web version (recommended for development)
 npm run tauri dev    # Desktop app version
 ```
 
-
-## 📊 Data Source
-
-All animation metadata is maintained in a GitHub-hosted JSON file within this repository. The data includes:
-- Animation commands
-- Tag categories
-- Preview images
-- Descriptions and metadata
-
-**Important**: This catalog is community-maintained and not directly linked to the game. Updates require manual contribution from volunteers.
-
-## 🙏 Contributors
-
-Special thanks to our amazing contributors who make this project possible:
-
-- **[niamoore](https://forum.gta.world/en/profile/104280-niamoore/)** - Animation images & animation tags lists
-
-Want to see your name here? Check out our [contributing guidelines](#-contributing)!
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 - **Vierdant/[Locker](https://forum.gta.world/en/profile/104259-locker/)** is not affiliated with Rockstar Games, GTA-related projects, or GTA:W development teams
 - This application was created independently in spare time for the community
 - Animation preview images are used for visual context and identification purposes only
 - All trademarks belong to their respective owners
-
-## 🌟 Acknowledgments
-
-- Inspired by the creativity and passion of the GTA:W roleplay community
-- Built with love for roleplayers who appreciate attention to detail
-- Thanks to all the animation creators and the community that makes GTA:W special
 
 ---
 
