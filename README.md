@@ -1,183 +1,183 @@
-# World Animation Catalog - Premium Edition
+![App Preview](./assets/application_preview.png)
 
-A modern, premium-looking web application for browsing and searching world animations with enhanced UX and advanced features.
+<p align="center">
+  <a href="https://gtaw-ac.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/netlify/dacd955c-95ec-48bd-a97d-f25f65a864ad?style=flat-square&logo=netlify&label=Website" alt="Netlify" />
+  </a>
+  <a href="https://github.com/vierdant/world-animation-catalog/releases" target="_blank">
+    <img src="https://img.shields.io/github/downloads/vierdant/world-animation-catalog/total?style=flat-square&label=Downloads" alt="GitHub Downloads" />
+  </a>
+  <a href="https://github.com/vierdant/world-animation-catalog/releases/latest" target="_blank">
+    <img src="https://img.shields.io/github/v/release/vierdant/world-animation-catalog?display_name=tag&style=flat-square&label=Latest" alt="GitHub Release" />
+  </a>
+</p>
 
-## ✨ Premium Features
+# World Animation Catalog
 
-### 🎨 **Modern Design System**
-- **Premium Color Palette**: Enhanced Discord-inspired color scheme with improved contrast and accessibility
-- **Typography**: Inter font family for crisp, modern text rendering
-- **Smooth Animations**: Fluid transitions and micro-interactions throughout the app
-- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
-- **Glass Morphism**: Subtle backdrop blur effects and modern UI elements
+A comprehensive, searchable catalog of in-game and custom animations for GTA: World, designed to enhance immersion and elevate roleplay experiences. Whether you're a veteran player or newcomer, this application provides an efficient way to browse, preview, and discover animations contributed by the vibrant GTA:W community.
 
-### 🔍 **Enhanced Search Experience**
-- **Smart Search Bar**: Icon-enhanced search with clear button and improved placeholder text
-- **Advanced Autocomplete**: Premium tag autocomplete with visual indicators and smooth animations
-- **Search Shortcuts**: Quick access buttons for common searches (dances, poses, etc.)
-- **Real-time Statistics**: Live search result counters and filtering indicators
-- **Search Suggestions**: Intelligent search recommendations based on popular tags
+## The Problem
 
-### 🎯 **Improved Animation Cards**
-- **Premium Card Design**: Elevated cards with hover effects and gradient accents
-- **Loading States**: Smooth loading spinners and error handling for images
-- **Enhanced Actions**: Modern heart and copy buttons with success states
-- **Command Preview**: Monospace command display for easy copying
-- **Tag System**: Color-coded tags with improved visual hierarchy
+Every roleplayer has experienced this frustration: you're in the perfect moment for a specific animation, but you either don't know it exists or can't remember the command. The in-game animation system works well for favorites and basics, but without extensive testing and memorization, you're left thinking:
 
-### ⚙️ **Advanced Controls**
-- **Premium Toggles**: Modern switch design with descriptions and hover effects
-- **Settings Panel**: Enhanced settings menu with icons and smooth animations
-- **Favorites Management**: Improved import/export with visual feedback
-- **Filter System**: Advanced filtering with real-time updates
+> *"I wish I knew what that animation looked like—I would've used it here."*
 
-### 📱 **Mobile Optimization**
-- **Touch-Friendly**: Optimized touch targets and gestures
-- **Responsive Grid**: Adaptive layout that works on all screen sizes
-- **Mobile Navigation**: Improved mobile search and navigation experience
+Hours spent scrolling through menus, testing animations, and enduring awkward mid-scene pauses just to find the right gesture shouldn't be part of the roleplay experience.
 
-## 🚀 **New Features**
+## The Solution
 
-### Quick Search Shortcuts
-- One-click access to popular animation categories
-- Visual shortcuts with hover effects and icons
-- Smart display logic (only shows when no filters are active)
+This application eliminates that friction entirely. It delivers a seamless, native desktop experience featuring instant search, visual previews, smart organization, and persistent favorites. Built specifically for roleplayers who care about getting the details right.
 
-### Enhanced Statistics
-- Real-time search result counters
-- Filter status indicators
-- Performance metrics
+## ✨ Features
 
-### Improved Image Handling
-- Loading spinners for better UX
-- Error states with helpful messages
-- Retry mechanisms for failed images
+### Core Functionality
+- **🔍 Advanced Search**: Find animations by name, command, or tags with intelligent filtering
+- **🏷️ Tag Autocomplete**: Fast, intuitive searching with `tag:` prefix support
+- **❤️ Favorites System**: Personal collection stored locally (separate from in-game favorites)
+- **👀 Visual Previews**: See exactly what each animation looks like before using it
+- **📋 One-Click Copy**: Click any animation to copy its command instantly
 
-### Advanced Tag System
-- Color-coded tags by category
-- Improved tag autocomplete
-- Better visual hierarchy
+### Content & Filtering
+- **🔞 Adult Content Toggle**: Optional filtering for sensitive content
+- **📱 Responsive Design**: Works seamlessly on desktop and mobile
+- **🌐 Live Data**: Always up-to-date animation catalog hosted on GitHub
+- **⚡ Performance Optimized**: Lightning-fast search and smooth interactions
 
-## 🛠️ **Technical Improvements**
+### Data Management
+- **📤 Export/Import**: Backup and share your favorites and settings
+- **💾 Local Storage**: Your preferences persist between sessions
+- **🔄 Real-time Updates**: Automatic synchronization with the latest animation data
 
-### Code Organization
-- **Modular Components**: Better separation of concerns
-- **Utility Functions**: Organized helper functions
-- **Constants Management**: Centralized configuration
-- **Type Safety**: Improved TypeScript support
+## 🌐 Access Options
 
-### Performance Optimizations
-- **Debounced Search**: Smooth search performance
-- **Lazy Loading**: Efficient image loading
-- **Memory Management**: Better resource handling
-- **Responsive Images**: Optimized image display
+### Web Version (Recommended)
+No installation required! Access the full-featured web version instantly:
 
-### Accessibility Enhancements
-- **Keyboard Navigation**: Full keyboard support
-- **Screen Reader Support**: Proper ARIA labels
-- **Focus Management**: Clear focus indicators
-- **Color Contrast**: Improved accessibility compliance
+**[🚀 Launch Web App](https://gtaw-ac.netlify.app/)**
 
-## 🎨 **Design System**
+Perfect for:
+- Quick lookups during gameplay
+- Sharing with friends
+- Trying before installing
+- Cross-platform compatibility
 
-### Color Palette
-```css
---bg-primary: #2b2d31      /* Main background */
---bg-secondary: #1e1f22    /* Card backgrounds */
---bg-tertiary: #313338     /* Hover states */
---accent-primary: #5865f2  /* Primary accent */
---accent-secondary: #4752c4 /* Secondary accent */
---accent-success: #3ba55c  /* Success states */
---accent-danger: #ed4245   /* Error states */
---accent-heart: #ff5f7b    /* Favorite actions */
-```
+### Desktop Application
+For the ultimate experience, download our native desktop app:
 
-### Typography
-- **Font Family**: Inter (Google Fonts)
-- **Weights**: 300, 400, 500, 600, 700
-- **Responsive**: Fluid typography scaling
+1. Visit the [**Releases Page**](https://github.com/Vierdant/world-animation-catalog/releases)
+2. Download the latest installer for your platform
+3. Run the installer and follow the setup wizard
 
-### Spacing System
-```css
---spacing-xs: 0.25rem
---spacing-sm: 0.5rem
---spacing-md: 1rem
---spacing-lg: 1.5rem
---spacing-xl: 2rem
---spacing-2xl: 3rem
-```
+**Note**: Windows may show a security warning since we don't have a Microsoft certificate. The application is completely safe and open source.
 
-## 📱 **Responsive Breakpoints**
+## 🎯 How to Use
 
-- **Desktop**: 1200px+
-- **Tablet**: 768px - 1199px
-- **Mobile**: < 768px
-- **Small Mobile**: < 480px
+1. **Search**: Type any animation name, command, or use `tag:` for specific categories
+2. **Filter**: Toggle adult content, favorites-only view, or search within results
+3. **Preview**: Click any animation card to see a full preview image
+4. **Copy**: Click the copy button to grab the `/anim` command instantly
+5. **Favorite**: Star animations you use frequently for quick access
+6. **Export**: Back up your favorites or share them with friends
 
-## 🔧 **Development**
+## 🛠️ Technical Details
+
+### Built With
+- **Frontend**: Svelte + TypeScript for reactive UI
+- **Desktop**: Tauri for native app packaging
+- **Search**: Fuse.js for intelligent fuzzy search
+- **Hosting**: Netlify for web deployment
+- **Data**: GitHub-hosted JSON for animation catalog
+
+### Performance Features
+- **Smart Caching**: Intelligent result caching for instant repeat searches
+- **Lazy Loading**: Images load on demand for optimal performance
+- **Debounced Search**: Smooth search experience without overwhelming requests
+- **Virtual Scrolling**: Handle thousands of animations without performance loss
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Here's how you can help:
+
+### 🐛 Bug Reports & Feature Requests
+- Open an [issue](https://github.com/Vierdant/world-animation-catalog/issues) with detailed information
+- Include steps to reproduce for bugs
+- Check existing issues before creating new ones
+
+### 🎭 Animation Data
+- Submit new animations via pull request
+- Help with tagging and categorization
+- Report missing or incorrect animations
+
+### 💻 Code Contributions
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/amazing-feature`
+3. Make your changes and test thoroughly
+4. Commit with descriptive messages: `git commit -m 'Add amazing feature'`
+5. Push to your branch: `git push origin feature/amazing-feature`
+6. Open a pull request with a clear description
+
+## 🏗️ Development Setup
 
 ### Prerequisites
-- Node.js 18+
-- npm or yarn
+- [Node.js](https://nodejs.org/) (v18+ recommended)
+- [Rust](https://www.rust-lang.org/tools/install) (for desktop app)
+- [Tauri CLI](https://tauri.app/v1/guides/getting-started/prerequisites) (for desktop app)
 
-### Installation
+### Quick Start
 ```bash
+# Clone the repository
+git clone https://github.com/Vierdant/world-animation-catalog.git
+cd world-animation-catalog
+
+# Install dependencies
 npm install
+
+# Development servers
+npm run dev          # Web version (recommended for development)
+npm run tauri dev    # Desktop app version
 ```
 
-### Development Server
-```bash
-npm run dev
-```
 
-### Build for Production
-```bash
-npm run build
-```
+## 📊 Data Source
 
-## 🎯 **Usage**
+All animation metadata is maintained in a GitHub-hosted JSON file within this repository. The data includes:
+- Animation commands
+- Tag categories
+- Preview images
+- Descriptions and metadata
 
-### Search Features
-- **Basic Search**: Type to search animation names, commands, or tags
-- **Tag Search**: Use `tag:name` to search specific tags
-- **Advanced Search**: Combine multiple search terms
-- **Quick Shortcuts**: Click shortcut buttons for common searches
+**Important**: This catalog is community-maintained and not directly linked to the game. Updates require manual contribution from volunteers.
 
-### Filtering
-- **Adult Content**: Toggle to show/hide adult animations
-- **Favorites Only**: Show only your favorite animations
-- **Real-time Filtering**: See results update instantly
+## 🙏 Contributors
 
-### Favorites
-- **Add/Remove**: Click heart icon to favorite animations
-- **Export**: Save your favorites to a JSON file
-- **Import**: Load favorites from a JSON file
-- **Persistent**: Favorites are saved locally
+Special thanks to our amazing contributors who make this project possible:
 
-### Image Preview
-- **Click to Zoom**: Click any animation image to view full size
-- **Modal View**: Full-screen preview with backdrop blur
-- **Keyboard Support**: Press Escape to close modal
+- **[niamoore](https://forum.gta.world/en/profile/104280-niamoore/)** - Animation images & animation tags lists
 
-## 🎨 **Customization**
+Want to see your name here? Check out our [contributing guidelines](#-contributing)!
 
-### Colors
-Modify the CSS custom properties in `src/routes/global.css` to change the color scheme.
+## 📄 License
 
-### Tag Colors
-Update the `tagColors` object in `src/routes/constants.js` to customize tag colors.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Search Shortcuts
-Add or modify shortcuts in the `searchShortcuts` array in `src/routes/constants.js`.
+## ⚠️ Disclaimer
 
-## 📄 **License**
+- **Vierdant/[Locker](https://forum.gta.world/en/profile/104259-locker/)** is not affiliated with Rockstar Games, GTA-related projects, or GTA:W development teams
+- This application was created independently in spare time for the community
+- Animation preview images are used for visual context and identification purposes only
+- All trademarks belong to their respective owners
 
-This project is open source and available under the [MIT License](LICENSE).
+## 🌟 Acknowledgments
 
-## 🤝 **Contributing**
+- Inspired by the creativity and passion of the GTA:W roleplay community
+- Built with love for roleplayers who appreciate attention to detail
+- Thanks to all the animation creators and the community that makes GTA:W special
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+---
 
-## 📞 **Support**
-
-For support or questions, please open an issue on GitHub.
+<p align="center">
+  <strong>Made with ❤️ for the GTA:W Community</strong><br>
+  <a href="https://gtaw-ac.netlify.app/">Try the Web App</a> • 
+  <a href="https://github.com/Vierdant/world-animation-catalog/issues">Report Issues</a> • 
+  <a href="https://github.com/Vierdant/world-animation-catalog/releases">Download Desktop App</a>
+</p>
