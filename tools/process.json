@@ -1,0 +1,240 @@
+[
+  {
+    "command": "/anim fight1",
+    "tags": [
+      "fighting",
+      "ground",
+      "loop",
+      "stomp"
+    ]
+  },
+  {
+    "command": "/anim fight10",
+    "tags": [
+      "fighting",
+      "loop",
+      "headbutt"
+    ]
+  },
+  {
+    "command": "/anim fight11",
+    "tags": [
+      "fighting",
+      "loop",
+      "fight",
+      "fist",
+      "squareup",
+      "stance"
+    ]
+  },
+  {
+    "command": "/anim fight12",
+    "tags": [
+      "fighting",
+      "ground",
+      "loop",
+      "cover",
+      "down",
+      "hand",
+      "head",
+      "lay"
+    ]
+  },
+  {
+    "command": "/anim fight13",
+    "tags": [
+      "fighting",
+      "ground",
+      "loop",
+      "cover",
+      "down",
+      "fetal",
+      "lay"
+    ]
+  },
+  {
+    "command": "/anim fight2",
+    "tags": [
+      "fighting",
+      "loop",
+      "body",
+      "fist",
+      "punch"
+    ]
+  },
+  {
+    "command": "/anim fight3",
+    "tags": [
+      "fighting",
+      "loop",
+      "fist",
+      "hook",
+      "left",
+      "punch"
+    ]
+  },
+  {
+    "command": "/anim fight4",
+    "tags": [
+      "fighting",
+      "loop",
+      "down",
+      "hard",
+      "kick"
+    ]
+  },
+  {
+    "command": "/anim fight5",
+    "tags": [
+      "fighting",
+      "loop",
+      "fist",
+      "hook",
+      "punch",
+      "right"
+    ]
+  },
+  {
+    "command": "/anim fight6",
+    "tags": [
+      "fighting",
+      "loop",
+      "elbow",
+      "right"
+    ]
+  },
+  {
+    "command": "/anim fight7",
+    "tags": [
+      "fighting",
+      "loop",
+      "fist",
+      "punch",
+      "uppercut"
+    ]
+  },
+  {
+    "command": "/anim fight8",
+    "tags": [
+      "fighting",
+      "loop",
+      "fist",
+      "hook",
+      "left",
+      "punch"
+    ]
+  },
+  {
+    "command": "/anim fight9",
+    "tags": [
+      "fighting",
+      "loop",
+      "back",
+      "right",
+      "slap"
+    ]
+  },
+  {
+    "command": "/anim hitfall1",
+    "tags": [
+      "fighting",
+      "ground",
+      "scene",
+      "down",
+      "punched",
+      "stabbed"
+    ]
+  },
+  {
+    "command": "/anim hitfall2",
+    "tags": [
+      "fighting",
+      "ground",
+      "scene",
+      "down",
+      "punched",
+      "stabbed"
+    ]
+  },
+  {
+    "command": "/anim injuredcrawl",
+    "tags": [
+      "fighting",
+      "loop",
+      "controls",
+      "crawl",
+      "injured"
+    ]
+  },
+  {
+    "command": "/anim injuredcrawl2",
+    "tags": [
+      "fighting",
+      "loop",
+      "controls",
+      "crawl",
+      "injured"
+    ]
+  },
+  {
+    "command": "/anim kicking1",
+    "tags": [
+      "fighting",
+      "ground",
+      "loop",
+      "kick"
+    ]
+  },
+  {
+    "command": "/anim kicking2",
+    "tags": [
+      "fighting",
+      "ground",
+      "loop",
+      "hard",
+      "kick"
+    ]
+  },
+  {
+    "command": "/anim lowkick",
+    "tags": [
+      "fighting",
+      "ground",
+      "loop",
+      "hard",
+      "kick",
+      "stomp"
+    ]
+  },
+  {
+    "command": "/anim meleehitground",
+    "tags": [
+      "fighting",
+      "ground",
+      "loop",
+      "hit",
+      "item",
+      "melee",
+      "weapon"
+    ]
+  },
+  {
+    "command": "/anim middlekick",
+    "tags": [
+      "fighting",
+      "loop",
+      "kick",
+      "run"
+    ]
+  },
+  {
+    "command": "/anim shoved",
+    "tags": [
+      "fighting",
+      "loop",
+      "pushed",
+      "shoved",
+      "stumbled"
+    ]
+  }
+]

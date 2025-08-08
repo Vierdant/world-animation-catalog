@@ -26,9 +26,12 @@ export function createFuse(items) {
   return new Fuse(items, fuseOptions);
 }
 
+// Cache for parsed search terms
+const searchTermsCache = new Map();
+
 /**
  * Filters a list of animations based on search terms and options.
- * Prioritizes favorites if search is active.
+ * Optimized with caching and reduced computational overhead.
  * 
  * @param {any[]} animations - The full list of animations
  * @param {string} search - The debounced search string
@@ -40,18 +43,36 @@ export function createFuse(items) {
  */
 export function getFilteredAnimations(animations, search, showAdult, fuse, favorites, showOnlyFavorites) {
   const trimmedSearch = search.trim().toLowerCase();
-  const terms = parseSearchTerms(trimmedSearch);
+  
+  // Early return if no search and no filters
+  if (!trimmedSearch && showAdult && !showOnlyFavorites) {
+    return animations;
+  }
+
+  // Cache parsed search terms
+  let terms;
+  if (searchTermsCache.has(trimmedSearch)) {
+    terms = searchTermsCache.get(trimmedSearch);
+  } else {
+    terms = parseSearchTerms(trimmedSearch);
+    searchTermsCache.set(trimmedSearch, terms);
+  }
+
   const regularTerms = terms.filter(t => !t.includes(":") && !t.startsWith("-"));
   const advancedTerms = terms.filter(t => t.includes(":") || t.startsWith("-"));
 
   let results = animations;
 
+  // Apply Fuse.js search only if there are regular terms
   if (regularTerms.length > 0 && fuse) {
-    const fuseResults = fuse.search(regularTerms.join(" "));
+    const searchQuery = regularTerms.join(" ");
+    const fuseResults = fuse.search(searchQuery);
 
+    // Optimize sorting by pre-computing favorite status
+    const favoriteSet = new Set(favorites);
     fuseResults.sort((a, b) => {
-      const aFav = favorites.has(a.item.command);
-      const bFav = favorites.has(b.item.command);
+      const aFav = favoriteSet.has(a.item.command);
+      const bFav = favoriteSet.has(b.item.command);
 
       if (aFav !== bFav) return bFav ? 1 : -1; // favorited items come first
       return (a.score ?? 0) - (b.score ?? 0); // lower score = better match
@@ -60,48 +81,55 @@ export function getFilteredAnimations(animations, search, showAdult, fuse, favor
     results = fuseResults.map(r => r.item);
   }
 
+  // Apply adult filter
   if (!showAdult) {
-    results = results.filter(cmd =>
-      !cmd.tags?.map((/** @type {string} */ t) => t.toLowerCase()).includes("adult")
-    );
+    results = results.filter(cmd => {
+      const tags = cmd.tags;
+      if (!tags || !Array.isArray(tags)) return true;
+      return !tags.some(tag => tag.toLowerCase() === "adult");
+    });
   }
 
-  // Apply advanced tag:name:command filtering
-  results = results.filter((cmd) => {
-    const name = (cmd.name ?? "").toLowerCase();
-    const command = (cmd.command ?? "").toLowerCase();
-    const tags = (cmd.tags ?? []).map((/** @type {string} */ t) => t.toLowerCase());
+  // Apply advanced filtering only if there are advanced terms
+  if (advancedTerms.length > 0) {
+    results = results.filter((cmd) => {
+      const name = (cmd.name ?? "").toLowerCase();
+      const command = (cmd.command ?? "").toLowerCase();
+      const tags = (cmd.tags ?? []).map(t => t.toLowerCase());
 
-    return advancedTerms.every((term) => {
-      const isNegated = term.startsWith("-");
-      const [prefix, rawValue] = term.replace("-", "").split(":", 2);
-      const value = rawValue?.trim();
+      return advancedTerms.every((term) => {
+        const isNegated = term.startsWith("-");
+        const [prefix, rawValue] = term.replace("-", "").split(":", 2);
+        const value = rawValue?.trim();
 
-      let match = false;
+        let match = false;
 
-      switch (prefix) {
-        case "tag":
-          match = tags.some((/** @type {string | string[]} */ t) => t.includes(value));
-          break;
-        case "name":
-          match = name.includes(value);
-          break;
-        case "command":
-          match = command.includes(value);
-          break;
-        default:
-          match =
-            name.includes(term) ||
-            command.includes(term) ||
-            tags.some((/** @type {string | string[]} */ t) => t.includes(term));
-      }
+        switch (prefix) {
+          case "tag":
+            match = tags.some(t => t.includes(value));
+            break;
+          case "name":
+            match = name.includes(value);
+            break;
+          case "command":
+            match = command.includes(value);
+            break;
+          default:
+            match =
+              name.includes(term) ||
+              command.includes(term) ||
+              tags.some(t => t.includes(term));
+        }
 
-      return isNegated ? !match : match;
+        return isNegated ? !match : match;
+      });
     });
-  });
+  }
 
+  // Apply favorites filter
   if (showOnlyFavorites) {
-    results = results.filter(cmd => favorites.has(cmd.command))
+    const favoriteSet = new Set(favorites);
+    results = results.filter(cmd => favoriteSet.has(cmd.command));
   }
 
   return results;

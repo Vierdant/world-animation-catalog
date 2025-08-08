@@ -9,10 +9,8 @@ export async function httpFetch(url, options = {}) {
         const { fetch } = await import('@tauri-apps/plugin-http');
         return await fetch(url, options);
     } else {
-        const res = await fetch(url, options);
-        return {
-            json: async () => await res.json()
-        };
+        // For web environment, use native fetch
+        return await fetch(url, options);
     }
 }
 

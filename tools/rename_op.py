@@ -1,19 +1,11 @@
 import os
 
 original_filenames = [
-    "signanddance1.png",
-    "signanddance2.png",
-    "signanddance3.png",
-    "signanddance4.png",
-    "signanddance5.png",
+    "enginemechanic.png",
 ]
 
 new_filenames = [
-    "singanddance1.png",
-    "singanddance2.png",
-    "singanddance3.png",
-    "singanddance4.png",
-    "singanddance5.png",
+    "enginemechanic1.png"
 ]
 
 
