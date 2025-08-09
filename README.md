@@ -1,34 +1,13 @@
 ![App Preview](./assets/application_preview.png)
 
-<p align="center">
-  <a href="https://gtaw-ac.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/netlify/dacd955c-95ec-48bd-a97d-f25f65a864ad?style=for-the-badge&logo=netlify&logoColor=white&label=Web%20App&labelColor=00C7B7&color=4A90E2" alt="Launch Web App" />
-  </a>
-  <a href="https://github.com/vierdant/world-animation-catalog/releases" target="_blank">
-    <img src="https://img.shields.io/github/downloads/vierdant/world-animation-catalog/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&labelColor=6366f1&color=8b5cf6" alt="Total Downloads" />
-  </a>
-  <a href="https://github.com/vierdant/world-animation-catalog/releases/latest" target="_blank">
-    <img src="https://img.shields.io/github/v/release/vierdant/world-animation-catalog?display_name=tag&style=for-the-badge&logo=git&logoColor=white&label=Latest&labelColor=059669&color=10b981" alt="Latest Release" />
-  </a>
-  <a href="https://discord.com/invite/cnknQJDBer" target="_blank">
-    <img src="https://img.shields.io/discord/1016003234739277884?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&color=7289DA" alt="Join Discord Server" />
-  </a>
-</p>
-<br/>
-<p align="center">
-  <a href="https://github.com/vierdant/world-animation-catalog/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/vierdant/world-animation-catalog?style=for-the-badge&logo=star&logoColor=white&label=Stars&labelColor=f59e0b&color=fbbf24" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/vierdant/world-animation-catalog/forks" target="_blank">
-    <img src="https://img.shields.io/github/forks/vierdant/world-animation-catalog?style=for-the-badge&logo=git&logoColor=white&label=Forks&labelColor=64748b&color=94a3b8" alt="GitHub Forks" />
-  </a>
-  <a href="https://github.com/vierdant/world-animation-catalog/blob/main/LICENSE" target="_blank">
-    <img src="https://img.shields.io/github/license/vierdant/world-animation-catalog?style=for-the-badge&logo=opensourceinitiative&logoColor=white&label=License&labelColor=22c55e&color=16a34a" alt="MIT License" />
-  </a>
-  <a href="https://github.com/vierdant/world-animation-catalog/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/vierdant/world-animation-catalog?style=for-the-badge&logo=git&logoColor=white&label=Updated&labelColor=ef4444&color=f87171" alt="Last Commit" />
-  </a>
-</p>
+<div align="center">
+
+[![Launch Web App](https://img.shields.io/netlify/dacd955c-95ec-48bd-a97d-f25f65a864ad?style=for-the-badge&logo=netlify&logoColor=white&label=Web%20App&labelColor=00C7B7&color=4A90E2)](https://gtaw-ac.netlify.app/)
+[![Total Downloads](https://img.shields.io/github/downloads/vierdant/world-animation-catalog/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&labelColor=6366f1&color=8b5cf6)](https://github.com/vierdant/world-animation-catalog/releases)
+[![Latest Release](https://img.shields.io/github/v/release/vierdant/world-animation-catalog?display_name=tag&style=for-the-badge&logo=git&logoColor=white&label=Latest&labelColor=059669&color=10b981)](https://github.com/vierdant/world-animation-catalog/releases/latest)
+[![Join Discord Server](https://img.shields.io/discord/1402709026076229704?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&color=7289DA)](https://discord.com/invite/cnknQJDBer)
+
+</div>
 
 # World Animation Catalog
 
