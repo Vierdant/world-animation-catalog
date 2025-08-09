@@ -39,13 +39,6 @@
         user-select: none;
     }
 
-    .toggle-container:hover {
-        background: var(--bg-tertiary);
-        border-color: var(--border-secondary);
-        transform: translateY(-1px);
-        box-shadow: var(--shadow-sm);
-    }
-
     .toggle-content {
         display: flex;
         align-items: center;
@@ -145,14 +138,6 @@
 
     input:focus-visible + .slider {
         box-shadow: 0 0 0 3px rgba(88, 101, 242, 0.2);
-    }
-
-    .toggle-container:hover .slider {
-        background: var(--border-secondary);
-    }
-
-    .toggle-container:hover input:checked + .slider {
-        background: var(--accent-secondary);
     }
 
     /* Responsive adjustments */

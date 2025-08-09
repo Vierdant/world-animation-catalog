@@ -48,29 +48,20 @@
      * @param {{ command: string }} animation
      */
     function handleImageError(event: Event, animation: { command: string }) {
-        const img = event.target;
+        const img = event.target as HTMLImageElement;
         const maxRetries = 3;
-        if (!img) {
-            return;
-        }
-        // @ts-ignore
-        const retryCount = img.dataset.retryCount
-            // @ts-ignore
-            ? parseInt(img.dataset.retryCount)
-            : 0;
+        if (!img) return;
+        
+        const retryCount = parseInt(img.dataset.retryCount || '0');
 
         if (retryCount < maxRetries) {
-            // @ts-ignore
-            img.dataset.retryCount = retryCount + 1;
+            img.dataset.retryCount = String(retryCount + 1);
             const src = GITHUB_IMAGE_REPO + formatImageName(animation.command) + ".png";
             // Add a cache-busting parameter
-            // @ts-ignore
-            img.src = src + "?retry=" + Date.now();
+            img.src = `${src}?retry=${Date.now()}`;
         } else {
-            // @ts-ignore
             img.alt = "Failed to load preview.";
-            // @ts-ignore
-            img.style.opacity = 0.4;
+            img.style.opacity = '0.4';
             imageError = true;
         }
     }
@@ -95,9 +86,27 @@
             await showmodal(imageSrc);
         }
     }
+
+    function handleCardClick(event: Event) {
+        // Don't trigger if clicking on interactive elements
+        const target = event.target as HTMLElement;
+        
+        // Single check using closest() is more efficient
+        if (!target.closest('button')) {
+            copyCommand(animation.command);
+        }
+    }
+
+    function handleCardKeydown(event: KeyboardEvent) {
+        if (event.key === 'Enter' || event.key === ' ') {
+            event.preventDefault();
+            copyCommand(animation.command);
+        }
+    }
 </script>
 
-<div class="animation-card">
+<!-- svelte-ignore a11y_no_static_element_interactions -->
+<div class="animation-card" onclick={handleCardClick} onkeydown={handleCardKeydown} role="button" tabindex="0" aria-label="Copy animation command: {animation.command}">
     <div class="card-header">
         <div class="title-section">
             <h3 class="animation-title">{formattedName}</h3>
@@ -192,14 +201,18 @@
         border: 1px solid var(--border-primary);
         border-radius: var(--radius-lg);
         padding: var(--spacing-lg);
-        transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
+        transition: transform 0.08s ease-out, background-color 0.08s ease-out, border-color 0.08s ease-out;
         display: flex;
         flex-direction: column;
         height: 100%;
         position: relative;
         overflow: hidden;
         box-shadow: var(--shadow-sm);
-        will-change: transform, box-shadow, background-color, border-color;
+        cursor: pointer;
+        /* Set will-change permanently for hover-heavy elements */
+        will-change: transform, background-color, border-color;
+        /* Force GPU layer for better performance */
+        transform: translateZ(0);
     }
 
     .animation-card::before {
@@ -211,19 +224,26 @@
         height: 2px;
         background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
         opacity: 0;
-        transition: opacity 0.15s ease;
-        will-change: opacity;
+        transition: opacity 0.08s ease-out;
+        /* Force own GPU layer */
+        transform: translateZ(0);
     }
 
     .animation-card:hover {
         background: var(--bg-tertiary);
         border-color: var(--border-secondary);
-        transform: translateY(-2px);
-        box-shadow: var(--shadow-lg);
+        /* Use scale instead of translateY for better performance */
+        transform: translateZ(0) scale(1.01);
     }
 
-    .animation-card:hover::before {
+    .animation-card:hover::before,
+    .animation-card:focus-visible::before {
         opacity: 1;
+    }
+
+    .animation-card:focus-visible {
+        outline: 2px solid var(--accent-primary);
+        outline-offset: 2px;
     }
 
     .card-header {
@@ -250,15 +270,7 @@
         white-space: nowrap;
     }
 
-    .command-preview {
-        font-size: 0.85rem;
-        color: var(--text-muted);
-        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
-        background: var(--bg-primary);
-        padding: var(--spacing-xs) var(--spacing-sm);
-        border-radius: var(--radius-sm);
-        display: inline-block;
-    }
+
 
     .action-buttons {
         display: flex;
@@ -275,29 +287,20 @@
         border-radius: var(--radius-md);
         border: none;
         cursor: pointer;
-        transition: background-color 0.1s ease, color 0.1s ease;
+        transition: background-color 0.06s ease-out, color 0.06s ease-out, transform 0.06s ease-out;
         background: var(--bg-primary);
         color: var(--text-secondary);
         position: relative;
         overflow: hidden;
-        will-change: background-color, color;
+        /* Force GPU layer */
+        transform: translateZ(0);
+        will-change: transform, background-color, color;
     }
 
-    .action-btn::before {
-        content: '';
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background: currentColor;
-        opacity: 0;
-        transition: opacity 0.1s ease;
-        will-change: opacity;
-    }
-
-    .action-btn:hover::before {
-        opacity: 0.1;
+    .action-btn:hover {
+        background: var(--bg-tertiary);
+        color: var(--text-primary);
+        transform: translateZ(0) scale(1.02);
     }
 
     .action-btn svg {
@@ -369,9 +372,11 @@
         height: 100%;
         object-fit: cover;
         object-position: center top;
-        transition: opacity 0.2s ease, transform 0.15s ease;
+        transition: opacity 0.2s ease, transform 0.06s ease-out;
         opacity: 0;
-        will-change: opacity, transform;
+        /* Force GPU layer */
+        transform: translateZ(0);
+        will-change: transform, opacity;
     }
 
     .preview-image.loaded {
@@ -379,33 +384,10 @@
     }
 
     .preview-button:hover .preview-image {
-        transform: scale(1.05);
+        transform: translateZ(0) scale(1.015);
     }
 
-    .overlay {
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background: rgba(0, 0, 0, 0.5);
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        opacity: 0;
-        transition: opacity 0.15s ease;
-        will-change: opacity;
-    }
 
-    .preview-button:hover .overlay {
-        opacity: 1;
-    }
-
-    .zoom-icon {
-        width: 32px;
-        height: 32px;
-        color: var(--text-primary);
-    }
 
     .loading-placeholder,
     .error-placeholder {
@@ -467,14 +449,16 @@
         background: var(--tag-color);
         border: none;
         cursor: pointer;
-        transition: transform 0.1s ease, filter 0.1s ease;
+        transition: transform 0.06s ease-out, filter 0.06s ease-out;
         text-transform: capitalize;
         line-height: 1;
+        /* Force GPU layer */
+        transform: translateZ(0);
         will-change: transform, filter;
     }
 
     .tag-btn:hover {
-        transform: scale(1.05);
+        transform: translateZ(0) scale(1.02);
         filter: brightness(1.1);
     }
 
