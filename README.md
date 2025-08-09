@@ -6,6 +6,7 @@
 [![Total Downloads](https://img.shields.io/github/downloads/vierdant/world-animation-catalog/total?style=for-the-badge&logo=github&logoColor=white&label=Downloads&labelColor=7209B7&color=A663CC)](https://github.com/vierdant/world-animation-catalog/releases)
 [![Latest Release](https://img.shields.io/github/v/release/vierdant/world-animation-catalog?display_name=tag&style=for-the-badge&logo=git&logoColor=white&label=Latest&labelColor=2E8B57&color=32CD32)](https://github.com/vierdant/world-animation-catalog/releases/latest)
 [![Join Discord Server](https://img.shields.io/discord/1402709026076229704?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&color=7289DA)](https://discord.com/invite/cnknQJDBer)
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=FF5E5B&color=FF7878)](https://ko-fi.com/vierdant)
 
 </div>
 
