@@ -23,7 +23,7 @@ A comprehensive, searchable catalog of in-game and custom animations for GTA: Wo
 
 Every roleplayer has experienced this frustration: you're in the perfect moment for a specific animation, but you either don't know it exists or can't remember the command. The in-game animation system works well for favorites and basics, but without extensive testing and memorization, you're left thinking:
 
-> *"I wish I knew what that animation looked like—I would've used it here."*
+> *"I wish I remembered what that animation's name was and what it looked like—I would've used it here."*
 
 Hours spent scrolling through menus, testing animations, and enduring awkward mid-scene pauses just to find the right gesture shouldn't be part of the roleplay experience.
 
@@ -43,8 +43,7 @@ This application eliminates that friction entirely. It delivers a seamless, nati
 ### Content & Filtering
 - **Adult Content Toggle**: Optional filtering for sensitive content
 - **Responsive Design**: Works seamlessly on desktop and mobile
-- **Live Data**: Always up-to-date animation catalog hosted on GitHub
-- **erformance Optimized**: Lightning-fast search and smooth interactions
+- **Performance Optimized**: Lightning-fast search and smooth interactions
 
 ### Data Management
 - **Export/Import**: Backup and share your favorites and settings
@@ -53,18 +52,17 @@ This application eliminates that friction entirely. It delivers a seamless, nati
 
 ## 🌐 Access Options
 
-### Web Version (Recommended)
+### Web Version
 No installation required! Access the full-featured web version instantly:
 
 **[🚀 Launch Web App](https://gtaw-ac.netlify.app/)**
 
 Perfect for:
-- Quick lookups during gameplay
 - Sharing with friends
 - Trying before installing
 - Cross-platform compatibility
 
-### Desktop Application
+### Desktop Application (Recommended)
 For the ultimate experience, download our native desktop app:
 
 1. Visit the [**Releases Page**](https://github.com/Vierdant/world-animation-catalog/releases)

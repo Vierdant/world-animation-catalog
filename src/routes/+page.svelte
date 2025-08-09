@@ -630,7 +630,7 @@
           <button
             class="support-button"
             onclick={() =>
-              openExternalLink("https://discord.gg/your-discord-invite")}
+              openExternalLink("https://discord.com/invite/cnknQJDBer")}
           >
             <span>Join</span>
             <svg viewBox="0 0 24 24" fill="currentColor">
@@ -655,7 +655,7 @@
           </div>
           <button
             class="support-button kofi-button"
-            onclick={() => openExternalLink("https://ko-fi.com/your-username")}
+            onclick={() => openExternalLink("https://ko-fi.com/vierdant")}
           >
             <span>Visit</span>
             <svg viewBox="0 0 24 24" fill="currentColor">
