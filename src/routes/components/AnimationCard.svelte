@@ -9,7 +9,7 @@
     let imageError = $state(false);
 
     // Memoized values to prevent unnecessary recalculations
-    let imageSrc = $derived(GITHUB_IMAGE_REPO + formatImageName(animation.command) + ".png");
+    let imageSrc = $derived(GITHUB_IMAGE_REPO + (animation.name ? animation.name : formatImageName(animation.command)) + ".png");
     let formattedName = $derived(formatName(animation));
 
     /**
