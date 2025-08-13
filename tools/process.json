@@ -1,240 +1,140 @@
 [
   {
-    "command": "/anim fight1",
+    "name": "ModelLean",
+    "command": "/customanim duopose34 repeat duopose18 upperbody",
     "tags": [
-      "fighting",
-      "ground",
-      "loop",
-      "stomp"
+      "custom",
+      "photography",
+      "pose",
+      "leaning",
+      "female"
     ]
   },
   {
-    "command": "/anim fight10",
+    "name": "ModelLeanCover",
+    "command": "/customanim duopose34 repeat duopose31 upperbody",
     "tags": [
-      "fighting",
-      "loop",
-      "headbutt"
+      "custom",
+      "photography",
+      "pose",
+      "leaning",
+      "female",
+      "cover"
     ]
   },
   {
-    "command": "/anim fight11",
+    "name": "ModelPose",
+    "command": "/customanim duopose34 repeat femalenewpose4 upperbody",
     "tags": [
-      "fighting",
-      "loop",
-      "fight",
-      "fist",
-      "squareup",
-      "stance"
+      "custom",
+      "photography",
+      "pose",
+      "female",
+      "waist"
     ]
   },
   {
-    "command": "/anim fight12",
+    "name": "FemaleBusinessSit",
+    "command": "/customanim femalerelaxedsitting10 repeat crossedlegarmchair1 upperbody",
     "tags": [
-      "fighting",
-      "ground",
-      "loop",
-      "cover",
-      "down",
-      "hand",
-      "head",
-      "lay"
+      "custom",
+      "photography",
+      "pose",
+      "female",
+      "sitting",
+      "important",
+      "business"
     ]
   },
   {
-    "command": "/anim fight13",
+    "name": "FemalePursesit",
+    "command": "/customanim femalerelaxedsitting10 repeat pauliewalnuts4 upperbody",
     "tags": [
-      "fighting",
-      "ground",
-      "loop",
-      "cover",
-      "down",
-      "fetal",
-      "lay"
+      "custom",
+      "photography",
+      "pose",
+      "female",
+      "sitting"
     ]
   },
   {
-    "command": "/anim fight2",
+    "name": "FemaleComposedSit",
+    "command": "/customanim femalerelaxedsitting10 repeat femalecampose5 upperbody",
     "tags": [
-      "fighting",
-      "loop",
-      "body",
-      "fist",
-      "punch"
+      "custom",
+      "photography",
+      "pose",
+      "female",
+      "sitting",
+      "composed",
+      "character"
     ]
   },
   {
-    "command": "/anim fight3",
+    "name": "FemaleDuoHugSit",
+    "command": "/customanim femalerelaxedsitting10 repeat duopose24 upperbody",
     "tags": [
-      "fighting",
-      "loop",
-      "fist",
-      "hook",
-      "left",
-      "punch"
+      "custom",
+      "photography",
+      "pose",
+      "female",
+      "sitting",
+      "duo",
+      "hug"
     ]
   },
   {
-    "command": "/anim fight4",
+    "name": "FemaleCharacterSit",
+    "command": "/customanim femalerelaxedsitting10 repeat smoke2 upperbody",
     "tags": [
-      "fighting",
-      "loop",
-      "down",
-      "hard",
-      "kick"
+      "custom",
+      "photography",
+      "pose",
+      "female",
+      "sitting",
+      "character",
+      "boss"
     ]
   },
   {
-    "command": "/anim fight5",
+    "name": "FemaleShoulderLeanSit",
+    "command": "/customanim femalerelaxedsitting10 repeat headonshouldersf upperbody",
     "tags": [
-      "fighting",
-      "loop",
-      "fist",
-      "hook",
-      "punch",
-      "right"
+      "custom",
+      "photography",
+      "pose",
+      "female",
+      "sitting",
+      "lean",
+      "shoulder",
+      "cute",
+      "duo"
     ]
   },
   {
-    "command": "/anim fight6",
+    "name": "StandHugPose",
+    "command": "/customanim duopose33 repeat duopose32 upperbody",
     "tags": [
-      "fighting",
-      "loop",
-      "elbow",
-      "right"
+      "custom",
+      "photography",
+      "pose",
+      "standing",
+      "hug",
+      "shoulder",
+      "cute",
+      "duo"
     ]
   },
   {
-    "command": "/anim fight7",
+    "name": "SideHandsupPose",
+    "command": "/customanim leaningrail1 stoplastframe handsup upperbody",
     "tags": [
-      "fighting",
-      "loop",
-      "fist",
-      "punch",
-      "uppercut"
-    ]
-  },
-  {
-    "command": "/anim fight8",
-    "tags": [
-      "fighting",
-      "loop",
-      "fist",
-      "hook",
-      "left",
-      "punch"
-    ]
-  },
-  {
-    "command": "/anim fight9",
-    "tags": [
-      "fighting",
-      "loop",
-      "back",
-      "right",
-      "slap"
-    ]
-  },
-  {
-    "command": "/anim hitfall1",
-    "tags": [
-      "fighting",
-      "ground",
-      "scene",
-      "down",
-      "punched",
-      "stabbed"
-    ]
-  },
-  {
-    "command": "/anim hitfall2",
-    "tags": [
-      "fighting",
-      "ground",
-      "scene",
-      "down",
-      "punched",
-      "stabbed"
-    ]
-  },
-  {
-    "command": "/anim injuredcrawl",
-    "tags": [
-      "fighting",
-      "loop",
-      "controls",
-      "crawl",
-      "injured"
-    ]
-  },
-  {
-    "command": "/anim injuredcrawl2",
-    "tags": [
-      "fighting",
-      "loop",
-      "controls",
-      "crawl",
-      "injured"
-    ]
-  },
-  {
-    "command": "/anim kicking1",
-    "tags": [
-      "fighting",
-      "ground",
-      "loop",
-      "kick"
-    ]
-  },
-  {
-    "command": "/anim kicking2",
-    "tags": [
-      "fighting",
-      "ground",
-      "loop",
-      "hard",
-      "kick"
-    ]
-  },
-  {
-    "command": "/anim lowkick",
-    "tags": [
-      "fighting",
-      "ground",
-      "loop",
-      "hard",
-      "kick",
-      "stomp"
-    ]
-  },
-  {
-    "command": "/anim meleehitground",
-    "tags": [
-      "fighting",
-      "ground",
-      "loop",
-      "hit",
-      "item",
-      "melee",
-      "weapon"
-    ]
-  },
-  {
-    "command": "/anim middlekick",
-    "tags": [
-      "fighting",
-      "loop",
-      "kick",
-      "run"
-    ]
-  },
-  {
-    "command": "/anim shoved",
-    "tags": [
-      "fighting",
-      "loop",
-      "pushed",
-      "shoved",
-      "stumbled"
+      "custom",
+      "photography",
+      "pose",
+      "standing",
+      "handsup",
+      "shoulder"
     ]
   }
 ]
