@@ -47,7 +47,7 @@
     ]
   },
   {
-    "name": "FemalePursesit",
+    "name": "FemalePurseSit",
     "command": "/customanim femalerelaxedsitting10 repeat pauliewalnuts4 upperbody",
     "tags": [
       "custom",
